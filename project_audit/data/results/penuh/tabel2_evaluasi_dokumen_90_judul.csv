@@ -1,0 +1,91 @@
+topic_id,nomor_dokumen,judul_asli,kategori_kesesuaian,alasan,catatan_verifikasi
+5,0,"Eco-Shadaqah, Inovasi Mahasiswa BBK 7 UNAIR Mengelola Sampah Jadi Infaq di Desa Golokan",Sesuai,Inovasi mahasiswa mengelola dan memanfaatkan sampah menjadi infaq.,
+5,1,Mahasiswa KKN UNTAG Surabaya Melakukan Program Pemilihan Sampah Organik dan Anongarnik di Kawasan Wisata Pohon Loa Banggle,Sesuai,Program pemilahan sampah organik-anorganik oleh mahasiswa KKN di kawasan wisata.,
+5,2,Mahasiswa KKN UA Ajak Pelajar Sumenep Lawan Sampah dari Sekolah,Sesuai,KKN mengajak pelajar melawan sampah mulai dari sekolah.,
+5,3,"Sekolah FIES Hadirkan Wajah Pendidikan Humanis, Observasi ke TPA dan Bank Sampah Website | Kabupaten Sumenep",Sesuai,Edukasi sekolah melalui observasi TPA dan bank sampah.,
+5,4,Pemkab Situbondo dukung pemuda inovatif bikin pupuk cair limbah udang Antara News jatim,Sesuai,Inovasi pemuda mengolah limbah udang menjadi pupuk cair.,
+5,5,Kampung Edukasi Sampah Sidoarjo panen kompos dari sumur resapan Antara News jatim,Sesuai,Kampung edukasi sampah memanfaatkan sampah menjadi kompos.,
+5,6,"Peduli Lingkungan, Emak-Emak di Cerme Gresik Belajar Pengelolaan Bank Sampah",Sesuai,Pelatihan pengelolaan bank sampah untuk warga.,
+5,7,WCDI Jember Gencarkan Edukasi Pengelolaan Sampah,Sesuai,Kegiatan edukasi pengelolaan sampah.,
+5,8,Pelajar di Surabaya Sulap Limbah Kresek Jadi Kerajinan Rajutan Ekonomis,Sesuai,Pelajar memanfaatkan limbah plastik menjadi kerajinan bernilai.,
+5,9,"ESSIL: Inovasi Pengusir Lalat Ramah Lingkungan, Karya Mahasiswa UM Raih Juara di Singapura Universitas Negeri Malang (UM)",Berkaitan,"Inovasi ramah lingkungan karya mahasiswa, tetapi bukan pengolahan sampah/limbah.",Kaitan ke tema dominan hanya lewat tema umum 'inovasi mahasiswa'.
+5,10,"Sulap Limbah Kulit Jeruk Jadi Spray Nyamuk, Mahasiswa MMD Bagi Ilmu ke Masyarakat Poncokusumo",Sesuai,Mahasiswa mengolah limbah kulit jeruk menjadi produk dan membagi ilmu ke warga.,
+5,11,"Gelar LIC, SD-Mu Limas Ajak Siswa dan Anak TK Peduli Daur Ulang Sampah Serta Ramaikan lomba",Sesuai,Edukasi daur ulang sampah bagi siswa dan anak TK.,
+5,12,Mahasiswa KKN UMD 275 UNEJ Tahun 2022 Wujudkan Pengadaan Tong Sampah di Desa Grujugan Lor,Sesuai,KKN mewujudkan pengadaan tong sampah di desa.,
+5,13,RPH Kota Palembang Belajar Pengelolaan Limbah di BBPP Batu,Sesuai,Kunjungan belajar pengelolaan limbah.,"Rombongan dari Palembang, kegiatan di Batu (Jatim); cek relevansi cakupan wilayah penelitian."
+5,14,Mahasiswa Lintas Kampus Laporkan Dugaan Pencemaran Kali Surabaya ke Gakkum KLH,Tidak sesuai,Pelaporan dugaan pencemaran sungai ke gakkum; tema berbeda dari edukasi/pemanfaatan sampah.,Kesamaan hanya aktor 'mahasiswa'; tidak boleh disamakan hanya karena kata sama.
+16,15,"Annuqayah Sumenep, 1 dari 3 Pesantren di Indonesia yang Berwawasan Lingkungan Hidup",Berkaitan,Institusi berwawasan lingkungan hidup; aspek sampah tidak disebut eksplisit.,Cek apakah program pesantren mencakup pengelolaan sampah.
+16,16,Sampah Mulai Jadi Ancaman Kawasan Konservasi dan Obyek Wisata Alam di Jawa Timur Voice of America Indonesia,Sesuai,Ancaman sampah bagi kawasan konservasi dan obyek wisata.,
+16,17,Selecta Kota Batu Jadi Wisata Bebas Sampah Pertama di Indonesia,Sesuai,Wisata bebas sampah.,
+16,18,"Berpakaian 'Ikan', Sejumlah Anak Aksi Tolak Buang Sampah ke Sungai Voice of America Indonesia",Sesuai,Aksi anak menolak buang sampah ke sungai.,
+16,19,Indonesia Kontributor Sampah Plastik di Laut Terbesar di Dunia ANTARA News Bangka Belitung,Sesuai,Persoalan sampah plastik laut pada tingkat nasional.,
+16,20,"Rampung 2027, Jakarta Bakal Punya Sistem Pengolahan Limbah Terbesar Se-ASEAN",Sesuai,Pembangunan sistem pengolahan limbah.,"Lokasi Jakarta (luar Jatim); dinilai dari temanya sesuai batasan, cek ruang lingkup penelitian."
+16,21,Semen Indonesia Akan Manfaatkan Limbah Batu Bara PLTU,Berkaitan,Pemanfaatan limbah batu bara PLTU oleh industri semen; bukan persoalan sampah publik.,
+16,22,"Pastikan Pelayanan Prima, Kang Marhaen Sidak Kantor PDAM, Sekaligus Memberi Masukan Dan Dorongan Semangat Radar Indonesia Online",Tidak sesuai,Sidak layanan administratif PDAM; judul tidak memuat isu sampah/lingkungan.,
+16,23,Semen Indonesia Bangun Sarana dan Prasarana Air Bersih di Tuban Jawa Timur,Tidak sesuai,Penyediaan sarana air bersih; tema berbeda dari sampah/kebersihan.,Masuk subtema 'air bersih' pada konteks awal topik; tetap isu lingkungan-air.
+16,24,"Gandeng Milion Limbah Indonesia, Rekosistem Resmikan Reko Hub Driyorejo Seluas 16.000 Meter Persegi",Sesuai,Peresmian fasilitas pengelolaan sampah/limbah (Reko Hub).,
+16,25,"Gerakan Indonesia Asri, Polsek Kendit Laksanakan Kerja Bakti Jaga Kebersihan Lingkungan",Sesuai,Kerja bakti menjaga kebersihan lingkungan.,
+16,26,"Pelajari Pengelolaan Sampah dan Teknologi Eco Lindi, Jakarta Barat Studi ke Sidoarjo",Sesuai,Studi banding pengelolaan sampah dan teknologi eco lindi.,Rombongan dari Jakarta Barat; objek studi di Sidoarjo.
+16,27,"Warga Purwodadi Soroti Dugaan Dampak Limbah PT Etika Dairies Indonesia, 25 Rumah Terdampak",Berkaitan,Pencemaran limbah industri pabrik susu; subtema berbeda dari sampah publik.,Beririsan kuat dengan tema dominan Topik 85.
+16,28,Bupati Blitar Fasilitasi Audiensi antara PT. Greenfields Indonesia dan Warga Terdampak Limbah,Berkaitan,Penanganan konflik dampak limbah pabrik; subtema pencemaran industri.,PT Greenfields Blitar; beririsan dengan tema dominan Topik 85.
+16,29,KLHK Catat Setengah Juta Ton Sampah Plastik di Lautan Indonesia,Sesuai,Data sampah plastik di laut.,
+37,30,Pertamina EP pastikan tak ada kebocoran limbah di Ngampel Bojonegoro Antara News jatim,Tidak sesuai,Pengecekan kebocoran limbah migas korporasi; bukan program sampah daerah.,Masih isu limbah industri; subtema berbeda.
+37,31,Kabupaten Madiun terima program LSDP dari pemerintah pusat untuk kelola sampah Antara News jatim,Sesuai,Program pemerintah pusat (LSDP) untuk kelola sampah kabupaten.,
+37,32,"Bupati Trenggalek Ubah Sampah Jadi Bernilai Lewat Konsep Waste to Coin, Seperti Apa?",Sesuai,Inovasi Waste to Coin pengelolaan sampah kabupaten.,
+37,33,Transformasi pengelolaan sampah di Jatim Antara News jatim,Sesuai,Transformasi pengelolaan sampah provinsi.,
+37,34,"""Waste Station"" jadi sarana edukasi warga Situbondo kelola sampah Antara News jatim",Sesuai,Waste Station sebagai sarana edukasi kelola sampah.,
+37,35,Pemkot Kediri operasikan layanan pengelolaan limbah domestik Antara News jatim,Sesuai,Layanan pengelolaan limbah domestik oleh pemkot.,
+37,36,Pemkot Batu tingkatkan kesadaran warga untuk kelola sampah Antara News jatim,Sesuai,Program peningkatan kesadaran kelola sampah warga.,
+37,37,SMPN 3 Banyuwangi jadi contoh pengelolaan sampah berkelanjutan Antara News jatim,Sesuai,Contoh pengelolaan sampah berkelanjutan di sekolah.,
+37,38,"Situbondo Punya Waste Station, Tukar Sampah dengan Uang",Sesuai,Waste station tukar sampah dengan uang.,
+37,39,BGN wajibkan limbah domestik MBG dipantau setiap tiga bulan Antara News jatim,Berkaitan,Pemantauan limbah domestik program MBG; konteks kebijakan program gizi nasional.,"Tema limbah domestik, tetapi bukan sistem sampah daerah."
+37,40,Pengelolaan sampah sirkular di Banyuwangi layani 73 desa Antara News jatim,Sesuai,Pengelolaan sampah sirkular melayani desa.,
+37,41,Pegiat lingkungan soroti perubahan kecil pengolahan sampah Antara News jatim,Sesuai,Sorotan pegiat lingkungan atas pengolahan sampah.,
+37,42,Pemkot Madiun ajak masyarakat memilah sampah dari rumah Antara News jatim,Sesuai,Ajakan memilah sampah dari rumah.,
+37,43,Lalat hitam pengurai sampah organik Antara News jatim,Sesuai,Inovasi penguraian sampah organik dengan lalat hitam.,
+37,44,Kumpulan Artikel Terbaru sanitasi perkotaan,Berkaitan,Sanitasi perkotaan berkaitan dengan pengelolaan sampah/limbah.,"Judul berupa halaman indeks/tag, bukan judul berita tunggal; wajib cek dokumen asli."
+54,45,Memungut Sampah Jadi Rupiah,Sesuai,Sampah bernilai ekonomi (memungut sampah jadi rupiah).,
+54,46,"Ini Doa Cegah Buang Sampah Sembarangan, Patut Dicoba!",Sesuai,Perilaku buang sampah sembarangan dan cara mencegahnya.,Genre rubrik doa; tema tetap perilaku sampah.
+54,47,Mengolah Limbah Ampas Tahu Menjadi Nugget Ampas Tahu,Sesuai,Pemanfaatan limbah ampas tahu menjadi produk makanan.,
+54,48,Sampah: Menggenang Tiada Akhir,Sesuai,Persoalan sampah yang terus menggenang.,
+54,49,Praktik Pungli Dalam Pengelolaan Sampah Halaman 1,Sesuai,Tata kelola: pungli dalam pengelolaan sampah.,
+54,50,Gerobak Sampah Halaman 1,Belum dapat dipastikan,Judul sangat singkat; genre dan isi tidak dapat ditentukan dari judul.,'Halaman 1' mengindikasikan artikel berhalaman; cek isi.
+54,51,"Soal Tumpukan Sampah, Pemdes Pasinan Telah Siapkan Bak Sampah dan Tenaga Kebersihan",Sesuai,Respons pemdes atas tumpukan sampah: bak sampah dan tenaga kebersihan.,
+54,52,"Gak Cuma Lubang Tambang, Limbah Smelter Juga Masih Bermasalah",Tidak sesuai,Persoalan limbah smelter/tambang; tema pencemaran industri.,"Tetap isu lingkungan, tetapi di luar pengelolaan sampah masyarakat."
+54,53,"Forscook Kediri Tolak Keberadaan ""Vespa Sampah"", Utamakan Keselamatan Berkendara",Berkaitan,Menyangkut sarana angkutan sampah; fokus judul penolakan atas dasar keselamatan berkendara.,
+54,54,"Kurangi Genangan, Lebarkan Saluran Pembuangan, Minta Tak Buang Sampah Sembarangan",Berkaitan,Fokus utama drainase/genangan; perilaku buang sampah hanya bagian kecil.,
+54,55,"Diduga Tak Memiliki AMDAL dan IPAL, Polres Madiun Selidiki Gudang dan Pengolahan Porang",Tidak sesuai,Pengawasan dugaan pelanggaran AMDAL/IPAL usaha porang; bukan pengelolaan sampah.,Tetap isu lingkungan (limbah cair/perizinan); subtema berbeda.
+54,56,"Jangan Asal Buang Sampah, Begini Cara Memilah dari Rumah",Sesuai,Edukasi pemilahan sampah dari rumah.,
+54,57,Limbah Jadi Cuan!,Sesuai,Pemanfaatan limbah menjadi bernilai ekonomi.,Judul generik; jenis limbah perlu dicek pada isi.
+54,58,"Popok Sekali Pakai, dari Limbah Menjadi Berkah",Sesuai,Pemanfaatan limbah popok sekali pakai.,
+54,59,"Mesin pengolah sampah sudah tiba, Bestari Anwar : Insyaallah kalau tidak ada kendala akhir bulan mulai trial running",Sesuai,Pengadaan mesin pengolah sampah dan uji coba.,
+57,60,Pemkab Sidoarjo Minta Buat Perdes Sampah Antara News jatim,Sesuai,Rencana peraturan desa tentang sampah (kebijakan).,
+57,61,"Kisah BM Diah, Sosok Wartawan yang Memungut Teks Proklamasi Asli dari Tempat Sampah",Tidak sesuai,Kisah sejarah wartawan memungut teks proklamasi; 'tempat sampah' hanya latar.,Bukan isu sampah/lingkungan.
+57,62,Warga Resah Limbah Pabrik Mi Soun Surya Buana Tulungagung Cemari Lingkungan Media Berita Bangsa,Berkaitan,Pencemaran lingkungan oleh limbah pabrik pangan; subtema pencemaran industri.,
+57,63,"Pabrik Limbah B3 Disorot, Pemberitaan Berbalik Arah, Etika Jurnalistik Dipertanyakan Media Pojok Nasional",Berkaitan,"Isu limbah B3 muncul, tetapi fokus judul etika pemberitaan.",Dua tema dalam satu judul; cek isi.
+57,64,PDAM Kudus mulai perluas bisnis ANTARA News Jateng,Tidak sesuai,Ekspansi bisnis PDAM; bukan isu sampah/limbah.,"Lokasi Kudus (Jateng), luar Jatim."
+57,65,Gresik Siap Peringati Hari Peduli Sampah Nasional 2025 dengan Serangkaian Kegiatan Inovatif Media Pojok Nasional,Sesuai,Peringatan Hari Peduli Sampah Nasional dengan kegiatan.,
+57,66,KLH proses 27 korporasi terlibat pembiaran karhutla Antara News jatim,Tidak sesuai,Penanganan karhutla (korporasi diproses); tema kebakaran hutan/lahan.,Bukan tema sampah/limbah.
+57,67,DLHKP Kota Kediri Siapkan Tim Khusus untuk Jaga Kebersihan Saat Lebaran Detik Global News,Sesuai,Penyiapan tim penjaga kebersihan kota saat Lebaran.,
+57,68,Terkendala Truknya Disperindag Rusak Sampah di Pasar Socah Bangkalan Selama Tiga Minggu Dibiarkan Menumpuk Media Pojok Nasional,Sesuai,Sampah pasar menumpuk akibat kendala truk angkutan.,
+57,69,Pemkot Malang: Perubahan pola pikir masyarakat poin utama tangani sampah Antara News jatim,Sesuai,Kebijakan/pendekatan perubahan pola pikir penanganan sampah.,
+57,70,Debu Di Jalan Babat Jerawat Kecamatan Pakal Surabaya Siksa Pengendara Roda Dua Media Pojok Nasional,Tidak sesuai,Polusi debu jalan raya; bukan sampah/limbah.,Masalah kenyamanan jalan; kaitan tema lemah.
+57,71,Wah! Kabupaten Ini Manfaatkan Limbah Sawit Solusi Kekurangan Listrik ANTARA News Kalteng,Berkaitan,Pemanfaatan limbah sawit menjadi energi; subtema pemanfaatan limbah industri.,"Lokasi Kalimantan Tengah, luar Jatim; dinilai dari temanya."
+57,72,"CV PBS: Mengurai Manfaat Limbah, Membuka Lapangan Pekerjan Baru NU Online Jombang",Berkaitan,Pemanfaatan limbah dan peluang kerja baru; konteks usaha.,Jenis limbah perlu dicek pada isi.
+57,73,Sampah-sampah di Pamekasan itu Membawa Berkah Antara News jatim,Sesuai,Sampah membawa berkah/bernilai ekonomi.,Mekanisme (bank sampah/daur ulang) perlu dicek pada isi.
+57,74,Sampang bangun MCK tekan penyebaran penyakit ANTARA News Megapolitan,Berkaitan,Sanitasi dasar (MCK) untuk menekan penyebaran penyakit; bukan sampah.,Satu-satunya judul yang eksplisit menyentuh aspek kesehatan.
+85,75,"Pencemaran Limbah Pabrik Susu di Blitar, Ini Kata WALHI Jatim",Sesuai,Pencemaran limbah pabrik susu.,
+85,76,"Teliti Sebelum Membeli, Banyak Kambing di Kabupaten Tuban Makan Sampah Rumah Tangga",Berkaitan,"Ternak memakan sampah rumah tangga; tema kesehatan/praktik ternak, bukan limbah ternak.",
+85,77,Penyuluhan Pemanfaatan Limbah Pertanian sebagai Pakan Ternak Alternatif pada Kelompok Ternak MAKMUR Desa Kebondalem Jombang Halaman 1,Berkaitan,Pemanfaatan limbah pertanian sebagai pakan ternak; arah kebalikan dari tema limbah ternak jadi pupuk.,
+85,78,Kader Banteng Ngawi Berbagi Makan Siang dengan Pejuang Rupiah di Tumpukan Sampah Selopuro DPD PDI Perjuangan Jawa Timur,Tidak sesuai,Aksi sosial/politik di lokasi tumpukan sampah; tema bukan limbah peternakan.,'Tumpukan sampah' hanya latar lokasi.
+85,79,Dosen-Mahasiswa UB Cetuskan Pupuk Kanara: Limbah Kambing Banyuwangi Jadi Pupuk Organik,Sesuai,Limbah kambing diolah menjadi pupuk organik.,
+85,80,Komposkan Limbah Sapi Pakai Cacing Tanah Tabloid Sinar Tani,Sesuai,Kompos dari limbah sapi dengan cacing tanah.,
+85,81,"Korban Banjir Kecewa, Bantuan Susu dari Dinsos Kadaluarsa",Tidak sesuai,Bantuan logistik korban banjir kedaluwarsa; 'susu' di sini produk bantuan.,Hati-hati kemiripan kata 'susu'; tema berbeda dari limbah pabrik susu.
+85,82,Limbah Jadi Berkah: Program Gayatri Dorong Ekonomi Sirkular Peternakan Ayam Petelur di Desa Turi,Sesuai,Ekonomi sirkular limbah peternakan ayam petelur.,
+85,83,Pencemaran lingkungan limbah pemotongan sapi di Krian Sidoarjo meresahkan masyarakat,Sesuai,Pencemaran oleh limbah pemotongan sapi (rumah potong).,
+85,84,KKN UMD UNEJ Kelompok 33 Mengubah Limbah Menjadi Emas: Mengolah Kotoran Sapi Menjadi Pupuk Kandang,Sesuai,Kotoran sapi diolah menjadi pupuk kandang.,
+85,85,"Air Kali Wangi Berubah Warna Putih Susu dan Bau, Begini Langkah DLH Kabupaten Pasuruan",Sesuai,Pencemaran sungai dengan indikasi kuat limbah industri susu.,Sumber pencemar tidak disebut eksplisit pada judul; perlu verifikasi.
+85,86,Limbah Pabrik Susu Cemari Sungai dan Sumur Warga,Sesuai,Pencemaran sungai dan sumur warga oleh limbah pabrik susu.,
+85,87,"Inovasi Desa Karanggeger Probolinggo: Panen Pete untuk Cuan, Limbah Kambing Jadi Pupuk Gratis",Sesuai,Limbah kambing diolah menjadi pupuk (inovasi desa).,
+85,88,WALHI Jatim Ungkap Limbah Peternakan Sapi Mengancam Lingkungan: Pertarungan Warga Blitar Melawan Greenfields - Malang Raya,Sesuai,Pencemaran limbah peternakan sapi dan konflik warga vs pabrik.,
+85,89,PDAM Kota Bogor Sebar 23 Kambing Kurban,Tidak sesuai,"Distribusi kambing kurban oleh PDAM; tema kurban, bukan limbah peternakan.",Lokasi Bogor (luar Jatim); 'kambing' hanya kata bersama.

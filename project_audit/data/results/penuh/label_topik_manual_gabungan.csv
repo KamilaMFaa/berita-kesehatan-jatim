@@ -1,0 +1,88 @@
+﻿topic_id,topic_label_awal,topic_label_baru,topic_label_awal_revisi,topic_label_baru_revisi,catatan_revisi,status_revisi
+0,air bersih | bersih | air,Distribusi bantuan air bersih saat kekeringan,air bersih | bersih | air,,,Belum direvisi
+1,tpa | tps | tpst,Pengelolaan sampah di TPS 3R,tpa | tps | tpst,,,Belum direvisi
+2,mojokertodiswayid | limbah | dlh,Pembuangan limbah medis di Sidoarjo,mojokertodiswayid | limbah | dlh,,,Belum direvisi
+3,surabaya | banjir surabaya | pemkot surabaya,Pembangunan rumah pompa untuk atasi banjir Surabaya,surabaya | banjir surabaya | pemkot surabaya,,,Belum direvisi
+4,pdam | air pdam | air,Keluhan kualitas air PDAM,pdam | air pdam | air,,,Belum direvisi
+5,mahasiswa | edukasi | siswa,Edukasi lingkungan dan inovasi mahasiswa,mahasiswa | edukasi | siswa,Edukasi dan Inovasi Pengelolaan Sampah,Sampel cukup konsisten; 13 dari 15 judul sesuai.,Perlu verifikasi
+6,plastik | sampah plastik | sampah,Penggunaan sampah plastik sebagai bahan bakar,plastik | sampah plastik | sampah,,,Belum direvisi
+7,sungai | sampah sungai | tercemar,Pencemaran sungai oleh limbah,sungai | sampah sungai | tercemar,,,Belum direvisi
+8,batu bara | bara | batu,Pengelolaan limbah batu bara PLTU,batu bara | bara | batu,,,Belum direvisi
+9,drainase | proyek | proyek drainase,Pembangunan drainase jalan,drainase | proyek | proyek drainase,,,Belum direvisi
+10,hujan | hujan deras | deras,Banjir akibat hujan deras,hujan | hujan deras | deras,,,Belum direvisi
+11,terbakar | bakar sampah | bakar,Kebakaran gudang akibat bakar sampah,terbakar | bakar sampah | bakar,,,Belum direvisi
+12,desa | kecamatan | terendam,Desa di Pasuruan terendam banjir,desa | kecamatan | terendam,,,Belum direvisi
+13,lingkungan | hidup | sanitasi,Peringatan Hari Lingkungan Hidup Sedunia,lingkungan | hidup | sanitasi,,,Belum direvisi
+14,banjir | penyebab | longsor,Bencana banjir dan tanah longsor,banjir | penyebab | longsor,,,Belum direvisi
+15,jalan | jalan raya | raya,Banjir putus akses jalan raya,jalan | jalan raya | raya,,,Belum direvisi
+16,indonesia | america | of america,Pencemaran sampah plastik di Surabaya,indonesia | america | of america,Persoalan Sampah dan Kebersihan Lingkungan,Label sementara; periksa subtema air bersih dan limbah industri.,Perlu verifikasi
+17,udara | polusi udara | polusi,Dampak dan penyebab polusi udara,udara | polusi udara | polusi,,,Belum direvisi
+18,jembatan | putus | diterjang banjir,Jembatan putus diterjang banjir lahar Semeru,jembatan | putus | diterjang banjir,,,Belum direvisi
+19,sekolah | siswa | diliburkan,Sekolah terdampak banjir,sekolah | siswa | diliburkan,,,Belum direvisi
+20,pantai | sampah pantai | laut,Sampah menumpuk di pantai,pantai | sampah pantai | laut,,,Belum direvisi
+21,rumah | ratusan rumah | terendam,Ratusan rumah terendam luapan sungai,rumah | ratusan rumah | terendam,,,Belum direvisi
+22,bengawan | bengawan solo | solo,Banjir luapan Bengawan Solo,bengawan | bengawan solo | solo,,,Belum direvisi
+23,banyuwangi | banjir bandang | banjir,Banjir bandang di Banyuwangi,banyuwangi | banjir bandang | banjir,,,Belum direvisi
+24,pdam | pelanggan | tarif,Tarif dan pelanggan PDAM Surabaya,pdam | pelanggan | tarif,,,Belum direvisi
+25,rob | banjir rob | pesisir,Banjir rob pesisir Surabaya,rob | banjir rob | pesisir,,,Belum direvisi
+26,bank sampah | bank | sampah,Pengelolaan bank sampah,bank sampah | bank | sampah,,,Belum direvisi
+27,dapur | mbg | dapur mbg,Pengelolaan sampah dan higiene dapur MBG,dapur | mbg | dapur mbg,,,Belum direvisi
+28,batu | kota batu | banjir bandang,Banjir bandang Kota Batu,batu | kota batu | banjir bandang,,,Belum direvisi
+29,b3 | limbah b3 | limbah,Pembuangan limbah B3 ilegal,b3 | limbah b3 | limbah,,,Belum direvisi
+30,kebakaran | kebakaran tpa | tpa,Kebakaran lahan TPA,kebakaran | kebakaran tpa | tpa,,,Belum direvisi
+31,ton | per | ton per,Volume produksi sampah harian daerah,ton | per | ton per,,,Belum direvisi
+32,direktur | pdam | direktur pdam,Seleksi dan rotasi direktur PDAM,direktur | pdam | direktur pdam,,,Belum direvisi
+33,ikan | nelayan | mati,Kematian ikan akibat pencemaran,ikan | nelayan | mati,,,Belum direvisi
+34,bantuan | korban | korban banjir,Distribusi bantuan korban banjir,bantuan | korban | korban banjir,,,Belum direvisi
+35,udara | polusi udara | polusi,Polusi udara DKI Jakarta,udara | polusi udara | polusi,,,Belum direvisi
+36,petani | panen | gagal panen,Sawah terendam banjir dan gagal panen,petani | panen | gagal panen,,,Belum direvisi
+37,news | news jatim | jatim,Topik campuran/perlu ditinjau,news | news jatim | jatim,Program dan Inovasi Pengelolaan Sampah Daerah,Tema cukup konsisten; periksa representasi kata kunci.,Perlu verifikasi
+38,banjir | surut | post banjir,Banjir berkepanjangan dan dampaknya,banjir | surut | post banjir,,,Belum direvisi
+39,tinjau | bupati | banjir,Pejabat daerah tinjau lokasi banjir,tinjau | bupati | banjir,,,Belum direvisi
+40,organik | sampah organik | pupuk,Pengolahan limbah organik jadi pupuk,organik | sampah organik | pupuk,,,Belum direvisi
+41,masjid | festival | festival banjir,Festival Banjir Tahu di Lumajang,masjid | festival | festival banjir,,,Belum direvisi
+42,rusak | rumah rusak | rumah,Rumah rusak diterjang banjir bandang,rusak | rumah rusak | rumah,,,Belum direvisi
+43,meninggal | tewas | banjir bandang,Korban jiwa banjir bandang,meninggal | tewas | banjir bandang,,,Belum direvisi
+44,indonesia | jakarta | sumatra,Kabar banjir di luar Jawa Timur,indonesia | jakarta | sumatra,,,Belum direvisi
+45,plastik | sampah plastik | mahasiswa,KKN mahasiswa olah sampah plastik,plastik | sampah plastik | mahasiswa,,,Belum direvisi
+46,seni | karya seni | karya,Limbah jadi karya seni bernilai ekonomi,seni | karya seni | karya,,,Belum direvisi
+47,surabaya | pemkot surabaya | warga surabaya,Penertiban sampah ilegal oleh Pemkot Surabaya,surabaya | pemkot surabaya | warga surabaya,,,Belum direvisi
+48,mengungsi | warga mengungsi | mengungsi banjir,Warga mengungsi akibat banjir,mengungsi | warga mengungsi | mengungsi banjir,,,Belum direvisi
+49,lumpur | banjir lumpur | lumpur banjir,Pembersihan lumpur sisa banjir,lumpur | banjir lumpur | lumpur banjir,,,Belum direvisi
+50,news jatim | news | jatim banjir,Laporan banjir di berbagai daerah,news jatim | news | jatim banjir,,,Belum direvisi
+51,korupsi | dugaan korupsi | kejari,Dugaan korupsi di PDAM,korupsi | dugaan korupsi | kejari,,,Belum direvisi
+52,brantas | sungai brantas | sungai,Pencemaran Sungai Brantas,brantas | sungai brantas | sungai,,,Belum direvisi
+53,normalisasi | normalisasi sungai | sungai,Normalisasi sungai untuk cegah banjir,normalisasi | normalisasi sungai | sungai,,,Belum direvisi
+54,sampah | buang sampah | buang,Tukang sampah maju jadi calon legislatif,sampah | buang sampah | buang,Persoalan dan Pemanfaatan Sampah Masyarakat,Label sementara; beberapa subtema masih beragam.,Perlu verifikasi
+55,jalan | pinggir jalan | pinggir,Tumpukan sampah di pinggir jalan,jalan | pinggir jalan | pinggir,,,Belum direvisi
+56,minyak | gas | limbah minyak,Pengolahan limbah minyak jelantah,minyak | gas | limbah minyak,,,Belum direvisi
+57,media | pojok nasional | media pojok,Topik campuran/perlu ditinjau,media | pojok nasional | media pojok,Kebijakan Sampah dan Kebersihan Lingkungan,Perlu evaluasi lanjutan karena hanya 6 dari 15 judul sesuai.,Perlu verifikasi
+58,warga | buang | buang sampah,Warga Lakardowo hidup dengan limbah berbahaya,warga | buang | buang sampah,,,Belum direvisi
+59,pencemaran nama | nama baik | nama,Dugaan pencemaran nama baik,pencemaran nama | nama baik | nama,,,Belum direvisi
+60,asap | tembakau | rokok,Polusi asap pabrik tembakau,asap | tembakau | rokok,,,Belum direvisi
+61,motor | tabrak | kecelakaan,Kecelakaan motor gerobak sampah,motor | tabrak | kecelakaan,,,Belum direvisi
+62,mrican | tpa mrican | ponorogo,Persoalan TPA Mrican di Ponorogo,mrican | tpa mrican | ponorogo,,,Belum direvisi
+63,petani | pertanian | limbah,Limbah pertanian jadi energi dan pendapatan,petani | pertanian | limbah,,,Belum direvisi
+64,wisata | air terjun | terjun,Jalur wisata Madakaripura putus akibat banjir dan longsor,wisata | air terjun | terjun,,,Belum direvisi
+65,ayam | bulu ayam | bulu,Bau busuk limbah pabrik bulu ayam,ayam | bulu ayam | bulu,,,Belum direvisi
+66,polisi | polisi selidiki | limbah,Penyelidikan polisi kasus dumping limbah,polisi | polisi selidiki | limbah,,,Belum direvisi
+67,jawa | jawa timur | timur,Situasi banjir di Jawa Timur,jawa | jawa timur | timur,,,Belum direvisi
+68,polisi | patroli | gentong,Patroli Gentong Polres Trenggalek salurkan air bersih,polisi | patroli | gentong,,,Belum direvisi
+69,protes | diprotes | pabrik,Protes warga atas pencemaran pabrik,protes | diprotes | pabrik,,,Belum direvisi
+70,viral | viral limbah | limbah medis,Kasus viral pencemaran limbah medis,viral | viral limbah | limbah medis,,,Belum direvisi
+71,fashion | fashion show | show,Fashion show busana daur ulang sampah,fashion | fashion show | show,,,Belum direvisi
+72,pasar | sampah pasar | pedagang,Tumpukan sampah di pasar,pasar | sampah pasar | pedagang,,,Belum direvisi
+73,landfill | sanitary landfill | sanitary,Pembangunan sanitary landfill TPA,landfill | sanitary landfill | sanitary,,,Belum direvisi
+74,menyengat | meninggal | bau menyengat,Penemuan mayat di kamar kos,menyengat | meninggal | bau menyengat,,,Belum direvisi
+75,kopi | kulit kopi | kulit,Limbah kulit kopi jadi briket,kopi | kulit kopi | kulit,,,Belum direvisi
+76,dbd | meninggal | dinkes,Kematian akibat DBD,dbd | meninggal | dinkes,,,Belum direvisi
+77,ponorogo | kabupaten ponorogo | banjir ponorogo,Banjir dan tanggul jebol di Ponorogo,ponorogo | kabupaten ponorogo | banjir ponorogo,,,Belum direvisi
+78,jember | banjir jember | warga jember,Dampak banjir di Jember,jember | banjir jember | warga jember,,,Belum direvisi
+79,sppg | ipal | bgn,IPAL dapur SPPG tidak sesuai standar,sppg | ipal | bgn,,,Belum direvisi
+80,wisata | tempat | destinasi,Bekas lokasi sampah jadi destinasi wisata,wisata | tempat | destinasi,,,Belum direvisi
+81,pdi perjuangan | pdi | perjuangan,Bantuan air bersih dari PDI Perjuangan,pdi perjuangan | pdi | perjuangan,,,Belum direvisi
+82,ton | per | ton sampah,Volume sampah dan kapasitas TPA,ton | per | ton sampah,,,Belum direvisi
+83,maggot | budidaya maggot | budidaya,Budidaya maggot pengurai sampah organik,maggot | budidaya maggot | budidaya,,,Belum direvisi
+84,banyuwangi | sampah banyuwangi | sampah,Madrasah hijau tanpa sampah di Banyuwangi,banyuwangi | sampah banyuwangi | sampah,,,Belum direvisi
+85,susu | kambing | sapi,Topik campuran/perlu ditinjau,susu | kambing | sapi,Pemanfaatan dan Pencemaran Limbah Peternakan,Tema cukup kuat; beberapa judul menyimpang.,Perlu verifikasi
+86,kereta | kereta api | api,Rel kereta api terendam banjir,kereta | kereta api | api,,,Belum direvisi

@@ -1,0 +1,13 @@
+metrik,nilai,catatan
+jumlah_dokumen_dimodelkan,25022,mode=penuh
+jumlah_topik_reguler,87,di luar outlier -1
+persen_outlier,37.3,dokumen tidak masuk topik manapun
+topic_diversity,0.752,proporsi kata unik di top-10 kata semua topik (tinggi = kata kunci tidak berulang)
+silhouette_cosine,0.092,mendekati 0 = klaster tumpang tindih; positif kecil wajar pada teks pendek
+ukuran_topik_rata2,180.3,dokumen per topik
+ukuran_topik_median,99.0,
+share_5_topik_teratas,16.91,% dokumen pada 5 topik terbesar (tinggi = distribusi timpang)
+model_sbert,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,
+min_cluster_size,38,HDBSCAN
+umap_params,"{""n_neighbors"": 15, ""n_components"": 5, ""min_dist"": 0.0, ""metric"": ""cosine""}",seed=42
+basis_teks,judul + sisa snippet (teks_bersih),full_text kosong

@@ -1,0 +1,35 @@
+// Schema database website Berita Kesehatan Jawa Timur
+// Sumber data: hasil SBERT-BERTopic mode penuh (25.022 artikel) dari peneliti.
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Article {
+  id              String  @id // news_id dari dataset
+  ord             Int     @unique // row_id dari pemodelan (urutan stabil)
+  title           String
+  snippet         String  @default("")
+  url             String
+  publisher       String  @default("")
+  publishedAt     String  @default("") // YYYY-MM-DD (string apa adanya dari dataset)
+  tahun           Int? // tahun publikasi
+  bulan           String  @default("") // YYYY-MM
+  topicId         Int // hasil BERTopic; -1 = outlier
+  region          String  @default("") // region_analisis (kab/kota)
+  regionTidakPasti Boolean @default(false)
+  issueGroup      String  @default("")
+
+  @@index([topicId])
+  @@index([region])
+  @@index([tahun])
+  @@index([issueGroup])
+  @@index([publishedAt])
+  @@index([region, topicId])
+}

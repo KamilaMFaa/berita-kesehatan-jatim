@@ -1,0 +1,2048 @@
+definisi,frekuensi,periode,peringkat,topic_id,topic_label,jumlah_dokumen,persen_dokumen_reguler
+agregat_seluruh_periode,mingguan,2015-W53 s/d 2026-W42,1,0,Distribusi bantuan air bersih saat kekeringan,1085,6.92
+agregat_seluruh_periode,mingguan,2015-W53 s/d 2026-W42,2,1,Pengelolaan sampah di TPS 3R,1030,6.57
+agregat_seluruh_periode,mingguan,2015-W53 s/d 2026-W42,3,2,Pembuangan limbah medis di Sidoarjo,953,6.07
+agregat_seluruh_periode,bulanan,2016-01 s/d 2026-10,1,0,Distribusi bantuan air bersih saat kekeringan,1085,6.92
+agregat_seluruh_periode,bulanan,2016-01 s/d 2026-10,2,1,Pengelolaan sampah di TPS 3R,1030,6.57
+agregat_seluruh_periode,bulanan,2016-01 s/d 2026-10,3,2,Pembuangan limbah medis di Sidoarjo,953,6.07
+per_periode,mingguan,2015-W53,1,50,Laporan banjir di berbagai daerah,1,100.0
+per_periode,mingguan,2016-W01,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,14.29
+per_periode,mingguan,2016-W01,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,14.29
+per_periode,mingguan,2016-W01,3,10,Banjir akibat hujan deras,1,14.29
+per_periode,mingguan,2016-W02,1,0,Distribusi bantuan air bersih saat kekeringan,1,33.33
+per_periode,mingguan,2016-W02,2,74,Penemuan mayat di kamar kos,1,33.33
+per_periode,mingguan,2016-W02,3,27,Pengelolaan sampah dan higiene dapur MBG,1,33.33
+per_periode,mingguan,2016-W03,1,74,Penemuan mayat di kamar kos,2,40.0
+per_periode,mingguan,2016-W03,2,27,Pengelolaan sampah dan higiene dapur MBG,1,20.0
+per_periode,mingguan,2016-W03,3,37,Topik campuran/perlu ditinjau,1,20.0
+per_periode,mingguan,2016-W04,1,2,Pembuangan limbah medis di Sidoarjo,3,42.86
+per_periode,mingguan,2016-W04,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,14.29
+per_periode,mingguan,2016-W04,3,18,Jembatan putus diterjang banjir lahar Semeru,1,14.29
+per_periode,mingguan,2016-W05,1,4,Keluhan kualitas air PDAM,2,33.33
+per_periode,mingguan,2016-W05,2,16,Pencemaran sampah plastik di Surabaya,1,16.67
+per_periode,mingguan,2016-W05,3,17,Dampak dan penyebab polusi udara,1,16.67
+per_periode,mingguan,2016-W06,1,21,Ratusan rumah terendam luapan sungai,4,25.0
+per_periode,mingguan,2016-W06,2,13,Peringatan Hari Lingkungan Hidup Sedunia,3,18.75
+per_periode,mingguan,2016-W06,3,52,Pencemaran Sungai Brantas,3,18.75
+per_periode,mingguan,2016-W07,1,85,Topik campuran/perlu ditinjau,3,33.33
+per_periode,mingguan,2016-W07,2,41,Festival Banjir Tahu di Lumajang,2,22.22
+per_periode,mingguan,2016-W07,3,2,Pembuangan limbah medis di Sidoarjo,1,11.11
+per_periode,mingguan,2016-W08,1,5,Edukasi lingkungan dan inovasi mahasiswa,5,29.41
+per_periode,mingguan,2016-W08,2,10,Banjir akibat hujan deras,2,11.76
+per_periode,mingguan,2016-W08,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,5.88
+per_periode,mingguan,2016-W09,1,0,Distribusi bantuan air bersih saat kekeringan,1,20.0
+per_periode,mingguan,2016-W09,2,15,Banjir putus akses jalan raya,1,20.0
+per_periode,mingguan,2016-W09,3,17,Dampak dan penyebab polusi udara,1,20.0
+per_periode,mingguan,2016-W10,1,49,Pembersihan lumpur sisa banjir,2,40.0
+per_periode,mingguan,2016-W10,2,18,Jembatan putus diterjang banjir lahar Semeru,1,20.0
+per_periode,mingguan,2016-W10,3,4,Keluhan kualitas air PDAM,1,20.0
+per_periode,mingguan,2016-W11,1,4,Keluhan kualitas air PDAM,1,33.33
+per_periode,mingguan,2016-W11,2,13,Peringatan Hari Lingkungan Hidup Sedunia,1,33.33
+per_periode,mingguan,2016-W11,3,31,Volume produksi sampah harian daerah,1,33.33
+per_periode,mingguan,2016-W12,1,5,Edukasi lingkungan dan inovasi mahasiswa,1,14.29
+per_periode,mingguan,2016-W12,2,13,Peringatan Hari Lingkungan Hidup Sedunia,1,14.29
+per_periode,mingguan,2016-W12,3,10,Banjir akibat hujan deras,1,14.29
+per_periode,mingguan,2016-W13,1,0,Distribusi bantuan air bersih saat kekeringan,1,25.0
+per_periode,mingguan,2016-W13,2,22,Banjir luapan Bengawan Solo,1,25.0
+per_periode,mingguan,2016-W13,3,74,Penemuan mayat di kamar kos,1,25.0
+per_periode,mingguan,2016-W14,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,100.0
+per_periode,mingguan,2016-W15,1,2,Pembuangan limbah medis di Sidoarjo,1,12.5
+per_periode,mingguan,2016-W15,2,5,Edukasi lingkungan dan inovasi mahasiswa,1,12.5
+per_periode,mingguan,2016-W15,3,4,Keluhan kualitas air PDAM,1,12.5
+per_periode,mingguan,2016-W16,1,6,Penggunaan sampah plastik sebagai bahan bakar,2,22.22
+per_periode,mingguan,2016-W16,2,2,Pembuangan limbah medis di Sidoarjo,1,11.11
+per_periode,mingguan,2016-W16,3,14,Bencana banjir dan tanah longsor,1,11.11
+per_periode,mingguan,2016-W17,1,69,Protes warga atas pencemaran pabrik,2,40.0
+per_periode,mingguan,2016-W17,2,49,Pembersihan lumpur sisa banjir,1,20.0
+per_periode,mingguan,2016-W17,3,19,Sekolah terdampak banjir,1,20.0
+per_periode,mingguan,2016-W18,1,19,Sekolah terdampak banjir,1,50.0
+per_periode,mingguan,2016-W18,2,50,Laporan banjir di berbagai daerah,1,50.0
+per_periode,mingguan,2016-W19,1,0,Distribusi bantuan air bersih saat kekeringan,2,66.67
+per_periode,mingguan,2016-W19,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,33.33
+per_periode,mingguan,2016-W20,1,16,Pencemaran sampah plastik di Surabaya,1,14.29
+per_periode,mingguan,2016-W20,2,9,Pembangunan drainase jalan,1,14.29
+per_periode,mingguan,2016-W20,3,8,Pengelolaan limbah batu bara PLTU,1,14.29
+per_periode,mingguan,2016-W21,1,2,Pembuangan limbah medis di Sidoarjo,1,33.33
+per_periode,mingguan,2016-W21,2,8,Pengelolaan limbah batu bara PLTU,1,33.33
+per_periode,mingguan,2016-W21,3,32,Seleksi dan rotasi direktur PDAM,1,33.33
+per_periode,mingguan,2016-W22,1,5,Edukasi lingkungan dan inovasi mahasiswa,2,28.57
+per_periode,mingguan,2016-W22,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,14.29
+per_periode,mingguan,2016-W22,3,29,Pembuangan limbah B3 ilegal,1,14.29
+per_periode,mingguan,2016-W23,1,10,Banjir akibat hujan deras,2,25.0
+per_periode,mingguan,2016-W23,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,12.5
+per_periode,mingguan,2016-W23,3,2,Pembuangan limbah medis di Sidoarjo,1,12.5
+per_periode,mingguan,2016-W24,1,0,Distribusi bantuan air bersih saat kekeringan,1,50.0
+per_periode,mingguan,2016-W24,2,29,Pembuangan limbah B3 ilegal,1,50.0
+per_periode,mingguan,2016-W26,1,18,Jembatan putus diterjang banjir lahar Semeru,2,33.33
+per_periode,mingguan,2016-W26,2,10,Banjir akibat hujan deras,1,16.67
+per_periode,mingguan,2016-W26,3,45,KKN mahasiswa olah sampah plastik,1,16.67
+per_periode,mingguan,2016-W27,1,19,Sekolah terdampak banjir,1,100.0
+per_periode,mingguan,2016-W29,1,14,Bencana banjir dan tanah longsor,1,25.0
+per_periode,mingguan,2016-W29,2,12,Desa di Pasuruan terendam banjir,1,25.0
+per_periode,mingguan,2016-W29,3,31,Volume produksi sampah harian daerah,1,25.0
+per_periode,mingguan,2016-W30,1,2,Pembuangan limbah medis di Sidoarjo,1,12.5
+per_periode,mingguan,2016-W30,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,12.5
+per_periode,mingguan,2016-W30,3,9,Pembangunan drainase jalan,1,12.5
+per_periode,mingguan,2016-W31,1,4,Keluhan kualitas air PDAM,1,25.0
+per_periode,mingguan,2016-W31,2,46,Limbah jadi karya seni bernilai ekonomi,1,25.0
+per_periode,mingguan,2016-W31,3,43,Korban jiwa banjir bandang,1,25.0
+per_periode,mingguan,2016-W32,1,2,Pembuangan limbah medis di Sidoarjo,1,33.33
+per_periode,mingguan,2016-W32,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,33.33
+per_periode,mingguan,2016-W32,3,7,Pencemaran sungai oleh limbah,1,33.33
+per_periode,mingguan,2016-W33,1,44,Kabar banjir di luar Jawa Timur,2,40.0
+per_periode,mingguan,2016-W33,2,11,Kebakaran gudang akibat bakar sampah,1,20.0
+per_periode,mingguan,2016-W33,3,21,Ratusan rumah terendam luapan sungai,1,20.0
+per_periode,mingguan,2016-W34,1,0,Distribusi bantuan air bersih saat kekeringan,1,20.0
+per_periode,mingguan,2016-W34,2,7,Pencemaran sungai oleh limbah,1,20.0
+per_periode,mingguan,2016-W34,3,23,Banjir bandang di Banyuwangi,1,20.0
+per_periode,mingguan,2016-W35,1,0,Distribusi bantuan air bersih saat kekeringan,1,25.0
+per_periode,mingguan,2016-W35,2,4,Keluhan kualitas air PDAM,1,25.0
+per_periode,mingguan,2016-W35,3,12,Desa di Pasuruan terendam banjir,1,25.0
+per_periode,mingguan,2016-W36,1,4,Keluhan kualitas air PDAM,2,25.0
+per_periode,mingguan,2016-W36,2,8,Pengelolaan limbah batu bara PLTU,2,25.0
+per_periode,mingguan,2016-W36,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,12.5
+per_periode,mingguan,2016-W37,1,17,Dampak dan penyebab polusi udara,1,16.67
+per_periode,mingguan,2016-W37,2,22,Banjir luapan Bengawan Solo,1,16.67
+per_periode,mingguan,2016-W37,3,19,Sekolah terdampak banjir,1,16.67
+per_periode,mingguan,2016-W38,1,4,Keluhan kualitas air PDAM,2,33.33
+per_periode,mingguan,2016-W38,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,16.67
+per_periode,mingguan,2016-W38,3,2,Pembuangan limbah medis di Sidoarjo,1,16.67
+per_periode,mingguan,2016-W39,1,52,Pencemaran Sungai Brantas,2,66.67
+per_periode,mingguan,2016-W39,2,13,Peringatan Hari Lingkungan Hidup Sedunia,1,33.33
+per_periode,mingguan,2016-W40,1,2,Pembuangan limbah medis di Sidoarjo,1,20.0
+per_periode,mingguan,2016-W40,2,4,Keluhan kualitas air PDAM,1,20.0
+per_periode,mingguan,2016-W40,3,11,Kebakaran gudang akibat bakar sampah,1,20.0
+per_periode,mingguan,2016-W41,1,13,Peringatan Hari Lingkungan Hidup Sedunia,2,15.38
+per_periode,mingguan,2016-W41,2,21,Ratusan rumah terendam luapan sungai,2,15.38
+per_periode,mingguan,2016-W41,3,0,Distribusi bantuan air bersih saat kekeringan,1,7.69
+per_periode,mingguan,2016-W42,1,0,Distribusi bantuan air bersih saat kekeringan,1,25.0
+per_periode,mingguan,2016-W42,2,15,Banjir putus akses jalan raya,1,25.0
+per_periode,mingguan,2016-W42,3,8,Pengelolaan limbah batu bara PLTU,1,25.0
+per_periode,mingguan,2016-W43,1,17,Dampak dan penyebab polusi udara,2,66.67
+per_periode,mingguan,2016-W43,2,4,Keluhan kualitas air PDAM,1,33.33
+per_periode,mingguan,2016-W44,1,0,Distribusi bantuan air bersih saat kekeringan,1,25.0
+per_periode,mingguan,2016-W44,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,25.0
+per_periode,mingguan,2016-W44,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,25.0
+per_periode,mingguan,2016-W45,1,20,Sampah menumpuk di pantai,2,33.33
+per_periode,mingguan,2016-W45,2,10,Banjir akibat hujan deras,1,16.67
+per_periode,mingguan,2016-W45,3,4,Keluhan kualitas air PDAM,1,16.67
+per_periode,mingguan,2016-W46,1,2,Pembuangan limbah medis di Sidoarjo,1,25.0
+per_periode,mingguan,2016-W46,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,25.0
+per_periode,mingguan,2016-W46,3,18,Jembatan putus diterjang banjir lahar Semeru,1,25.0
+per_periode,mingguan,2016-W47,1,2,Pembuangan limbah medis di Sidoarjo,1,10.0
+per_periode,mingguan,2016-W47,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,10.0
+per_periode,mingguan,2016-W47,3,4,Keluhan kualitas air PDAM,1,10.0
+per_periode,mingguan,2016-W48,1,24,Tarif dan pelanggan PDAM Surabaya,4,26.67
+per_periode,mingguan,2016-W48,2,52,Pencemaran Sungai Brantas,2,13.33
+per_periode,mingguan,2016-W48,3,18,Jembatan putus diterjang banjir lahar Semeru,2,13.33
+per_periode,mingguan,2016-W49,1,6,Penggunaan sampah plastik sebagai bahan bakar,1,50.0
+per_periode,mingguan,2016-W49,2,28,Banjir bandang Kota Batu,1,50.0
+per_periode,mingguan,2016-W50,1,9,Pembangunan drainase jalan,1,50.0
+per_periode,mingguan,2016-W50,2,47,Penertiban sampah ilegal oleh Pemkot Surabaya,1,50.0
+per_periode,mingguan,2016-W51,1,68,Patroli Gentong Polres Trenggalek salurkan air bersih,2,33.33
+per_periode,mingguan,2016-W51,2,40,Pengolahan limbah organik jadi pupuk,1,16.67
+per_periode,mingguan,2016-W51,3,17,Dampak dan penyebab polusi udara,1,16.67
+per_periode,mingguan,2016-W52,1,67,Situasi banjir di Jawa Timur,2,40.0
+per_periode,mingguan,2016-W52,2,17,Dampak dan penyebab polusi udara,1,20.0
+per_periode,mingguan,2016-W52,3,4,Keluhan kualitas air PDAM,1,20.0
+per_periode,mingguan,2017-W01,1,19,Sekolah terdampak banjir,1,25.0
+per_periode,mingguan,2017-W01,2,55,Tumpukan sampah di pinggir jalan,1,25.0
+per_periode,mingguan,2017-W01,3,53,Normalisasi sungai untuk cegah banjir,1,25.0
+per_periode,mingguan,2017-W02,1,5,Edukasi lingkungan dan inovasi mahasiswa,2,33.33
+per_periode,mingguan,2017-W02,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,16.67
+per_periode,mingguan,2017-W02,3,4,Keluhan kualitas air PDAM,1,16.67
+per_periode,mingguan,2017-W03,1,6,Penggunaan sampah plastik sebagai bahan bakar,1,25.0
+per_periode,mingguan,2017-W03,2,18,Jembatan putus diterjang banjir lahar Semeru,1,25.0
+per_periode,mingguan,2017-W03,3,24,Tarif dan pelanggan PDAM Surabaya,1,25.0
+per_periode,mingguan,2017-W04,1,0,Distribusi bantuan air bersih saat kekeringan,1,14.29
+per_periode,mingguan,2017-W04,2,2,Pembuangan limbah medis di Sidoarjo,1,14.29
+per_periode,mingguan,2017-W04,3,4,Keluhan kualitas air PDAM,1,14.29
+per_periode,mingguan,2017-W05,1,17,Dampak dan penyebab polusi udara,1,20.0
+per_periode,mingguan,2017-W05,2,18,Jembatan putus diterjang banjir lahar Semeru,1,20.0
+per_periode,mingguan,2017-W05,3,13,Peringatan Hari Lingkungan Hidup Sedunia,1,20.0
+per_periode,mingguan,2017-W06,1,13,Peringatan Hari Lingkungan Hidup Sedunia,1,20.0
+per_periode,mingguan,2017-W06,2,17,Dampak dan penyebab polusi udara,1,20.0
+per_periode,mingguan,2017-W06,3,53,Normalisasi sungai untuk cegah banjir,1,20.0
+per_periode,mingguan,2017-W07,1,5,Edukasi lingkungan dan inovasi mahasiswa,1,20.0
+per_periode,mingguan,2017-W07,2,14,Bencana banjir dan tanah longsor,1,20.0
+per_periode,mingguan,2017-W07,3,26,Pengelolaan bank sampah,1,20.0
+per_periode,mingguan,2017-W08,1,4,Keluhan kualitas air PDAM,2,15.38
+per_periode,mingguan,2017-W08,2,21,Ratusan rumah terendam luapan sungai,2,15.38
+per_periode,mingguan,2017-W08,3,10,Banjir akibat hujan deras,2,15.38
+per_periode,mingguan,2017-W09,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,16.67
+per_periode,mingguan,2017-W09,2,18,Jembatan putus diterjang banjir lahar Semeru,1,16.67
+per_periode,mingguan,2017-W09,3,13,Peringatan Hari Lingkungan Hidup Sedunia,1,16.67
+per_periode,mingguan,2017-W10,1,4,Keluhan kualitas air PDAM,1,16.67
+per_periode,mingguan,2017-W10,2,10,Banjir akibat hujan deras,1,16.67
+per_periode,mingguan,2017-W10,3,38,Banjir berkepanjangan dan dampaknya,1,16.67
+per_periode,mingguan,2017-W11,1,18,Jembatan putus diterjang banjir lahar Semeru,3,50.0
+per_periode,mingguan,2017-W11,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,16.67
+per_periode,mingguan,2017-W11,3,0,Distribusi bantuan air bersih saat kekeringan,1,16.67
+per_periode,mingguan,2017-W12,1,0,Distribusi bantuan air bersih saat kekeringan,2,25.0
+per_periode,mingguan,2017-W12,2,18,Jembatan putus diterjang banjir lahar Semeru,2,25.0
+per_periode,mingguan,2017-W12,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,12.5
+per_periode,mingguan,2017-W13,1,50,Laporan banjir di berbagai daerah,1,50.0
+per_periode,mingguan,2017-W13,2,39,Pejabat daerah tinjau lokasi banjir,1,50.0
+per_periode,mingguan,2017-W14,1,0,Distribusi bantuan air bersih saat kekeringan,3,30.0
+per_periode,mingguan,2017-W14,2,15,Banjir putus akses jalan raya,2,20.0
+per_periode,mingguan,2017-W14,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,10.0
+per_periode,mingguan,2017-W15,1,13,Peringatan Hari Lingkungan Hidup Sedunia,1,25.0
+per_periode,mingguan,2017-W15,2,21,Ratusan rumah terendam luapan sungai,1,25.0
+per_periode,mingguan,2017-W15,3,81,Bantuan air bersih dari PDI Perjuangan,1,25.0
+per_periode,mingguan,2017-W16,1,10,Banjir akibat hujan deras,1,100.0
+per_periode,mingguan,2017-W17,1,44,Kabar banjir di luar Jawa Timur,3,50.0
+per_periode,mingguan,2017-W17,2,14,Bencana banjir dan tanah longsor,1,16.67
+per_periode,mingguan,2017-W17,3,0,Distribusi bantuan air bersih saat kekeringan,1,16.67
+per_periode,mingguan,2017-W18,1,44,Kabar banjir di luar Jawa Timur,1,50.0
+per_periode,mingguan,2017-W18,2,71,Fashion show busana daur ulang sampah,1,50.0
+per_periode,mingguan,2017-W19,1,0,Distribusi bantuan air bersih saat kekeringan,1,25.0
+per_periode,mingguan,2017-W19,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,25.0
+per_periode,mingguan,2017-W19,3,8,Pengelolaan limbah batu bara PLTU,1,25.0
+per_periode,mingguan,2017-W20,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,33.33
+per_periode,mingguan,2017-W20,2,10,Banjir akibat hujan deras,1,33.33
+per_periode,mingguan,2017-W20,3,76,Kematian akibat DBD,1,33.33
+per_periode,mingguan,2017-W22,1,8,Pengelolaan limbah batu bara PLTU,1,100.0
+per_periode,mingguan,2017-W23,1,8,Pengelolaan limbah batu bara PLTU,1,25.0
+per_periode,mingguan,2017-W23,2,9,Pembangunan drainase jalan,1,25.0
+per_periode,mingguan,2017-W23,3,37,Topik campuran/perlu ditinjau,1,25.0
+per_periode,mingguan,2017-W24,1,9,Pembangunan drainase jalan,1,100.0
+per_periode,mingguan,2017-W25,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,100.0
+per_periode,mingguan,2017-W26,1,17,Dampak dan penyebab polusi udara,1,100.0
+per_periode,mingguan,2017-W27,1,7,Pencemaran sungai oleh limbah,1,33.33
+per_periode,mingguan,2017-W27,2,9,Pembangunan drainase jalan,1,33.33
+per_periode,mingguan,2017-W27,3,38,Banjir berkepanjangan dan dampaknya,1,33.33
+per_periode,mingguan,2017-W28,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,40.0
+per_periode,mingguan,2017-W28,2,38,Banjir berkepanjangan dan dampaknya,2,20.0
+per_periode,mingguan,2017-W28,3,18,Jembatan putus diterjang banjir lahar Semeru,1,10.0
+per_periode,mingguan,2017-W29,1,2,Pembuangan limbah medis di Sidoarjo,3,15.79
+per_periode,mingguan,2017-W29,2,0,Distribusi bantuan air bersih saat kekeringan,2,10.53
+per_periode,mingguan,2017-W29,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,5.26
+per_periode,mingguan,2017-W30,1,4,Keluhan kualitas air PDAM,1,16.67
+per_periode,mingguan,2017-W30,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,16.67
+per_periode,mingguan,2017-W30,3,7,Pencemaran sungai oleh limbah,1,16.67
+per_periode,mingguan,2017-W31,1,0,Distribusi bantuan air bersih saat kekeringan,1,16.67
+per_periode,mingguan,2017-W31,2,4,Keluhan kualitas air PDAM,1,16.67
+per_periode,mingguan,2017-W31,3,22,Banjir luapan Bengawan Solo,1,16.67
+per_periode,mingguan,2017-W32,1,2,Pembuangan limbah medis di Sidoarjo,2,25.0
+per_periode,mingguan,2017-W32,2,5,Edukasi lingkungan dan inovasi mahasiswa,1,12.5
+per_periode,mingguan,2017-W32,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,12.5
+per_periode,mingguan,2017-W33,1,4,Keluhan kualitas air PDAM,2,20.0
+per_periode,mingguan,2017-W33,2,22,Banjir luapan Bengawan Solo,2,20.0
+per_periode,mingguan,2017-W33,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,10.0
+per_periode,mingguan,2017-W34,1,0,Distribusi bantuan air bersih saat kekeringan,2,16.67
+per_periode,mingguan,2017-W34,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,16.67
+per_periode,mingguan,2017-W34,3,9,Pembangunan drainase jalan,2,16.67
+per_periode,mingguan,2017-W35,1,0,Distribusi bantuan air bersih saat kekeringan,1,20.0
+per_periode,mingguan,2017-W35,2,1,Pengelolaan sampah di TPS 3R,1,20.0
+per_periode,mingguan,2017-W35,3,25,Banjir rob pesisir Surabaya,1,20.0
+per_periode,mingguan,2017-W36,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,66.67
+per_periode,mingguan,2017-W36,2,0,Distribusi bantuan air bersih saat kekeringan,1,16.67
+per_periode,mingguan,2017-W36,3,7,Pencemaran sungai oleh limbah,1,16.67
+per_periode,mingguan,2017-W37,1,1,Pengelolaan sampah di TPS 3R,6,46.15
+per_periode,mingguan,2017-W37,2,45,KKN mahasiswa olah sampah plastik,2,15.38
+per_periode,mingguan,2017-W37,3,0,Distribusi bantuan air bersih saat kekeringan,1,7.69
+per_periode,mingguan,2017-W38,1,0,Distribusi bantuan air bersih saat kekeringan,1,25.0
+per_periode,mingguan,2017-W38,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,25.0
+per_periode,mingguan,2017-W38,3,9,Pembangunan drainase jalan,1,25.0
+per_periode,mingguan,2017-W39,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,50.0
+per_periode,mingguan,2017-W39,2,71,Fashion show busana daur ulang sampah,1,50.0
+per_periode,mingguan,2017-W40,1,72,Tumpukan sampah di pasar,3,33.33
+per_periode,mingguan,2017-W40,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,11.11
+per_periode,mingguan,2017-W40,3,0,Distribusi bantuan air bersih saat kekeringan,1,11.11
+per_periode,mingguan,2017-W41,1,2,Pembuangan limbah medis di Sidoarjo,1,14.29
+per_periode,mingguan,2017-W41,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,14.29
+per_periode,mingguan,2017-W41,3,14,Bencana banjir dan tanah longsor,1,14.29
+per_periode,mingguan,2017-W42,1,2,Pembuangan limbah medis di Sidoarjo,1,16.67
+per_periode,mingguan,2017-W42,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,16.67
+per_periode,mingguan,2017-W42,3,10,Banjir akibat hujan deras,1,16.67
+per_periode,mingguan,2017-W43,1,69,Protes warga atas pencemaran pabrik,2,25.0
+per_periode,mingguan,2017-W43,2,16,Pencemaran sampah plastik di Surabaya,1,12.5
+per_periode,mingguan,2017-W43,3,11,Kebakaran gudang akibat bakar sampah,1,12.5
+per_periode,mingguan,2017-W44,1,0,Distribusi bantuan air bersih saat kekeringan,2,20.0
+per_periode,mingguan,2017-W44,2,4,Keluhan kualitas air PDAM,1,10.0
+per_periode,mingguan,2017-W44,3,10,Banjir akibat hujan deras,1,10.0
+per_periode,mingguan,2017-W45,1,7,Pencemaran sungai oleh limbah,1,16.67
+per_periode,mingguan,2017-W45,2,16,Pencemaran sampah plastik di Surabaya,1,16.67
+per_periode,mingguan,2017-W45,3,35,Polusi udara DKI Jakarta,1,16.67
+per_periode,mingguan,2017-W46,1,0,Distribusi bantuan air bersih saat kekeringan,2,22.22
+per_periode,mingguan,2017-W46,2,10,Banjir akibat hujan deras,2,22.22
+per_periode,mingguan,2017-W46,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,11.11
+per_periode,mingguan,2017-W47,1,13,Peringatan Hari Lingkungan Hidup Sedunia,2,25.0
+per_periode,mingguan,2017-W47,2,15,Banjir putus akses jalan raya,1,12.5
+per_periode,mingguan,2017-W47,3,5,Edukasi lingkungan dan inovasi mahasiswa,1,12.5
+per_periode,mingguan,2017-W48,1,44,Kabar banjir di luar Jawa Timur,9,18.37
+per_periode,mingguan,2017-W48,2,10,Banjir akibat hujan deras,8,16.33
+per_periode,mingguan,2017-W48,3,13,Peringatan Hari Lingkungan Hidup Sedunia,5,10.2
+per_periode,mingguan,2017-W49,1,21,Ratusan rumah terendam luapan sungai,3,20.0
+per_periode,mingguan,2017-W49,2,5,Edukasi lingkungan dan inovasi mahasiswa,1,6.67
+per_periode,mingguan,2017-W49,3,0,Distribusi bantuan air bersih saat kekeringan,1,6.67
+per_periode,mingguan,2017-W50,1,17,Dampak dan penyebab polusi udara,2,18.18
+per_periode,mingguan,2017-W50,2,15,Banjir putus akses jalan raya,2,18.18
+per_periode,mingguan,2017-W50,3,0,Distribusi bantuan air bersih saat kekeringan,1,9.09
+per_periode,mingguan,2017-W51,1,4,Keluhan kualitas air PDAM,1,10.0
+per_periode,mingguan,2017-W51,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,10.0
+per_periode,mingguan,2017-W51,3,13,Peringatan Hari Lingkungan Hidup Sedunia,1,10.0
+per_periode,mingguan,2017-W52,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,25.0
+per_periode,mingguan,2017-W52,2,18,Jembatan putus diterjang banjir lahar Semeru,1,25.0
+per_periode,mingguan,2017-W52,3,10,Banjir akibat hujan deras,1,25.0
+per_periode,mingguan,2018-W01,1,57,Topik campuran/perlu ditinjau,2,20.0
+per_periode,mingguan,2018-W01,2,22,Banjir luapan Bengawan Solo,1,10.0
+per_periode,mingguan,2018-W01,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,10.0
+per_periode,mingguan,2018-W02,1,0,Distribusi bantuan air bersih saat kekeringan,1,14.29
+per_periode,mingguan,2018-W02,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,14.29
+per_periode,mingguan,2018-W02,3,10,Banjir akibat hujan deras,1,14.29
+per_periode,mingguan,2018-W03,1,69,Protes warga atas pencemaran pabrik,2,15.38
+per_periode,mingguan,2018-W03,2,4,Keluhan kualitas air PDAM,1,7.69
+per_periode,mingguan,2018-W03,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,7.69
+per_periode,mingguan,2018-W04,1,2,Pembuangan limbah medis di Sidoarjo,1,6.67
+per_periode,mingguan,2018-W04,2,4,Keluhan kualitas air PDAM,1,6.67
+per_periode,mingguan,2018-W04,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,6.67
+per_periode,mingguan,2018-W05,1,0,Distribusi bantuan air bersih saat kekeringan,3,37.5
+per_periode,mingguan,2018-W05,2,22,Banjir luapan Bengawan Solo,1,12.5
+per_periode,mingguan,2018-W05,3,24,Tarif dan pelanggan PDAM Surabaya,1,12.5
+per_periode,mingguan,2018-W06,1,26,Pengelolaan bank sampah,3,23.08
+per_periode,mingguan,2018-W06,2,46,Limbah jadi karya seni bernilai ekonomi,2,15.38
+per_periode,mingguan,2018-W06,3,2,Pembuangan limbah medis di Sidoarjo,1,7.69
+per_periode,mingguan,2018-W07,1,0,Distribusi bantuan air bersih saat kekeringan,2,22.22
+per_periode,mingguan,2018-W07,2,2,Pembuangan limbah medis di Sidoarjo,1,11.11
+per_periode,mingguan,2018-W07,3,4,Keluhan kualitas air PDAM,1,11.11
+per_periode,mingguan,2018-W08,1,8,Pengelolaan limbah batu bara PLTU,2,11.76
+per_periode,mingguan,2018-W08,2,29,Pembuangan limbah B3 ilegal,2,11.76
+per_periode,mingguan,2018-W08,3,23,Banjir bandang di Banyuwangi,2,11.76
+per_periode,mingguan,2018-W09,1,21,Ratusan rumah terendam luapan sungai,1,14.29
+per_periode,mingguan,2018-W09,2,13,Peringatan Hari Lingkungan Hidup Sedunia,1,14.29
+per_periode,mingguan,2018-W09,3,7,Pencemaran sungai oleh limbah,1,14.29
+per_periode,mingguan,2018-W10,1,4,Keluhan kualitas air PDAM,2,20.0
+per_periode,mingguan,2018-W10,2,10,Banjir akibat hujan deras,2,20.0
+per_periode,mingguan,2018-W10,3,8,Pengelolaan limbah batu bara PLTU,1,10.0
+per_periode,mingguan,2018-W11,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,16.67
+per_periode,mingguan,2018-W11,2,4,Keluhan kualitas air PDAM,2,11.11
+per_periode,mingguan,2018-W11,3,2,Pembuangan limbah medis di Sidoarjo,2,11.11
+per_periode,mingguan,2018-W12,1,14,Bencana banjir dan tanah longsor,2,16.67
+per_periode,mingguan,2018-W12,2,4,Keluhan kualitas air PDAM,1,8.33
+per_periode,mingguan,2018-W12,3,2,Pembuangan limbah medis di Sidoarjo,1,8.33
+per_periode,mingguan,2018-W13,1,19,Sekolah terdampak banjir,1,14.29
+per_periode,mingguan,2018-W13,2,21,Ratusan rumah terendam luapan sungai,1,14.29
+per_periode,mingguan,2018-W13,3,73,Pembangunan sanitary landfill TPA,1,14.29
+per_periode,mingguan,2018-W14,1,7,Pencemaran sungai oleh limbah,2,28.57
+per_periode,mingguan,2018-W14,2,69,Protes warga atas pencemaran pabrik,2,28.57
+per_periode,mingguan,2018-W14,3,29,Pembuangan limbah B3 ilegal,1,14.29
+per_periode,mingguan,2018-W15,1,22,Banjir luapan Bengawan Solo,2,25.0
+per_periode,mingguan,2018-W15,2,38,Banjir berkepanjangan dan dampaknya,2,25.0
+per_periode,mingguan,2018-W15,3,8,Pengelolaan limbah batu bara PLTU,1,12.5
+per_periode,mingguan,2018-W16,1,1,Pengelolaan sampah di TPS 3R,1,10.0
+per_periode,mingguan,2018-W16,2,4,Keluhan kualitas air PDAM,1,10.0
+per_periode,mingguan,2018-W16,3,10,Banjir akibat hujan deras,1,10.0
+per_periode,mingguan,2018-W17,1,4,Keluhan kualitas air PDAM,1,20.0
+per_periode,mingguan,2018-W17,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,20.0
+per_periode,mingguan,2018-W17,3,17,Dampak dan penyebab polusi udara,1,20.0
+per_periode,mingguan,2018-W18,1,2,Pembuangan limbah medis di Sidoarjo,2,100.0
+per_periode,mingguan,2018-W19,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,18.18
+per_periode,mingguan,2018-W19,2,4,Keluhan kualitas air PDAM,1,9.09
+per_periode,mingguan,2018-W19,3,2,Pembuangan limbah medis di Sidoarjo,1,9.09
+per_periode,mingguan,2018-W20,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,33.33
+per_periode,mingguan,2018-W20,2,14,Bencana banjir dan tanah longsor,1,11.11
+per_periode,mingguan,2018-W20,3,10,Banjir akibat hujan deras,1,11.11
+per_periode,mingguan,2018-W21,1,9,Pembangunan drainase jalan,1,20.0
+per_periode,mingguan,2018-W21,2,31,Volume produksi sampah harian daerah,1,20.0
+per_periode,mingguan,2018-W21,3,27,Pengelolaan sampah dan higiene dapur MBG,1,20.0
+per_periode,mingguan,2018-W22,1,2,Pembuangan limbah medis di Sidoarjo,1,25.0
+per_periode,mingguan,2018-W22,2,9,Pembangunan drainase jalan,1,25.0
+per_periode,mingguan,2018-W22,3,61,Kecelakaan motor gerobak sampah,1,25.0
+per_periode,mingguan,2018-W23,1,0,Distribusi bantuan air bersih saat kekeringan,1,14.29
+per_periode,mingguan,2018-W23,2,18,Jembatan putus diterjang banjir lahar Semeru,1,14.29
+per_periode,mingguan,2018-W23,3,12,Desa di Pasuruan terendam banjir,1,14.29
+per_periode,mingguan,2018-W25,1,18,Jembatan putus diterjang banjir lahar Semeru,2,15.38
+per_periode,mingguan,2018-W25,2,26,Pengelolaan bank sampah,2,15.38
+per_periode,mingguan,2018-W25,3,7,Pencemaran sungai oleh limbah,1,7.69
+per_periode,mingguan,2018-W26,1,39,Pejabat daerah tinjau lokasi banjir,2,22.22
+per_periode,mingguan,2018-W26,2,2,Pembuangan limbah medis di Sidoarjo,1,11.11
+per_periode,mingguan,2018-W26,3,1,Pengelolaan sampah di TPS 3R,1,11.11
+per_periode,mingguan,2018-W27,1,1,Pengelolaan sampah di TPS 3R,1,16.67
+per_periode,mingguan,2018-W27,2,9,Pembangunan drainase jalan,1,16.67
+per_periode,mingguan,2018-W27,3,8,Pengelolaan limbah batu bara PLTU,1,16.67
+per_periode,mingguan,2018-W28,1,9,Pembangunan drainase jalan,3,18.75
+per_periode,mingguan,2018-W28,2,8,Pengelolaan limbah batu bara PLTU,2,12.5
+per_periode,mingguan,2018-W28,3,2,Pembuangan limbah medis di Sidoarjo,2,12.5
+per_periode,mingguan,2018-W29,1,0,Distribusi bantuan air bersih saat kekeringan,2,22.22
+per_periode,mingguan,2018-W29,2,1,Pengelolaan sampah di TPS 3R,2,22.22
+per_periode,mingguan,2018-W29,3,7,Pencemaran sungai oleh limbah,1,11.11
+per_periode,mingguan,2018-W30,1,1,Pengelolaan sampah di TPS 3R,2,25.0
+per_periode,mingguan,2018-W30,2,0,Distribusi bantuan air bersih saat kekeringan,1,12.5
+per_periode,mingguan,2018-W30,3,2,Pembuangan limbah medis di Sidoarjo,1,12.5
+per_periode,mingguan,2018-W31,1,24,Tarif dan pelanggan PDAM Surabaya,2,18.18
+per_periode,mingguan,2018-W31,2,2,Pembuangan limbah medis di Sidoarjo,1,9.09
+per_periode,mingguan,2018-W31,3,0,Distribusi bantuan air bersih saat kekeringan,1,9.09
+per_periode,mingguan,2018-W32,1,4,Keluhan kualitas air PDAM,2,18.18
+per_periode,mingguan,2018-W32,2,18,Jembatan putus diterjang banjir lahar Semeru,2,18.18
+per_periode,mingguan,2018-W32,3,12,Desa di Pasuruan terendam banjir,2,18.18
+per_periode,mingguan,2018-W33,1,1,Pengelolaan sampah di TPS 3R,2,22.22
+per_periode,mingguan,2018-W33,2,0,Distribusi bantuan air bersih saat kekeringan,1,11.11
+per_periode,mingguan,2018-W33,3,7,Pencemaran sungai oleh limbah,1,11.11
+per_periode,mingguan,2018-W34,1,27,Pengelolaan sampah dan higiene dapur MBG,2,20.0
+per_periode,mingguan,2018-W34,2,1,Pengelolaan sampah di TPS 3R,1,10.0
+per_periode,mingguan,2018-W34,3,0,Distribusi bantuan air bersih saat kekeringan,1,10.0
+per_periode,mingguan,2018-W35,1,0,Distribusi bantuan air bersih saat kekeringan,3,23.08
+per_periode,mingguan,2018-W35,2,4,Keluhan kualitas air PDAM,2,15.38
+per_periode,mingguan,2018-W35,3,2,Pembuangan limbah medis di Sidoarjo,1,7.69
+per_periode,mingguan,2018-W36,1,2,Pembuangan limbah medis di Sidoarjo,1,9.09
+per_periode,mingguan,2018-W36,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,9.09
+per_periode,mingguan,2018-W36,3,7,Pencemaran sungai oleh limbah,1,9.09
+per_periode,mingguan,2018-W37,1,27,Pengelolaan sampah dan higiene dapur MBG,2,18.18
+per_periode,mingguan,2018-W37,2,1,Pengelolaan sampah di TPS 3R,1,9.09
+per_periode,mingguan,2018-W37,3,0,Distribusi bantuan air bersih saat kekeringan,1,9.09
+per_periode,mingguan,2018-W38,1,0,Distribusi bantuan air bersih saat kekeringan,1,12.5
+per_periode,mingguan,2018-W38,2,1,Pengelolaan sampah di TPS 3R,1,12.5
+per_periode,mingguan,2018-W38,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,12.5
+per_periode,mingguan,2018-W39,1,1,Pengelolaan sampah di TPS 3R,2,28.57
+per_periode,mingguan,2018-W39,2,4,Keluhan kualitas air PDAM,1,14.29
+per_periode,mingguan,2018-W39,3,8,Pengelolaan limbah batu bara PLTU,1,14.29
+per_periode,mingguan,2018-W40,1,0,Distribusi bantuan air bersih saat kekeringan,1,11.11
+per_periode,mingguan,2018-W40,2,1,Pengelolaan sampah di TPS 3R,1,11.11
+per_periode,mingguan,2018-W40,3,2,Pembuangan limbah medis di Sidoarjo,1,11.11
+per_periode,mingguan,2018-W41,1,65,Bau busuk limbah pabrik bulu ayam,2,22.22
+per_periode,mingguan,2018-W41,2,2,Pembuangan limbah medis di Sidoarjo,1,11.11
+per_periode,mingguan,2018-W41,3,1,Pengelolaan sampah di TPS 3R,1,11.11
+per_periode,mingguan,2018-W42,1,0,Distribusi bantuan air bersih saat kekeringan,2,25.0
+per_periode,mingguan,2018-W42,2,1,Pengelolaan sampah di TPS 3R,1,12.5
+per_periode,mingguan,2018-W42,3,14,Bencana banjir dan tanah longsor,1,12.5
+per_periode,mingguan,2018-W43,1,7,Pencemaran sungai oleh limbah,2,33.33
+per_periode,mingguan,2018-W43,2,10,Banjir akibat hujan deras,1,16.67
+per_periode,mingguan,2018-W43,3,1,Pengelolaan sampah di TPS 3R,1,16.67
+per_periode,mingguan,2018-W44,1,4,Keluhan kualitas air PDAM,2,28.57
+per_periode,mingguan,2018-W44,2,2,Pembuangan limbah medis di Sidoarjo,1,14.29
+per_periode,mingguan,2018-W44,3,0,Distribusi bantuan air bersih saat kekeringan,1,14.29
+per_periode,mingguan,2018-W45,1,4,Keluhan kualitas air PDAM,1,20.0
+per_periode,mingguan,2018-W45,2,8,Pengelolaan limbah batu bara PLTU,1,20.0
+per_periode,mingguan,2018-W45,3,7,Pencemaran sungai oleh limbah,1,20.0
+per_periode,mingguan,2018-W46,1,4,Keluhan kualitas air PDAM,2,16.67
+per_periode,mingguan,2018-W46,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,16.67
+per_periode,mingguan,2018-W46,3,24,Tarif dan pelanggan PDAM Surabaya,2,16.67
+per_periode,mingguan,2018-W47,1,26,Pengelolaan bank sampah,3,30.0
+per_periode,mingguan,2018-W47,2,4,Keluhan kualitas air PDAM,1,10.0
+per_periode,mingguan,2018-W47,3,2,Pembuangan limbah medis di Sidoarjo,1,10.0
+per_periode,mingguan,2018-W48,1,1,Pengelolaan sampah di TPS 3R,1,6.25
+per_periode,mingguan,2018-W48,2,2,Pembuangan limbah medis di Sidoarjo,1,6.25
+per_periode,mingguan,2018-W48,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,6.25
+per_periode,mingguan,2018-W49,1,14,Bencana banjir dan tanah longsor,2,13.33
+per_periode,mingguan,2018-W49,2,20,Sampah menumpuk di pantai,1,6.67
+per_periode,mingguan,2018-W49,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,6.67
+per_periode,mingguan,2018-W50,1,21,Ratusan rumah terendam luapan sungai,3,12.5
+per_periode,mingguan,2018-W50,2,27,Pengelolaan sampah dan higiene dapur MBG,3,12.5
+per_periode,mingguan,2018-W50,3,11,Kebakaran gudang akibat bakar sampah,2,8.33
+per_periode,mingguan,2018-W51,1,6,Penggunaan sampah plastik sebagai bahan bakar,1,20.0
+per_periode,mingguan,2018-W51,2,38,Banjir berkepanjangan dan dampaknya,1,20.0
+per_periode,mingguan,2018-W51,3,29,Pembuangan limbah B3 ilegal,1,20.0
+per_periode,mingguan,2018-W52,1,14,Bencana banjir dan tanah longsor,2,22.22
+per_periode,mingguan,2018-W52,2,5,Edukasi lingkungan dan inovasi mahasiswa,1,11.11
+per_periode,mingguan,2018-W52,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,11.11
+per_periode,mingguan,2019-W01,1,22,Banjir luapan Bengawan Solo,3,30.0
+per_periode,mingguan,2019-W01,2,54,Tukang sampah maju jadi calon legislatif,2,20.0
+per_periode,mingguan,2019-W01,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,10.0
+per_periode,mingguan,2019-W02,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,15.79
+per_periode,mingguan,2019-W02,2,9,Pembangunan drainase jalan,3,15.79
+per_periode,mingguan,2019-W02,3,2,Pembuangan limbah medis di Sidoarjo,2,10.53
+per_periode,mingguan,2019-W03,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,11.54
+per_periode,mingguan,2019-W03,2,13,Peringatan Hari Lingkungan Hidup Sedunia,3,11.54
+per_periode,mingguan,2019-W03,3,9,Pembangunan drainase jalan,2,7.69
+per_periode,mingguan,2019-W04,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,15.0
+per_periode,mingguan,2019-W04,2,9,Pembangunan drainase jalan,2,10.0
+per_periode,mingguan,2019-W04,3,7,Pencemaran sungai oleh limbah,2,10.0
+per_periode,mingguan,2019-W05,1,5,Edukasi lingkungan dan inovasi mahasiswa,3,11.11
+per_periode,mingguan,2019-W05,2,74,Penemuan mayat di kamar kos,3,11.11
+per_periode,mingguan,2019-W05,3,18,Jembatan putus diterjang banjir lahar Semeru,2,7.41
+per_periode,mingguan,2019-W06,1,14,Bencana banjir dan tanah longsor,2,22.22
+per_periode,mingguan,2019-W06,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,11.11
+per_periode,mingguan,2019-W06,3,4,Keluhan kualitas air PDAM,1,11.11
+per_periode,mingguan,2019-W07,1,0,Distribusi bantuan air bersih saat kekeringan,1,12.5
+per_periode,mingguan,2019-W07,2,1,Pengelolaan sampah di TPS 3R,1,12.5
+per_periode,mingguan,2019-W07,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,12.5
+per_periode,mingguan,2019-W08,1,4,Keluhan kualitas air PDAM,2,12.5
+per_periode,mingguan,2019-W08,2,22,Banjir luapan Bengawan Solo,2,12.5
+per_periode,mingguan,2019-W08,3,14,Bencana banjir dan tanah longsor,2,12.5
+per_periode,mingguan,2019-W09,1,14,Bencana banjir dan tanah longsor,2,20.0
+per_periode,mingguan,2019-W09,2,2,Pembuangan limbah medis di Sidoarjo,1,10.0
+per_periode,mingguan,2019-W09,3,0,Distribusi bantuan air bersih saat kekeringan,1,10.0
+per_periode,mingguan,2019-W10,1,17,Dampak dan penyebab polusi udara,4,8.33
+per_periode,mingguan,2019-W10,2,13,Peringatan Hari Lingkungan Hidup Sedunia,4,8.33
+per_periode,mingguan,2019-W10,3,10,Banjir akibat hujan deras,4,8.33
+per_periode,mingguan,2019-W11,1,6,Penggunaan sampah plastik sebagai bahan bakar,2,20.0
+per_periode,mingguan,2019-W11,2,23,Banjir bandang di Banyuwangi,2,20.0
+per_periode,mingguan,2019-W11,3,0,Distribusi bantuan air bersih saat kekeringan,1,10.0
+per_periode,mingguan,2019-W12,1,14,Bencana banjir dan tanah longsor,3,12.0
+per_periode,mingguan,2019-W12,2,13,Peringatan Hari Lingkungan Hidup Sedunia,2,8.0
+per_periode,mingguan,2019-W12,3,0,Distribusi bantuan air bersih saat kekeringan,2,8.0
+per_periode,mingguan,2019-W13,1,6,Penggunaan sampah plastik sebagai bahan bakar,2,18.18
+per_periode,mingguan,2019-W13,2,56,Pengolahan limbah minyak jelantah,2,18.18
+per_periode,mingguan,2019-W13,3,4,Keluhan kualitas air PDAM,1,9.09
+per_periode,mingguan,2019-W14,1,4,Keluhan kualitas air PDAM,1,20.0
+per_periode,mingguan,2019-W14,2,38,Banjir berkepanjangan dan dampaknya,1,20.0
+per_periode,mingguan,2019-W14,3,27,Pengelolaan sampah dan higiene dapur MBG,1,20.0
+per_periode,mingguan,2019-W15,1,7,Pencemaran sungai oleh limbah,5,27.78
+per_periode,mingguan,2019-W15,2,21,Ratusan rumah terendam luapan sungai,3,16.67
+per_periode,mingguan,2019-W15,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,11.11
+per_periode,mingguan,2019-W16,1,4,Keluhan kualitas air PDAM,1,33.33
+per_periode,mingguan,2019-W16,2,20,Sampah menumpuk di pantai,1,33.33
+per_periode,mingguan,2019-W16,3,71,Fashion show busana daur ulang sampah,1,33.33
+per_periode,mingguan,2019-W17,1,10,Banjir akibat hujan deras,2,18.18
+per_periode,mingguan,2019-W17,2,19,Sekolah terdampak banjir,2,18.18
+per_periode,mingguan,2019-W17,3,0,Distribusi bantuan air bersih saat kekeringan,1,9.09
+per_periode,mingguan,2019-W18,1,13,Peringatan Hari Lingkungan Hidup Sedunia,3,11.54
+per_periode,mingguan,2019-W18,2,44,Kabar banjir di luar Jawa Timur,3,11.54
+per_periode,mingguan,2019-W18,3,5,Edukasi lingkungan dan inovasi mahasiswa,2,7.69
+per_periode,mingguan,2019-W19,1,10,Banjir akibat hujan deras,2,33.33
+per_periode,mingguan,2019-W19,2,8,Pengelolaan limbah batu bara PLTU,1,16.67
+per_periode,mingguan,2019-W19,3,22,Banjir luapan Bengawan Solo,1,16.67
+per_periode,mingguan,2019-W20,1,23,Banjir bandang di Banyuwangi,2,22.22
+per_periode,mingguan,2019-W20,2,38,Banjir berkepanjangan dan dampaknya,2,22.22
+per_periode,mingguan,2019-W20,3,4,Keluhan kualitas air PDAM,1,11.11
+per_periode,mingguan,2019-W21,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,25.0
+per_periode,mingguan,2019-W21,2,31,Volume produksi sampah harian daerah,1,25.0
+per_periode,mingguan,2019-W21,3,27,Pengelolaan sampah dan higiene dapur MBG,1,25.0
+per_periode,mingguan,2019-W22,1,4,Keluhan kualitas air PDAM,1,20.0
+per_periode,mingguan,2019-W22,2,31,Volume produksi sampah harian daerah,1,20.0
+per_periode,mingguan,2019-W22,3,24,Tarif dan pelanggan PDAM Surabaya,1,20.0
+per_periode,mingguan,2019-W23,1,19,Sekolah terdampak banjir,2,50.0
+per_periode,mingguan,2019-W23,2,22,Banjir luapan Bengawan Solo,1,25.0
+per_periode,mingguan,2019-W23,3,35,Polusi udara DKI Jakarta,1,25.0
+per_periode,mingguan,2019-W24,1,1,Pengelolaan sampah di TPS 3R,2,12.5
+per_periode,mingguan,2019-W24,2,35,Polusi udara DKI Jakarta,2,12.5
+per_periode,mingguan,2019-W24,3,0,Distribusi bantuan air bersih saat kekeringan,1,6.25
+per_periode,mingguan,2019-W25,1,7,Pencemaran sungai oleh limbah,2,12.5
+per_periode,mingguan,2019-W25,2,1,Pengelolaan sampah di TPS 3R,1,6.25
+per_periode,mingguan,2019-W25,3,0,Distribusi bantuan air bersih saat kekeringan,1,6.25
+per_periode,mingguan,2019-W26,1,1,Pengelolaan sampah di TPS 3R,6,35.29
+per_periode,mingguan,2019-W26,2,0,Distribusi bantuan air bersih saat kekeringan,2,11.76
+per_periode,mingguan,2019-W26,3,18,Jembatan putus diterjang banjir lahar Semeru,2,11.76
+per_periode,mingguan,2019-W27,1,4,Keluhan kualitas air PDAM,4,26.67
+per_periode,mingguan,2019-W27,2,7,Pencemaran sungai oleh limbah,2,13.33
+per_periode,mingguan,2019-W27,3,1,Pengelolaan sampah di TPS 3R,1,6.67
+per_periode,mingguan,2019-W28,1,18,Jembatan putus diterjang banjir lahar Semeru,4,19.05
+per_periode,mingguan,2019-W28,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,9.52
+per_periode,mingguan,2019-W28,3,1,Pengelolaan sampah di TPS 3R,2,9.52
+per_periode,mingguan,2019-W29,1,14,Bencana banjir dan tanah longsor,4,20.0
+per_periode,mingguan,2019-W29,2,0,Distribusi bantuan air bersih saat kekeringan,3,15.0
+per_periode,mingguan,2019-W29,3,1,Pengelolaan sampah di TPS 3R,2,10.0
+per_periode,mingguan,2019-W30,1,0,Distribusi bantuan air bersih saat kekeringan,2,13.33
+per_periode,mingguan,2019-W30,2,7,Pencemaran sungai oleh limbah,2,13.33
+per_periode,mingguan,2019-W30,3,42,Rumah rusak diterjang banjir bandang,2,13.33
+per_periode,mingguan,2019-W31,1,18,Jembatan putus diterjang banjir lahar Semeru,4,14.81
+per_periode,mingguan,2019-W31,2,4,Keluhan kualitas air PDAM,3,11.11
+per_periode,mingguan,2019-W31,3,2,Pembuangan limbah medis di Sidoarjo,3,11.11
+per_periode,mingguan,2019-W32,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,21.05
+per_periode,mingguan,2019-W32,2,1,Pengelolaan sampah di TPS 3R,2,10.53
+per_periode,mingguan,2019-W32,3,27,Pengelolaan sampah dan higiene dapur MBG,2,10.53
+per_periode,mingguan,2019-W33,1,0,Distribusi bantuan air bersih saat kekeringan,3,17.65
+per_periode,mingguan,2019-W33,2,6,Penggunaan sampah plastik sebagai bahan bakar,3,17.65
+per_periode,mingguan,2019-W33,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,11.76
+per_periode,mingguan,2019-W34,1,1,Pengelolaan sampah di TPS 3R,4,22.22
+per_periode,mingguan,2019-W34,2,0,Distribusi bantuan air bersih saat kekeringan,3,16.67
+per_periode,mingguan,2019-W34,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,5.56
+per_periode,mingguan,2019-W35,1,0,Distribusi bantuan air bersih saat kekeringan,2,13.33
+per_periode,mingguan,2019-W35,2,1,Pengelolaan sampah di TPS 3R,2,13.33
+per_periode,mingguan,2019-W35,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,13.33
+per_periode,mingguan,2019-W36,1,2,Pembuangan limbah medis di Sidoarjo,5,29.41
+per_periode,mingguan,2019-W36,2,0,Distribusi bantuan air bersih saat kekeringan,3,17.65
+per_periode,mingguan,2019-W36,3,7,Pencemaran sungai oleh limbah,2,11.76
+per_periode,mingguan,2019-W37,1,6,Penggunaan sampah plastik sebagai bahan bakar,4,26.67
+per_periode,mingguan,2019-W37,2,4,Keluhan kualitas air PDAM,3,20.0
+per_periode,mingguan,2019-W37,3,9,Pembangunan drainase jalan,2,13.33
+per_periode,mingguan,2019-W38,1,1,Pengelolaan sampah di TPS 3R,3,15.0
+per_periode,mingguan,2019-W38,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,15.0
+per_periode,mingguan,2019-W38,3,0,Distribusi bantuan air bersih saat kekeringan,2,10.0
+per_periode,mingguan,2019-W39,1,1,Pengelolaan sampah di TPS 3R,4,20.0
+per_periode,mingguan,2019-W39,2,9,Pembangunan drainase jalan,3,15.0
+per_periode,mingguan,2019-W39,3,7,Pencemaran sungai oleh limbah,2,10.0
+per_periode,mingguan,2019-W40,1,6,Penggunaan sampah plastik sebagai bahan bakar,4,20.0
+per_periode,mingguan,2019-W40,2,4,Keluhan kualitas air PDAM,3,15.0
+per_periode,mingguan,2019-W40,3,0,Distribusi bantuan air bersih saat kekeringan,2,10.0
+per_periode,mingguan,2019-W41,1,1,Pengelolaan sampah di TPS 3R,3,23.08
+per_periode,mingguan,2019-W41,2,0,Distribusi bantuan air bersih saat kekeringan,2,15.38
+per_periode,mingguan,2019-W41,3,4,Keluhan kualitas air PDAM,1,7.69
+per_periode,mingguan,2019-W42,1,0,Distribusi bantuan air bersih saat kekeringan,2,12.5
+per_periode,mingguan,2019-W42,2,37,Topik campuran/perlu ditinjau,2,12.5
+per_periode,mingguan,2019-W42,3,38,Banjir berkepanjangan dan dampaknya,2,12.5
+per_periode,mingguan,2019-W43,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,20.0
+per_periode,mingguan,2019-W43,2,2,Pembuangan limbah medis di Sidoarjo,1,10.0
+per_periode,mingguan,2019-W43,3,1,Pengelolaan sampah di TPS 3R,1,10.0
+per_periode,mingguan,2019-W44,1,4,Keluhan kualitas air PDAM,3,18.75
+per_periode,mingguan,2019-W44,2,0,Distribusi bantuan air bersih saat kekeringan,2,12.5
+per_periode,mingguan,2019-W44,3,1,Pengelolaan sampah di TPS 3R,1,6.25
+per_periode,mingguan,2019-W45,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,20.0
+per_periode,mingguan,2019-W45,2,4,Keluhan kualitas air PDAM,1,6.67
+per_periode,mingguan,2019-W45,3,2,Pembuangan limbah medis di Sidoarjo,1,6.67
+per_periode,mingguan,2019-W46,1,4,Keluhan kualitas air PDAM,3,23.08
+per_periode,mingguan,2019-W46,2,7,Pencemaran sungai oleh limbah,2,15.38
+per_periode,mingguan,2019-W46,3,43,Korban jiwa banjir bandang,2,15.38
+per_periode,mingguan,2019-W47,1,7,Pencemaran sungai oleh limbah,8,25.0
+per_periode,mingguan,2019-W47,2,18,Jembatan putus diterjang banjir lahar Semeru,3,9.38
+per_periode,mingguan,2019-W47,3,0,Distribusi bantuan air bersih saat kekeringan,3,9.38
+per_periode,mingguan,2019-W48,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,5,21.74
+per_periode,mingguan,2019-W48,2,7,Pencemaran sungai oleh limbah,5,21.74
+per_periode,mingguan,2019-W48,3,65,Bau busuk limbah pabrik bulu ayam,3,13.04
+per_periode,mingguan,2019-W49,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,11.76
+per_periode,mingguan,2019-W49,2,4,Keluhan kualitas air PDAM,2,11.76
+per_periode,mingguan,2019-W49,3,7,Pencemaran sungai oleh limbah,2,11.76
+per_periode,mingguan,2019-W50,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,10.53
+per_periode,mingguan,2019-W50,2,10,Banjir akibat hujan deras,2,10.53
+per_periode,mingguan,2019-W50,3,27,Pengelolaan sampah dan higiene dapur MBG,2,10.53
+per_periode,mingguan,2019-W51,1,31,Volume produksi sampah harian daerah,6,30.0
+per_periode,mingguan,2019-W51,2,7,Pencemaran sungai oleh limbah,3,15.0
+per_periode,mingguan,2019-W51,3,2,Pembuangan limbah medis di Sidoarjo,2,10.0
+per_periode,mingguan,2019-W52,1,31,Volume produksi sampah harian daerah,5,21.74
+per_periode,mingguan,2019-W52,2,20,Sampah menumpuk di pantai,2,8.7
+per_periode,mingguan,2019-W52,3,6,Penggunaan sampah plastik sebagai bahan bakar,2,8.7
+per_periode,mingguan,2020-W01,1,17,Dampak dan penyebab polusi udara,7,19.44
+per_periode,mingguan,2020-W01,2,47,Penertiban sampah ilegal oleh Pemkot Surabaya,5,13.89
+per_periode,mingguan,2020-W01,3,10,Banjir akibat hujan deras,2,5.56
+per_periode,mingguan,2020-W02,1,17,Dampak dan penyebab polusi udara,4,12.5
+per_periode,mingguan,2020-W02,2,21,Ratusan rumah terendam luapan sungai,3,9.38
+per_periode,mingguan,2020-W02,3,31,Volume produksi sampah harian daerah,3,9.38
+per_periode,mingguan,2020-W03,1,5,Edukasi lingkungan dan inovasi mahasiswa,16,38.1
+per_periode,mingguan,2020-W03,2,6,Penggunaan sampah plastik sebagai bahan bakar,4,9.52
+per_periode,mingguan,2020-W03,3,10,Banjir akibat hujan deras,3,7.14
+per_periode,mingguan,2020-W04,1,7,Pencemaran sungai oleh limbah,3,12.0
+per_periode,mingguan,2020-W04,2,18,Jembatan putus diterjang banjir lahar Semeru,3,12.0
+per_periode,mingguan,2020-W04,3,27,Pengelolaan sampah dan higiene dapur MBG,3,12.0
+per_periode,mingguan,2020-W05,1,5,Edukasi lingkungan dan inovasi mahasiswa,10,25.64
+per_periode,mingguan,2020-W05,2,53,Normalisasi sungai untuk cegah banjir,8,20.51
+per_periode,mingguan,2020-W05,3,26,Pengelolaan bank sampah,5,12.82
+per_periode,mingguan,2020-W06,1,21,Ratusan rumah terendam luapan sungai,2,13.33
+per_periode,mingguan,2020-W06,2,27,Pengelolaan sampah dan higiene dapur MBG,2,13.33
+per_periode,mingguan,2020-W06,3,2,Pembuangan limbah medis di Sidoarjo,1,6.67
+per_periode,mingguan,2020-W07,1,21,Ratusan rumah terendam luapan sungai,2,9.52
+per_periode,mingguan,2020-W07,2,26,Pengelolaan bank sampah,2,9.52
+per_periode,mingguan,2020-W07,3,5,Edukasi lingkungan dan inovasi mahasiswa,1,4.76
+per_periode,mingguan,2020-W08,1,0,Distribusi bantuan air bersih saat kekeringan,2,7.69
+per_periode,mingguan,2020-W08,2,4,Keluhan kualitas air PDAM,2,7.69
+per_periode,mingguan,2020-W08,3,8,Pengelolaan limbah batu bara PLTU,2,7.69
+per_periode,mingguan,2020-W09,1,21,Ratusan rumah terendam luapan sungai,4,15.38
+per_periode,mingguan,2020-W09,2,10,Banjir akibat hujan deras,3,11.54
+per_periode,mingguan,2020-W09,3,15,Banjir putus akses jalan raya,2,7.69
+per_periode,mingguan,2020-W10,1,6,Penggunaan sampah plastik sebagai bahan bakar,4,22.22
+per_periode,mingguan,2020-W10,2,16,Pencemaran sampah plastik di Surabaya,3,16.67
+per_periode,mingguan,2020-W10,3,5,Edukasi lingkungan dan inovasi mahasiswa,2,11.11
+per_periode,mingguan,2020-W11,1,9,Pembangunan drainase jalan,2,18.18
+per_periode,mingguan,2020-W11,2,26,Pengelolaan bank sampah,2,18.18
+per_periode,mingguan,2020-W11,3,2,Pembuangan limbah medis di Sidoarjo,1,9.09
+per_periode,mingguan,2020-W12,1,7,Pencemaran sungai oleh limbah,2,22.22
+per_periode,mingguan,2020-W12,2,35,Polusi udara DKI Jakarta,2,22.22
+per_periode,mingguan,2020-W12,3,4,Keluhan kualitas air PDAM,1,11.11
+per_periode,mingguan,2020-W13,1,0,Distribusi bantuan air bersih saat kekeringan,1,20.0
+per_periode,mingguan,2020-W13,2,12,Desa di Pasuruan terendam banjir,1,20.0
+per_periode,mingguan,2020-W13,3,35,Polusi udara DKI Jakarta,1,20.0
+per_periode,mingguan,2020-W14,1,13,Peringatan Hari Lingkungan Hidup Sedunia,3,30.0
+per_periode,mingguan,2020-W14,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,20.0
+per_periode,mingguan,2020-W14,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,10.0
+per_periode,mingguan,2020-W15,1,6,Penggunaan sampah plastik sebagai bahan bakar,2,22.22
+per_periode,mingguan,2020-W15,2,13,Peringatan Hari Lingkungan Hidup Sedunia,2,22.22
+per_periode,mingguan,2020-W15,3,2,Pembuangan limbah medis di Sidoarjo,1,11.11
+per_periode,mingguan,2020-W16,1,17,Dampak dan penyebab polusi udara,3,33.33
+per_periode,mingguan,2020-W16,2,10,Banjir akibat hujan deras,1,11.11
+per_periode,mingguan,2020-W16,3,4,Keluhan kualitas air PDAM,1,11.11
+per_periode,mingguan,2020-W17,1,4,Keluhan kualitas air PDAM,2,25.0
+per_periode,mingguan,2020-W17,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,12.5
+per_periode,mingguan,2020-W17,3,2,Pembuangan limbah medis di Sidoarjo,1,12.5
+per_periode,mingguan,2020-W18,1,18,Jembatan putus diterjang banjir lahar Semeru,2,33.33
+per_periode,mingguan,2020-W18,2,7,Pencemaran sungai oleh limbah,1,16.67
+per_periode,mingguan,2020-W18,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,16.67
+per_periode,mingguan,2020-W19,1,4,Keluhan kualitas air PDAM,2,25.0
+per_periode,mingguan,2020-W19,2,17,Dampak dan penyebab polusi udara,1,12.5
+per_periode,mingguan,2020-W19,3,19,Sekolah terdampak banjir,1,12.5
+per_periode,mingguan,2020-W20,1,19,Sekolah terdampak banjir,1,11.11
+per_periode,mingguan,2020-W20,2,14,Bencana banjir dan tanah longsor,1,11.11
+per_periode,mingguan,2020-W20,3,9,Pembangunan drainase jalan,1,11.11
+per_periode,mingguan,2020-W21,1,27,Pengelolaan sampah dan higiene dapur MBG,1,50.0
+per_periode,mingguan,2020-W21,2,75,Limbah kulit kopi jadi briket,1,50.0
+per_periode,mingguan,2020-W22,1,5,Edukasi lingkungan dan inovasi mahasiswa,3,42.86
+per_periode,mingguan,2020-W22,2,44,Kabar banjir di luar Jawa Timur,2,28.57
+per_periode,mingguan,2020-W22,3,26,Pengelolaan bank sampah,1,14.29
+per_periode,mingguan,2020-W23,1,28,Banjir bandang Kota Batu,3,30.0
+per_periode,mingguan,2020-W23,2,14,Bencana banjir dan tanah longsor,2,20.0
+per_periode,mingguan,2020-W23,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,20.0
+per_periode,mingguan,2020-W24,1,4,Keluhan kualitas air PDAM,2,40.0
+per_periode,mingguan,2020-W24,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,20.0
+per_periode,mingguan,2020-W24,3,22,Banjir luapan Bengawan Solo,1,20.0
+per_periode,mingguan,2020-W25,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,20.0
+per_periode,mingguan,2020-W25,2,7,Pencemaran sungai oleh limbah,3,20.0
+per_periode,mingguan,2020-W25,3,4,Keluhan kualitas air PDAM,2,13.33
+per_periode,mingguan,2020-W26,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,8,40.0
+per_periode,mingguan,2020-W26,2,5,Edukasi lingkungan dan inovasi mahasiswa,2,10.0
+per_periode,mingguan,2020-W26,3,7,Pencemaran sungai oleh limbah,2,10.0
+per_periode,mingguan,2020-W27,1,4,Keluhan kualitas air PDAM,3,27.27
+per_periode,mingguan,2020-W27,2,2,Pembuangan limbah medis di Sidoarjo,2,18.18
+per_periode,mingguan,2020-W27,3,7,Pencemaran sungai oleh limbah,2,18.18
+per_periode,mingguan,2020-W28,1,2,Pembuangan limbah medis di Sidoarjo,3,30.0
+per_periode,mingguan,2020-W28,2,7,Pencemaran sungai oleh limbah,2,20.0
+per_periode,mingguan,2020-W28,3,1,Pengelolaan sampah di TPS 3R,1,10.0
+per_periode,mingguan,2020-W29,1,0,Distribusi bantuan air bersih saat kekeringan,1,12.5
+per_periode,mingguan,2020-W29,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,12.5
+per_periode,mingguan,2020-W29,3,9,Pembangunan drainase jalan,1,12.5
+per_periode,mingguan,2020-W30,1,9,Pembangunan drainase jalan,2,25.0
+per_periode,mingguan,2020-W30,2,5,Edukasi lingkungan dan inovasi mahasiswa,1,12.5
+per_periode,mingguan,2020-W30,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,12.5
+per_periode,mingguan,2020-W31,1,0,Distribusi bantuan air bersih saat kekeringan,1,10.0
+per_periode,mingguan,2020-W31,2,2,Pembuangan limbah medis di Sidoarjo,1,10.0
+per_periode,mingguan,2020-W31,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,10.0
+per_periode,mingguan,2020-W32,1,7,Pencemaran sungai oleh limbah,1,20.0
+per_periode,mingguan,2020-W32,2,31,Volume produksi sampah harian daerah,1,20.0
+per_periode,mingguan,2020-W32,3,38,Banjir berkepanjangan dan dampaknya,1,20.0
+per_periode,mingguan,2020-W33,1,42,Rumah rusak diterjang banjir bandang,2,25.0
+per_periode,mingguan,2020-W33,2,16,Pencemaran sampah plastik di Surabaya,1,12.5
+per_periode,mingguan,2020-W33,3,1,Pengelolaan sampah di TPS 3R,1,12.5
+per_periode,mingguan,2020-W34,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,25.0
+per_periode,mingguan,2020-W34,2,18,Jembatan putus diterjang banjir lahar Semeru,1,12.5
+per_periode,mingguan,2020-W34,3,11,Kebakaran gudang akibat bakar sampah,1,12.5
+per_periode,mingguan,2020-W35,1,6,Penggunaan sampah plastik sebagai bahan bakar,4,18.18
+per_periode,mingguan,2020-W35,2,8,Pengelolaan limbah batu bara PLTU,4,18.18
+per_periode,mingguan,2020-W35,3,1,Pengelolaan sampah di TPS 3R,2,9.09
+per_periode,mingguan,2020-W36,1,1,Pengelolaan sampah di TPS 3R,2,10.0
+per_periode,mingguan,2020-W36,2,8,Pengelolaan limbah batu bara PLTU,2,10.0
+per_periode,mingguan,2020-W36,3,35,Polusi udara DKI Jakarta,2,10.0
+per_periode,mingguan,2020-W37,1,1,Pengelolaan sampah di TPS 3R,3,50.0
+per_periode,mingguan,2020-W37,2,9,Pembangunan drainase jalan,2,33.33
+per_periode,mingguan,2020-W37,3,23,Banjir bandang di Banyuwangi,1,16.67
+per_periode,mingguan,2020-W38,1,1,Pengelolaan sampah di TPS 3R,3,17.65
+per_periode,mingguan,2020-W38,2,0,Distribusi bantuan air bersih saat kekeringan,2,11.76
+per_periode,mingguan,2020-W38,3,4,Keluhan kualitas air PDAM,2,11.76
+per_periode,mingguan,2020-W39,1,0,Distribusi bantuan air bersih saat kekeringan,2,15.38
+per_periode,mingguan,2020-W39,2,1,Pengelolaan sampah di TPS 3R,1,7.69
+per_periode,mingguan,2020-W39,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,7.69
+per_periode,mingguan,2020-W40,1,1,Pengelolaan sampah di TPS 3R,3,23.08
+per_periode,mingguan,2020-W40,2,0,Distribusi bantuan air bersih saat kekeringan,2,15.38
+per_periode,mingguan,2020-W40,3,5,Edukasi lingkungan dan inovasi mahasiswa,2,15.38
+per_periode,mingguan,2020-W41,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,21.43
+per_periode,mingguan,2020-W41,2,32,Seleksi dan rotasi direktur PDAM,3,21.43
+per_periode,mingguan,2020-W41,3,2,Pembuangan limbah medis di Sidoarjo,2,14.29
+per_periode,mingguan,2020-W42,1,0,Distribusi bantuan air bersih saat kekeringan,3,30.0
+per_periode,mingguan,2020-W42,2,2,Pembuangan limbah medis di Sidoarjo,1,10.0
+per_periode,mingguan,2020-W42,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,10.0
+per_periode,mingguan,2020-W43,1,0,Distribusi bantuan air bersih saat kekeringan,1,9.09
+per_periode,mingguan,2020-W43,2,5,Edukasi lingkungan dan inovasi mahasiswa,1,9.09
+per_periode,mingguan,2020-W43,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,9.09
+per_periode,mingguan,2020-W44,1,13,Peringatan Hari Lingkungan Hidup Sedunia,3,23.08
+per_periode,mingguan,2020-W44,2,14,Bencana banjir dan tanah longsor,2,15.38
+per_periode,mingguan,2020-W44,3,1,Pengelolaan sampah di TPS 3R,1,7.69
+per_periode,mingguan,2020-W45,1,13,Peringatan Hari Lingkungan Hidup Sedunia,4,14.81
+per_periode,mingguan,2020-W45,2,0,Distribusi bantuan air bersih saat kekeringan,2,7.41
+per_periode,mingguan,2020-W45,3,31,Volume produksi sampah harian daerah,2,7.41
+per_periode,mingguan,2020-W46,1,0,Distribusi bantuan air bersih saat kekeringan,3,15.79
+per_periode,mingguan,2020-W46,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,10.53
+per_periode,mingguan,2020-W46,3,77,Banjir dan tanggul jebol di Ponorogo,2,10.53
+per_periode,mingguan,2020-W47,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,16.67
+per_periode,mingguan,2020-W47,2,16,Pencemaran sampah plastik di Surabaya,2,11.11
+per_periode,mingguan,2020-W47,3,29,Pembuangan limbah B3 ilegal,2,11.11
+per_periode,mingguan,2020-W48,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,20.0
+per_periode,mingguan,2020-W48,2,84,Madrasah hijau tanpa sampah di Banyuwangi,2,20.0
+per_periode,mingguan,2020-W48,3,5,Edukasi lingkungan dan inovasi mahasiswa,1,10.0
+per_periode,mingguan,2020-W49,1,5,Edukasi lingkungan dan inovasi mahasiswa,3,17.65
+per_periode,mingguan,2020-W49,2,13,Peringatan Hari Lingkungan Hidup Sedunia,3,17.65
+per_periode,mingguan,2020-W49,3,15,Banjir putus akses jalan raya,2,11.76
+per_periode,mingguan,2020-W50,1,0,Distribusi bantuan air bersih saat kekeringan,2,10.53
+per_periode,mingguan,2020-W50,2,2,Pembuangan limbah medis di Sidoarjo,2,10.53
+per_periode,mingguan,2020-W50,3,4,Keluhan kualitas air PDAM,2,10.53
+per_periode,mingguan,2020-W51,1,13,Peringatan Hari Lingkungan Hidup Sedunia,2,14.29
+per_periode,mingguan,2020-W51,2,14,Bencana banjir dan tanah longsor,2,14.29
+per_periode,mingguan,2020-W51,3,44,Kabar banjir di luar Jawa Timur,2,14.29
+per_periode,mingguan,2020-W52,1,5,Edukasi lingkungan dan inovasi mahasiswa,2,40.0
+per_periode,mingguan,2020-W52,2,9,Pembangunan drainase jalan,1,20.0
+per_periode,mingguan,2020-W52,3,7,Pencemaran sungai oleh limbah,1,20.0
+per_periode,mingguan,2020-W53,1,5,Edukasi lingkungan dan inovasi mahasiswa,3,21.43
+per_periode,mingguan,2020-W53,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,14.29
+per_periode,mingguan,2020-W53,3,4,Keluhan kualitas air PDAM,2,14.29
+per_periode,mingguan,2021-W01,1,17,Dampak dan penyebab polusi udara,2,13.33
+per_periode,mingguan,2021-W01,2,15,Banjir putus akses jalan raya,2,13.33
+per_periode,mingguan,2021-W01,3,13,Peringatan Hari Lingkungan Hidup Sedunia,2,13.33
+per_periode,mingguan,2021-W02,1,10,Banjir akibat hujan deras,4,12.5
+per_periode,mingguan,2021-W02,2,13,Peringatan Hari Lingkungan Hidup Sedunia,2,6.25
+per_periode,mingguan,2021-W02,3,24,Tarif dan pelanggan PDAM Surabaya,2,6.25
+per_periode,mingguan,2021-W03,1,39,Pejabat daerah tinjau lokasi banjir,4,13.33
+per_periode,mingguan,2021-W03,2,15,Banjir putus akses jalan raya,3,10.0
+per_periode,mingguan,2021-W03,3,17,Dampak dan penyebab polusi udara,3,10.0
+per_periode,mingguan,2021-W04,1,16,Pencemaran sampah plastik di Surabaya,2,12.5
+per_periode,mingguan,2021-W04,2,69,Protes warga atas pencemaran pabrik,2,12.5
+per_periode,mingguan,2021-W04,3,4,Keluhan kualitas air PDAM,1,6.25
+per_periode,mingguan,2021-W05,1,10,Banjir akibat hujan deras,6,14.63
+per_periode,mingguan,2021-W05,2,13,Peringatan Hari Lingkungan Hidup Sedunia,4,9.76
+per_periode,mingguan,2021-W05,3,4,Keluhan kualitas air PDAM,3,7.32
+per_periode,mingguan,2021-W06,1,10,Banjir akibat hujan deras,3,16.67
+per_periode,mingguan,2021-W06,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,11.11
+per_periode,mingguan,2021-W06,3,2,Pembuangan limbah medis di Sidoarjo,2,11.11
+per_periode,mingguan,2021-W07,1,2,Pembuangan limbah medis di Sidoarjo,4,9.76
+per_periode,mingguan,2021-W07,2,7,Pencemaran sungai oleh limbah,4,9.76
+per_periode,mingguan,2021-W07,3,5,Edukasi lingkungan dan inovasi mahasiswa,3,7.32
+per_periode,mingguan,2021-W08,1,7,Pencemaran sungai oleh limbah,3,8.82
+per_periode,mingguan,2021-W08,2,40,Pengolahan limbah organik jadi pupuk,3,8.82
+per_periode,mingguan,2021-W08,3,4,Keluhan kualitas air PDAM,2,5.88
+per_periode,mingguan,2021-W09,1,7,Pencemaran sungai oleh limbah,2,9.09
+per_periode,mingguan,2021-W09,2,21,Ratusan rumah terendam luapan sungai,2,9.09
+per_periode,mingguan,2021-W09,3,26,Pengelolaan bank sampah,2,9.09
+per_periode,mingguan,2021-W10,1,9,Pembangunan drainase jalan,20,40.0
+per_periode,mingguan,2021-W10,2,31,Volume produksi sampah harian daerah,5,10.0
+per_periode,mingguan,2021-W10,3,5,Edukasi lingkungan dan inovasi mahasiswa,3,6.0
+per_periode,mingguan,2021-W11,1,9,Pembangunan drainase jalan,13,33.33
+per_periode,mingguan,2021-W11,2,31,Volume produksi sampah harian daerah,5,12.82
+per_periode,mingguan,2021-W11,3,8,Pengelolaan limbah batu bara PLTU,2,5.13
+per_periode,mingguan,2021-W12,1,9,Pembangunan drainase jalan,3,13.04
+per_periode,mingguan,2021-W12,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,8.7
+per_periode,mingguan,2021-W12,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,8.7
+per_periode,mingguan,2021-W13,1,20,Sampah menumpuk di pantai,2,15.38
+per_periode,mingguan,2021-W13,2,73,Pembangunan sanitary landfill TPA,2,15.38
+per_periode,mingguan,2021-W13,3,10,Banjir akibat hujan deras,1,7.69
+per_periode,mingguan,2021-W14,1,2,Pembuangan limbah medis di Sidoarjo,2,16.67
+per_periode,mingguan,2021-W14,2,73,Pembangunan sanitary landfill TPA,2,16.67
+per_periode,mingguan,2021-W14,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,8.33
+per_periode,mingguan,2021-W15,1,0,Distribusi bantuan air bersih saat kekeringan,1,11.11
+per_periode,mingguan,2021-W15,2,4,Keluhan kualitas air PDAM,1,11.11
+per_periode,mingguan,2021-W15,3,13,Peringatan Hari Lingkungan Hidup Sedunia,1,11.11
+per_periode,mingguan,2021-W16,1,9,Pembangunan drainase jalan,2,13.33
+per_periode,mingguan,2021-W16,2,35,Polusi udara DKI Jakarta,2,13.33
+per_periode,mingguan,2021-W16,3,7,Pencemaran sungai oleh limbah,1,6.67
+per_periode,mingguan,2021-W17,1,33,Kematian ikan akibat pencemaran,2,40.0
+per_periode,mingguan,2021-W17,2,11,Kebakaran gudang akibat bakar sampah,1,20.0
+per_periode,mingguan,2021-W17,3,2,Pembuangan limbah medis di Sidoarjo,1,20.0
+per_periode,mingguan,2021-W18,1,0,Distribusi bantuan air bersih saat kekeringan,2,15.38
+per_periode,mingguan,2021-W18,2,1,Pengelolaan sampah di TPS 3R,2,15.38
+per_periode,mingguan,2021-W18,3,29,Pembuangan limbah B3 ilegal,2,15.38
+per_periode,mingguan,2021-W19,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,40.0
+per_periode,mingguan,2021-W19,2,0,Distribusi bantuan air bersih saat kekeringan,1,20.0
+per_periode,mingguan,2021-W19,3,50,Laporan banjir di berbagai daerah,1,20.0
+per_periode,mingguan,2021-W20,1,72,Tumpukan sampah di pasar,2,28.57
+per_periode,mingguan,2021-W20,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,14.29
+per_periode,mingguan,2021-W20,3,2,Pembuangan limbah medis di Sidoarjo,1,14.29
+per_periode,mingguan,2021-W21,1,28,Banjir bandang Kota Batu,8,40.0
+per_periode,mingguan,2021-W21,2,14,Bencana banjir dan tanah longsor,2,10.0
+per_periode,mingguan,2021-W21,3,2,Pembuangan limbah medis di Sidoarjo,2,10.0
+per_periode,mingguan,2021-W22,1,2,Pembuangan limbah medis di Sidoarjo,2,15.38
+per_periode,mingguan,2021-W22,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,15.38
+per_periode,mingguan,2021-W22,3,72,Tumpukan sampah di pasar,2,15.38
+per_periode,mingguan,2021-W23,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,5,35.71
+per_periode,mingguan,2021-W23,2,22,Banjir luapan Bengawan Solo,2,14.29
+per_periode,mingguan,2021-W23,3,4,Keluhan kualitas air PDAM,1,7.14
+per_periode,mingguan,2021-W24,1,4,Keluhan kualitas air PDAM,5,21.74
+per_periode,mingguan,2021-W24,2,2,Pembuangan limbah medis di Sidoarjo,4,17.39
+per_periode,mingguan,2021-W24,3,0,Distribusi bantuan air bersih saat kekeringan,2,8.7
+per_periode,mingguan,2021-W25,1,9,Pembangunan drainase jalan,2,25.0
+per_periode,mingguan,2021-W25,2,18,Jembatan putus diterjang banjir lahar Semeru,1,12.5
+per_periode,mingguan,2021-W25,3,2,Pembuangan limbah medis di Sidoarjo,1,12.5
+per_periode,mingguan,2021-W26,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,15.38
+per_periode,mingguan,2021-W26,2,7,Pencemaran sungai oleh limbah,2,15.38
+per_periode,mingguan,2021-W26,3,27,Pengelolaan sampah dan higiene dapur MBG,2,15.38
+per_periode,mingguan,2021-W27,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,36.36
+per_periode,mingguan,2021-W27,2,18,Jembatan putus diterjang banjir lahar Semeru,2,18.18
+per_periode,mingguan,2021-W27,3,4,Keluhan kualitas air PDAM,1,9.09
+per_periode,mingguan,2021-W28,1,73,Pembangunan sanitary landfill TPA,3,33.33
+per_periode,mingguan,2021-W28,2,35,Polusi udara DKI Jakarta,2,22.22
+per_periode,mingguan,2021-W28,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,22.22
+per_periode,mingguan,2021-W29,1,8,Pengelolaan limbah batu bara PLTU,2,20.0
+per_periode,mingguan,2021-W29,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,10.0
+per_periode,mingguan,2021-W29,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,10.0
+per_periode,mingguan,2021-W30,1,18,Jembatan putus diterjang banjir lahar Semeru,2,18.18
+per_periode,mingguan,2021-W30,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,9.09
+per_periode,mingguan,2021-W30,3,2,Pembuangan limbah medis di Sidoarjo,1,9.09
+per_periode,mingguan,2021-W31,1,8,Pengelolaan limbah batu bara PLTU,2,33.33
+per_periode,mingguan,2021-W31,2,11,Kebakaran gudang akibat bakar sampah,2,33.33
+per_periode,mingguan,2021-W31,3,20,Sampah menumpuk di pantai,1,16.67
+per_periode,mingguan,2021-W32,1,8,Pengelolaan limbah batu bara PLTU,2,28.57
+per_periode,mingguan,2021-W32,2,22,Banjir luapan Bengawan Solo,1,14.29
+per_periode,mingguan,2021-W32,3,29,Pembuangan limbah B3 ilegal,1,14.29
+per_periode,mingguan,2021-W33,1,7,Pencemaran sungai oleh limbah,4,19.05
+per_periode,mingguan,2021-W33,2,12,Desa di Pasuruan terendam banjir,3,14.29
+per_periode,mingguan,2021-W33,3,1,Pengelolaan sampah di TPS 3R,2,9.52
+per_periode,mingguan,2021-W34,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,15.0
+per_periode,mingguan,2021-W34,2,2,Pembuangan limbah medis di Sidoarjo,2,10.0
+per_periode,mingguan,2021-W34,3,29,Pembuangan limbah B3 ilegal,2,10.0
+per_periode,mingguan,2021-W35,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,23.08
+per_periode,mingguan,2021-W35,2,1,Pengelolaan sampah di TPS 3R,2,15.38
+per_periode,mingguan,2021-W35,3,2,Pembuangan limbah medis di Sidoarjo,1,7.69
+per_periode,mingguan,2021-W36,1,6,Penggunaan sampah plastik sebagai bahan bakar,4,13.33
+per_periode,mingguan,2021-W36,2,7,Pencemaran sungai oleh limbah,4,13.33
+per_periode,mingguan,2021-W36,3,2,Pembuangan limbah medis di Sidoarjo,3,10.0
+per_periode,mingguan,2021-W37,1,7,Pencemaran sungai oleh limbah,4,14.81
+per_periode,mingguan,2021-W37,2,1,Pengelolaan sampah di TPS 3R,2,7.41
+per_periode,mingguan,2021-W37,3,0,Distribusi bantuan air bersih saat kekeringan,2,7.41
+per_periode,mingguan,2021-W38,1,7,Pencemaran sungai oleh limbah,2,11.76
+per_periode,mingguan,2021-W38,2,16,Pencemaran sampah plastik di Surabaya,2,11.76
+per_periode,mingguan,2021-W38,3,0,Distribusi bantuan air bersih saat kekeringan,1,5.88
+per_periode,mingguan,2021-W39,1,2,Pembuangan limbah medis di Sidoarjo,2,13.33
+per_periode,mingguan,2021-W39,2,19,Sekolah terdampak banjir,2,13.33
+per_periode,mingguan,2021-W39,3,35,Polusi udara DKI Jakarta,2,13.33
+per_periode,mingguan,2021-W40,1,7,Pencemaran sungai oleh limbah,5,27.78
+per_periode,mingguan,2021-W40,2,0,Distribusi bantuan air bersih saat kekeringan,4,22.22
+per_periode,mingguan,2021-W40,3,1,Pengelolaan sampah di TPS 3R,2,11.11
+per_periode,mingguan,2021-W41,1,2,Pembuangan limbah medis di Sidoarjo,3,23.08
+per_periode,mingguan,2021-W41,2,1,Pengelolaan sampah di TPS 3R,2,15.38
+per_periode,mingguan,2021-W41,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,15.38
+per_periode,mingguan,2021-W42,1,2,Pembuangan limbah medis di Sidoarjo,2,15.38
+per_periode,mingguan,2021-W42,2,22,Banjir luapan Bengawan Solo,2,15.38
+per_periode,mingguan,2021-W42,3,19,Sekolah terdampak banjir,2,15.38
+per_periode,mingguan,2021-W43,1,2,Pembuangan limbah medis di Sidoarjo,5,23.81
+per_periode,mingguan,2021-W43,2,0,Distribusi bantuan air bersih saat kekeringan,1,4.76
+per_periode,mingguan,2021-W43,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,4.76
+per_periode,mingguan,2021-W44,1,32,Seleksi dan rotasi direktur PDAM,35,43.75
+per_periode,mingguan,2021-W44,2,44,Kabar banjir di luar Jawa Timur,7,8.75
+per_periode,mingguan,2021-W44,3,45,KKN mahasiswa olah sampah plastik,3,3.75
+per_periode,mingguan,2021-W45,1,32,Seleksi dan rotasi direktur PDAM,6,13.04
+per_periode,mingguan,2021-W45,2,4,Keluhan kualitas air PDAM,4,8.7
+per_periode,mingguan,2021-W45,3,19,Sekolah terdampak banjir,3,6.52
+per_periode,mingguan,2021-W46,1,27,Pengelolaan sampah dan higiene dapur MBG,4,12.5
+per_periode,mingguan,2021-W46,2,32,Seleksi dan rotasi direktur PDAM,3,9.38
+per_periode,mingguan,2021-W46,3,2,Pembuangan limbah medis di Sidoarjo,3,9.38
+per_periode,mingguan,2021-W47,1,5,Edukasi lingkungan dan inovasi mahasiswa,3,10.71
+per_periode,mingguan,2021-W47,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,7.14
+per_periode,mingguan,2021-W47,3,17,Dampak dan penyebab polusi udara,2,7.14
+per_periode,mingguan,2021-W48,1,19,Sekolah terdampak banjir,2,8.7
+per_periode,mingguan,2021-W48,2,20,Sampah menumpuk di pantai,2,8.7
+per_periode,mingguan,2021-W48,3,13,Peringatan Hari Lingkungan Hidup Sedunia,2,8.7
+per_periode,mingguan,2021-W49,1,20,Sampah menumpuk di pantai,4,12.5
+per_periode,mingguan,2021-W49,2,7,Pencemaran sungai oleh limbah,3,9.38
+per_periode,mingguan,2021-W49,3,4,Keluhan kualitas air PDAM,2,6.25
+per_periode,mingguan,2021-W50,1,59,Dugaan pencemaran nama baik,4,25.0
+per_periode,mingguan,2021-W50,2,5,Edukasi lingkungan dan inovasi mahasiswa,1,6.25
+per_periode,mingguan,2021-W50,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,6.25
+per_periode,mingguan,2021-W51,1,56,Pengolahan limbah minyak jelantah,2,16.67
+per_periode,mingguan,2021-W51,2,2,Pembuangan limbah medis di Sidoarjo,1,8.33
+per_periode,mingguan,2021-W51,3,0,Distribusi bantuan air bersih saat kekeringan,1,8.33
+per_periode,mingguan,2021-W52,1,5,Edukasi lingkungan dan inovasi mahasiswa,3,17.65
+per_periode,mingguan,2021-W52,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,11.76
+per_periode,mingguan,2021-W52,3,10,Banjir akibat hujan deras,2,11.76
+per_periode,mingguan,2022-W01,1,5,Edukasi lingkungan dan inovasi mahasiswa,6,19.35
+per_periode,mingguan,2022-W01,2,4,Keluhan kualitas air PDAM,2,6.45
+per_periode,mingguan,2022-W01,3,7,Pencemaran sungai oleh limbah,2,6.45
+per_periode,mingguan,2022-W02,1,17,Dampak dan penyebab polusi udara,2,13.33
+per_periode,mingguan,2022-W02,2,74,Penemuan mayat di kamar kos,2,13.33
+per_periode,mingguan,2022-W02,3,44,Kabar banjir di luar Jawa Timur,2,13.33
+per_periode,mingguan,2022-W03,1,15,Banjir putus akses jalan raya,3,12.0
+per_periode,mingguan,2022-W03,2,21,Ratusan rumah terendam luapan sungai,3,12.0
+per_periode,mingguan,2022-W03,3,20,Sampah menumpuk di pantai,3,12.0
+per_periode,mingguan,2022-W04,1,2,Pembuangan limbah medis di Sidoarjo,5,22.73
+per_periode,mingguan,2022-W04,2,4,Keluhan kualitas air PDAM,3,13.64
+per_periode,mingguan,2022-W04,3,11,Kebakaran gudang akibat bakar sampah,2,9.09
+per_periode,mingguan,2022-W05,1,59,Dugaan pencemaran nama baik,3,12.0
+per_periode,mingguan,2022-W05,2,17,Dampak dan penyebab polusi udara,2,8.0
+per_periode,mingguan,2022-W05,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,8.0
+per_periode,mingguan,2022-W06,1,7,Pencemaran sungai oleh limbah,4,14.29
+per_periode,mingguan,2022-W06,2,27,Pengelolaan sampah dan higiene dapur MBG,3,10.71
+per_periode,mingguan,2022-W06,3,29,Pembuangan limbah B3 ilegal,3,10.71
+per_periode,mingguan,2022-W07,1,21,Ratusan rumah terendam luapan sungai,2,13.33
+per_periode,mingguan,2022-W07,2,70,Kasus viral pencemaran limbah medis,2,13.33
+per_periode,mingguan,2022-W07,3,35,Polusi udara DKI Jakarta,2,13.33
+per_periode,mingguan,2022-W08,1,5,Edukasi lingkungan dan inovasi mahasiswa,6,20.0
+per_periode,mingguan,2022-W08,2,7,Pencemaran sungai oleh limbah,4,13.33
+per_periode,mingguan,2022-W08,3,8,Pengelolaan limbah batu bara PLTU,3,10.0
+per_periode,mingguan,2022-W09,1,2,Pembuangan limbah medis di Sidoarjo,2,7.41
+per_periode,mingguan,2022-W09,2,4,Keluhan kualitas air PDAM,2,7.41
+per_periode,mingguan,2022-W09,3,17,Dampak dan penyebab polusi udara,2,7.41
+per_periode,mingguan,2022-W10,1,9,Pembangunan drainase jalan,5,9.62
+per_periode,mingguan,2022-W10,2,7,Pencemaran sungai oleh limbah,4,7.69
+per_periode,mingguan,2022-W10,3,5,Edukasi lingkungan dan inovasi mahasiswa,4,7.69
+per_periode,mingguan,2022-W11,1,9,Pembangunan drainase jalan,7,18.92
+per_periode,mingguan,2022-W11,2,15,Banjir putus akses jalan raya,3,8.11
+per_periode,mingguan,2022-W11,3,80,Bekas lokasi sampah jadi destinasi wisata,3,8.11
+per_periode,mingguan,2022-W12,1,9,Pembangunan drainase jalan,3,10.34
+per_periode,mingguan,2022-W12,2,7,Pencemaran sungai oleh limbah,2,6.9
+per_periode,mingguan,2022-W12,3,6,Penggunaan sampah plastik sebagai bahan bakar,2,6.9
+per_periode,mingguan,2022-W13,1,9,Pembangunan drainase jalan,5,17.24
+per_periode,mingguan,2022-W13,2,5,Edukasi lingkungan dan inovasi mahasiswa,3,10.34
+per_periode,mingguan,2022-W13,3,6,Penggunaan sampah plastik sebagai bahan bakar,3,10.34
+per_periode,mingguan,2022-W14,1,0,Distribusi bantuan air bersih saat kekeringan,2,8.33
+per_periode,mingguan,2022-W14,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,8.33
+per_periode,mingguan,2022-W14,3,7,Pencemaran sungai oleh limbah,2,8.33
+per_periode,mingguan,2022-W15,1,2,Pembuangan limbah medis di Sidoarjo,4,17.39
+per_periode,mingguan,2022-W15,2,10,Banjir akibat hujan deras,3,13.04
+per_periode,mingguan,2022-W15,3,0,Distribusi bantuan air bersih saat kekeringan,2,8.7
+per_periode,mingguan,2022-W16,1,9,Pembangunan drainase jalan,4,23.53
+per_periode,mingguan,2022-W16,2,21,Ratusan rumah terendam luapan sungai,2,11.76
+per_periode,mingguan,2022-W16,3,0,Distribusi bantuan air bersih saat kekeringan,1,5.88
+per_periode,mingguan,2022-W17,1,7,Pencemaran sungai oleh limbah,2,15.38
+per_periode,mingguan,2022-W17,2,14,Bencana banjir dan tanah longsor,2,15.38
+per_periode,mingguan,2022-W17,3,27,Pengelolaan sampah dan higiene dapur MBG,2,15.38
+per_periode,mingguan,2022-W18,1,2,Pembuangan limbah medis di Sidoarjo,4,36.36
+per_periode,mingguan,2022-W18,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,9.09
+per_periode,mingguan,2022-W18,3,17,Dampak dan penyebab polusi udara,1,9.09
+per_periode,mingguan,2022-W19,1,22,Banjir luapan Bengawan Solo,4,30.77
+per_periode,mingguan,2022-W19,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,15.38
+per_periode,mingguan,2022-W19,3,2,Pembuangan limbah medis di Sidoarjo,2,15.38
+per_periode,mingguan,2022-W20,1,28,Banjir bandang Kota Batu,9,30.0
+per_periode,mingguan,2022-W20,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,6.67
+per_periode,mingguan,2022-W20,3,2,Pembuangan limbah medis di Sidoarjo,2,6.67
+per_periode,mingguan,2022-W21,1,28,Banjir bandang Kota Batu,3,15.79
+per_periode,mingguan,2022-W21,2,17,Dampak dan penyebab polusi udara,2,10.53
+per_periode,mingguan,2022-W21,3,2,Pembuangan limbah medis di Sidoarjo,1,5.26
+per_periode,mingguan,2022-W22,1,6,Penggunaan sampah plastik sebagai bahan bakar,2,10.53
+per_periode,mingguan,2022-W22,2,8,Pengelolaan limbah batu bara PLTU,2,10.53
+per_periode,mingguan,2022-W22,3,7,Pencemaran sungai oleh limbah,2,10.53
+per_periode,mingguan,2022-W23,1,2,Pembuangan limbah medis di Sidoarjo,3,12.5
+per_periode,mingguan,2022-W23,2,4,Keluhan kualitas air PDAM,2,8.33
+per_periode,mingguan,2022-W23,3,7,Pencemaran sungai oleh limbah,2,8.33
+per_periode,mingguan,2022-W24,1,28,Banjir bandang Kota Batu,14,28.0
+per_periode,mingguan,2022-W24,2,5,Edukasi lingkungan dan inovasi mahasiswa,10,20.0
+per_periode,mingguan,2022-W24,3,2,Pembuangan limbah medis di Sidoarjo,2,4.0
+per_periode,mingguan,2022-W25,1,9,Pembangunan drainase jalan,2,10.0
+per_periode,mingguan,2022-W25,2,19,Sekolah terdampak banjir,2,10.0
+per_periode,mingguan,2022-W25,3,2,Pembuangan limbah medis di Sidoarjo,1,5.0
+per_periode,mingguan,2022-W26,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,5,17.24
+per_periode,mingguan,2022-W26,2,2,Pembuangan limbah medis di Sidoarjo,2,6.9
+per_periode,mingguan,2022-W26,3,7,Pencemaran sungai oleh limbah,2,6.9
+per_periode,mingguan,2022-W27,1,11,Kebakaran gudang akibat bakar sampah,2,10.53
+per_periode,mingguan,2022-W27,2,29,Pembuangan limbah B3 ilegal,2,10.53
+per_periode,mingguan,2022-W27,3,23,Banjir bandang di Banyuwangi,2,10.53
+per_periode,mingguan,2022-W28,1,6,Penggunaan sampah plastik sebagai bahan bakar,2,11.11
+per_periode,mingguan,2022-W28,2,5,Edukasi lingkungan dan inovasi mahasiswa,2,11.11
+per_periode,mingguan,2022-W28,3,29,Pembuangan limbah B3 ilegal,2,11.11
+per_periode,mingguan,2022-W29,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,13.04
+per_periode,mingguan,2022-W29,2,5,Edukasi lingkungan dan inovasi mahasiswa,3,13.04
+per_periode,mingguan,2022-W29,3,7,Pencemaran sungai oleh limbah,3,13.04
+per_periode,mingguan,2022-W30,1,7,Pencemaran sungai oleh limbah,4,19.05
+per_periode,mingguan,2022-W30,2,8,Pengelolaan limbah batu bara PLTU,3,14.29
+per_periode,mingguan,2022-W30,3,12,Desa di Pasuruan terendam banjir,2,9.52
+per_periode,mingguan,2022-W31,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,12,32.43
+per_periode,mingguan,2022-W31,2,1,Pengelolaan sampah di TPS 3R,2,5.41
+per_periode,mingguan,2022-W31,3,7,Pencemaran sungai oleh limbah,2,5.41
+per_periode,mingguan,2022-W32,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,13.04
+per_periode,mingguan,2022-W32,2,12,Desa di Pasuruan terendam banjir,3,13.04
+per_periode,mingguan,2022-W32,3,0,Distribusi bantuan air bersih saat kekeringan,2,8.7
+per_periode,mingguan,2022-W33,1,0,Distribusi bantuan air bersih saat kekeringan,3,15.79
+per_periode,mingguan,2022-W33,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,15.79
+per_periode,mingguan,2022-W33,3,6,Penggunaan sampah plastik sebagai bahan bakar,2,10.53
+per_periode,mingguan,2022-W34,1,9,Pembangunan drainase jalan,3,9.68
+per_periode,mingguan,2022-W34,2,16,Pencemaran sampah plastik di Surabaya,3,9.68
+per_periode,mingguan,2022-W34,3,43,Korban jiwa banjir bandang,3,9.68
+per_periode,mingguan,2022-W35,1,0,Distribusi bantuan air bersih saat kekeringan,3,13.04
+per_periode,mingguan,2022-W35,2,1,Pengelolaan sampah di TPS 3R,2,8.7
+per_periode,mingguan,2022-W35,3,2,Pembuangan limbah medis di Sidoarjo,2,8.7
+per_periode,mingguan,2022-W36,1,0,Distribusi bantuan air bersih saat kekeringan,3,17.65
+per_periode,mingguan,2022-W36,2,2,Pembuangan limbah medis di Sidoarjo,3,17.65
+per_periode,mingguan,2022-W36,3,8,Pengelolaan limbah batu bara PLTU,3,17.65
+per_periode,mingguan,2022-W37,1,8,Pengelolaan limbah batu bara PLTU,4,17.39
+per_periode,mingguan,2022-W37,2,7,Pencemaran sungai oleh limbah,3,13.04
+per_periode,mingguan,2022-W37,3,4,Keluhan kualitas air PDAM,2,8.7
+per_periode,mingguan,2022-W38,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,15.79
+per_periode,mingguan,2022-W38,2,4,Keluhan kualitas air PDAM,3,15.79
+per_periode,mingguan,2022-W38,3,0,Distribusi bantuan air bersih saat kekeringan,2,10.53
+per_periode,mingguan,2022-W39,1,0,Distribusi bantuan air bersih saat kekeringan,3,11.11
+per_periode,mingguan,2022-W39,2,1,Pengelolaan sampah di TPS 3R,3,11.11
+per_periode,mingguan,2022-W39,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,11.11
+per_periode,mingguan,2022-W40,1,5,Edukasi lingkungan dan inovasi mahasiswa,5,18.52
+per_periode,mingguan,2022-W40,2,20,Sampah menumpuk di pantai,2,7.41
+per_periode,mingguan,2022-W40,3,7,Pencemaran sungai oleh limbah,2,7.41
+per_periode,mingguan,2022-W41,1,10,Banjir akibat hujan deras,4,9.09
+per_periode,mingguan,2022-W41,2,26,Pengelolaan bank sampah,3,6.82
+per_periode,mingguan,2022-W41,3,23,Banjir bandang di Banyuwangi,3,6.82
+per_periode,mingguan,2022-W42,1,26,Pengelolaan bank sampah,10,11.76
+per_periode,mingguan,2022-W42,2,10,Banjir akibat hujan deras,8,9.41
+per_periode,mingguan,2022-W42,3,23,Banjir bandang di Banyuwangi,5,5.88
+per_periode,mingguan,2022-W43,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,10.81
+per_periode,mingguan,2022-W43,2,10,Banjir akibat hujan deras,4,10.81
+per_periode,mingguan,2022-W43,3,7,Pencemaran sungai oleh limbah,4,10.81
+per_periode,mingguan,2022-W44,1,26,Pengelolaan bank sampah,8,15.69
+per_periode,mingguan,2022-W44,2,20,Sampah menumpuk di pantai,5,9.8
+per_periode,mingguan,2022-W44,3,4,Keluhan kualitas air PDAM,4,7.84
+per_periode,mingguan,2022-W45,1,5,Edukasi lingkungan dan inovasi mahasiswa,4,11.11
+per_periode,mingguan,2022-W45,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,8.33
+per_periode,mingguan,2022-W45,3,0,Distribusi bantuan air bersih saat kekeringan,3,8.33
+per_periode,mingguan,2022-W46,1,0,Distribusi bantuan air bersih saat kekeringan,3,8.57
+per_periode,mingguan,2022-W46,2,71,Fashion show busana daur ulang sampah,3,8.57
+per_periode,mingguan,2022-W46,3,20,Sampah menumpuk di pantai,2,5.71
+per_periode,mingguan,2022-W47,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,8.11
+per_periode,mingguan,2022-W47,2,2,Pembuangan limbah medis di Sidoarjo,2,5.41
+per_periode,mingguan,2022-W47,3,8,Pengelolaan limbah batu bara PLTU,2,5.41
+per_periode,mingguan,2022-W48,1,13,Peringatan Hari Lingkungan Hidup Sedunia,5,13.16
+per_periode,mingguan,2022-W48,2,2,Pembuangan limbah medis di Sidoarjo,4,10.53
+per_periode,mingguan,2022-W48,3,23,Banjir bandang di Banyuwangi,3,7.89
+per_periode,mingguan,2022-W49,1,6,Penggunaan sampah plastik sebagai bahan bakar,2,10.0
+per_periode,mingguan,2022-W49,2,14,Bencana banjir dan tanah longsor,2,10.0
+per_periode,mingguan,2022-W49,3,9,Pembangunan drainase jalan,2,10.0
+per_periode,mingguan,2022-W50,1,16,Pencemaran sampah plastik di Surabaya,2,12.5
+per_periode,mingguan,2022-W50,2,31,Volume produksi sampah harian daerah,2,12.5
+per_periode,mingguan,2022-W50,3,2,Pembuangan limbah medis di Sidoarjo,1,6.25
+per_periode,mingguan,2022-W51,1,16,Pencemaran sampah plastik di Surabaya,2,9.52
+per_periode,mingguan,2022-W51,2,29,Pembuangan limbah B3 ilegal,2,9.52
+per_periode,mingguan,2022-W51,3,5,Edukasi lingkungan dan inovasi mahasiswa,1,4.76
+per_periode,mingguan,2022-W52,1,10,Banjir akibat hujan deras,6,11.54
+per_periode,mingguan,2022-W52,2,6,Penggunaan sampah plastik sebagai bahan bakar,5,9.62
+per_periode,mingguan,2022-W52,3,27,Pengelolaan sampah dan higiene dapur MBG,5,9.62
+per_periode,mingguan,2023-W01,1,6,Penggunaan sampah plastik sebagai bahan bakar,4,9.3
+per_periode,mingguan,2023-W01,2,10,Banjir akibat hujan deras,4,9.3
+per_periode,mingguan,2023-W01,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,6.98
+per_periode,mingguan,2023-W02,1,0,Distribusi bantuan air bersih saat kekeringan,3,10.0
+per_periode,mingguan,2023-W02,2,6,Penggunaan sampah plastik sebagai bahan bakar,3,10.0
+per_periode,mingguan,2023-W02,3,8,Pengelolaan limbah batu bara PLTU,2,6.67
+per_periode,mingguan,2023-W03,1,8,Pengelolaan limbah batu bara PLTU,4,14.81
+per_periode,mingguan,2023-W03,2,4,Keluhan kualitas air PDAM,3,11.11
+per_periode,mingguan,2023-W03,3,2,Pembuangan limbah medis di Sidoarjo,3,11.11
+per_periode,mingguan,2023-W04,1,55,Tumpukan sampah di pinggir jalan,5,18.52
+per_periode,mingguan,2023-W04,2,31,Volume produksi sampah harian daerah,3,11.11
+per_periode,mingguan,2023-W04,3,2,Pembuangan limbah medis di Sidoarjo,2,7.41
+per_periode,mingguan,2023-W05,1,2,Pembuangan limbah medis di Sidoarjo,2,7.14
+per_periode,mingguan,2023-W05,2,22,Banjir luapan Bengawan Solo,2,7.14
+per_periode,mingguan,2023-W05,3,9,Pembangunan drainase jalan,2,7.14
+per_periode,mingguan,2023-W06,1,23,Banjir bandang di Banyuwangi,4,10.53
+per_periode,mingguan,2023-W06,2,7,Pencemaran sungai oleh limbah,3,7.89
+per_periode,mingguan,2023-W06,3,5,Edukasi lingkungan dan inovasi mahasiswa,3,7.89
+per_periode,mingguan,2023-W07,1,21,Ratusan rumah terendam luapan sungai,8,13.11
+per_periode,mingguan,2023-W07,2,24,Tarif dan pelanggan PDAM Surabaya,8,13.11
+per_periode,mingguan,2023-W07,3,39,Pejabat daerah tinjau lokasi banjir,5,8.2
+per_periode,mingguan,2023-W08,1,2,Pembuangan limbah medis di Sidoarjo,5,9.09
+per_periode,mingguan,2023-W08,2,14,Bencana banjir dan tanah longsor,4,7.27
+per_periode,mingguan,2023-W08,3,13,Peringatan Hari Lingkungan Hidup Sedunia,3,5.45
+per_periode,mingguan,2023-W09,1,4,Keluhan kualitas air PDAM,3,8.11
+per_periode,mingguan,2023-W09,2,41,Festival Banjir Tahu di Lumajang,3,8.11
+per_periode,mingguan,2023-W09,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,5.41
+per_periode,mingguan,2023-W10,1,4,Keluhan kualitas air PDAM,3,16.67
+per_periode,mingguan,2023-W10,2,2,Pembuangan limbah medis di Sidoarjo,2,11.11
+per_periode,mingguan,2023-W10,3,7,Pencemaran sungai oleh limbah,2,11.11
+per_periode,mingguan,2023-W11,1,2,Pembuangan limbah medis di Sidoarjo,5,14.71
+per_periode,mingguan,2023-W11,2,16,Pencemaran sampah plastik di Surabaya,3,8.82
+per_periode,mingguan,2023-W11,3,7,Pencemaran sungai oleh limbah,2,5.88
+per_periode,mingguan,2023-W12,1,64,Jalur wisata Madakaripura putus akibat banjir dan longsor,4,14.81
+per_periode,mingguan,2023-W12,2,2,Pembuangan limbah medis di Sidoarjo,2,7.41
+per_periode,mingguan,2023-W12,3,0,Distribusi bantuan air bersih saat kekeringan,2,7.41
+per_periode,mingguan,2023-W13,1,9,Pembangunan drainase jalan,3,12.0
+per_periode,mingguan,2023-W13,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,8.0
+per_periode,mingguan,2023-W13,3,2,Pembuangan limbah medis di Sidoarjo,2,8.0
+per_periode,mingguan,2023-W14,1,19,Sekolah terdampak banjir,2,11.76
+per_periode,mingguan,2023-W14,2,11,Kebakaran gudang akibat bakar sampah,2,11.76
+per_periode,mingguan,2023-W14,3,7,Pencemaran sungai oleh limbah,2,11.76
+per_periode,mingguan,2023-W15,1,4,Keluhan kualitas air PDAM,2,13.33
+per_periode,mingguan,2023-W15,2,5,Edukasi lingkungan dan inovasi mahasiswa,2,13.33
+per_periode,mingguan,2023-W15,3,1,Pengelolaan sampah di TPS 3R,1,6.67
+per_periode,mingguan,2023-W16,1,4,Keluhan kualitas air PDAM,1,16.67
+per_periode,mingguan,2023-W16,2,10,Banjir akibat hujan deras,1,16.67
+per_periode,mingguan,2023-W16,3,7,Pencemaran sungai oleh limbah,1,16.67
+per_periode,mingguan,2023-W17,1,5,Edukasi lingkungan dan inovasi mahasiswa,11,42.31
+per_periode,mingguan,2023-W17,2,17,Dampak dan penyebab polusi udara,3,11.54
+per_periode,mingguan,2023-W17,3,67,Situasi banjir di Jawa Timur,2,7.69
+per_periode,mingguan,2023-W18,1,22,Banjir luapan Bengawan Solo,3,17.65
+per_periode,mingguan,2023-W18,2,20,Sampah menumpuk di pantai,2,11.76
+per_periode,mingguan,2023-W18,3,0,Distribusi bantuan air bersih saat kekeringan,1,5.88
+per_periode,mingguan,2023-W19,1,0,Distribusi bantuan air bersih saat kekeringan,4,17.39
+per_periode,mingguan,2023-W19,2,26,Pengelolaan bank sampah,4,17.39
+per_periode,mingguan,2023-W19,3,2,Pembuangan limbah medis di Sidoarjo,2,8.7
+per_periode,mingguan,2023-W20,1,2,Pembuangan limbah medis di Sidoarjo,3,15.0
+per_periode,mingguan,2023-W20,2,4,Keluhan kualitas air PDAM,2,10.0
+per_periode,mingguan,2023-W20,3,9,Pembangunan drainase jalan,2,10.0
+per_periode,mingguan,2023-W21,1,2,Pembuangan limbah medis di Sidoarjo,3,12.5
+per_periode,mingguan,2023-W21,2,0,Distribusi bantuan air bersih saat kekeringan,2,8.33
+per_periode,mingguan,2023-W21,3,8,Pengelolaan limbah batu bara PLTU,2,8.33
+per_periode,mingguan,2023-W22,1,1,Pengelolaan sampah di TPS 3R,2,10.0
+per_periode,mingguan,2023-W22,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,10.0
+per_periode,mingguan,2023-W22,3,8,Pengelolaan limbah batu bara PLTU,2,10.0
+per_periode,mingguan,2023-W23,1,1,Pengelolaan sampah di TPS 3R,5,16.13
+per_periode,mingguan,2023-W23,2,7,Pencemaran sungai oleh limbah,5,16.13
+per_periode,mingguan,2023-W23,3,2,Pembuangan limbah medis di Sidoarjo,2,6.45
+per_periode,mingguan,2023-W24,1,14,Bencana banjir dan tanah longsor,3,10.71
+per_periode,mingguan,2023-W24,2,7,Pencemaran sungai oleh limbah,2,7.14
+per_periode,mingguan,2023-W24,3,0,Distribusi bantuan air bersih saat kekeringan,2,7.14
+per_periode,mingguan,2023-W25,1,1,Pengelolaan sampah di TPS 3R,4,22.22
+per_periode,mingguan,2023-W25,2,9,Pembangunan drainase jalan,3,16.67
+per_periode,mingguan,2023-W25,3,6,Penggunaan sampah plastik sebagai bahan bakar,2,11.11
+per_periode,mingguan,2023-W26,1,0,Distribusi bantuan air bersih saat kekeringan,4,19.05
+per_periode,mingguan,2023-W26,2,31,Volume produksi sampah harian daerah,3,14.29
+per_periode,mingguan,2023-W26,3,19,Sekolah terdampak banjir,2,9.52
+per_periode,mingguan,2023-W27,1,20,Sampah menumpuk di pantai,13,28.26
+per_periode,mingguan,2023-W27,2,7,Pencemaran sungai oleh limbah,3,6.52
+per_periode,mingguan,2023-W27,3,1,Pengelolaan sampah di TPS 3R,3,6.52
+per_periode,mingguan,2023-W28,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,11,22.92
+per_periode,mingguan,2023-W28,2,0,Distribusi bantuan air bersih saat kekeringan,5,10.42
+per_periode,mingguan,2023-W28,3,2,Pembuangan limbah medis di Sidoarjo,3,6.25
+per_periode,mingguan,2023-W29,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,15.0
+per_periode,mingguan,2023-W29,2,51,Dugaan korupsi di PDAM,2,10.0
+per_periode,mingguan,2023-W29,3,2,Pembuangan limbah medis di Sidoarjo,1,5.0
+per_periode,mingguan,2023-W30,1,0,Distribusi bantuan air bersih saat kekeringan,5,16.67
+per_periode,mingguan,2023-W30,2,9,Pembangunan drainase jalan,3,10.0
+per_periode,mingguan,2023-W30,3,8,Pengelolaan limbah batu bara PLTU,3,10.0
+per_periode,mingguan,2023-W31,1,0,Distribusi bantuan air bersih saat kekeringan,7,14.89
+per_periode,mingguan,2023-W31,2,2,Pembuangan limbah medis di Sidoarjo,7,14.89
+per_periode,mingguan,2023-W31,3,1,Pengelolaan sampah di TPS 3R,5,10.64
+per_periode,mingguan,2023-W32,1,0,Distribusi bantuan air bersih saat kekeringan,11,21.15
+per_periode,mingguan,2023-W32,2,2,Pembuangan limbah medis di Sidoarjo,6,11.54
+per_periode,mingguan,2023-W32,3,75,Limbah kulit kopi jadi briket,4,7.69
+per_periode,mingguan,2023-W33,1,42,Rumah rusak diterjang banjir bandang,11,26.83
+per_periode,mingguan,2023-W33,2,19,Sekolah terdampak banjir,5,12.2
+per_periode,mingguan,2023-W33,3,14,Bencana banjir dan tanah longsor,3,7.32
+per_periode,mingguan,2023-W34,1,19,Sekolah terdampak banjir,9,14.06
+per_periode,mingguan,2023-W34,2,42,Rumah rusak diterjang banjir bandang,8,12.5
+per_periode,mingguan,2023-W34,3,1,Pengelolaan sampah di TPS 3R,7,10.94
+per_periode,mingguan,2023-W35,1,2,Pembuangan limbah medis di Sidoarjo,9,15.25
+per_periode,mingguan,2023-W35,2,19,Sekolah terdampak banjir,7,11.86
+per_periode,mingguan,2023-W35,3,9,Pembangunan drainase jalan,4,6.78
+per_periode,mingguan,2023-W36,1,0,Distribusi bantuan air bersih saat kekeringan,9,16.07
+per_periode,mingguan,2023-W36,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,7,12.5
+per_periode,mingguan,2023-W36,3,1,Pengelolaan sampah di TPS 3R,6,10.71
+per_periode,mingguan,2023-W37,1,0,Distribusi bantuan air bersih saat kekeringan,8,16.0
+per_periode,mingguan,2023-W37,2,2,Pembuangan limbah medis di Sidoarjo,5,10.0
+per_periode,mingguan,2023-W37,3,19,Sekolah terdampak banjir,5,10.0
+per_periode,mingguan,2023-W38,1,0,Distribusi bantuan air bersih saat kekeringan,5,15.15
+per_periode,mingguan,2023-W38,2,1,Pengelolaan sampah di TPS 3R,3,9.09
+per_periode,mingguan,2023-W38,3,2,Pembuangan limbah medis di Sidoarjo,3,9.09
+per_periode,mingguan,2023-W39,1,1,Pengelolaan sampah di TPS 3R,5,17.24
+per_periode,mingguan,2023-W39,2,9,Pembangunan drainase jalan,3,10.34
+per_periode,mingguan,2023-W39,3,2,Pembuangan limbah medis di Sidoarjo,2,6.9
+per_periode,mingguan,2023-W40,1,0,Distribusi bantuan air bersih saat kekeringan,6,13.95
+per_periode,mingguan,2023-W40,2,1,Pengelolaan sampah di TPS 3R,5,11.63
+per_periode,mingguan,2023-W40,3,2,Pembuangan limbah medis di Sidoarjo,4,9.3
+per_periode,mingguan,2023-W41,1,1,Pengelolaan sampah di TPS 3R,7,14.0
+per_periode,mingguan,2023-W41,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,7,14.0
+per_periode,mingguan,2023-W41,3,0,Distribusi bantuan air bersih saat kekeringan,5,10.0
+per_periode,mingguan,2023-W42,1,36,Sawah terendam banjir dan gagal panen,10,23.81
+per_periode,mingguan,2023-W42,2,1,Pengelolaan sampah di TPS 3R,7,16.67
+per_periode,mingguan,2023-W42,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,9.52
+per_periode,mingguan,2023-W43,1,1,Pengelolaan sampah di TPS 3R,14,26.92
+per_periode,mingguan,2023-W43,2,0,Distribusi bantuan air bersih saat kekeringan,6,11.54
+per_periode,mingguan,2023-W43,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,7.69
+per_periode,mingguan,2023-W44,1,0,Distribusi bantuan air bersih saat kekeringan,5,18.52
+per_periode,mingguan,2023-W44,2,2,Pembuangan limbah medis di Sidoarjo,4,14.81
+per_periode,mingguan,2023-W44,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,7.41
+per_periode,mingguan,2023-W45,1,5,Edukasi lingkungan dan inovasi mahasiswa,6,17.14
+per_periode,mingguan,2023-W45,2,0,Distribusi bantuan air bersih saat kekeringan,3,8.57
+per_periode,mingguan,2023-W45,3,8,Pengelolaan limbah batu bara PLTU,3,8.57
+per_periode,mingguan,2023-W46,1,0,Distribusi bantuan air bersih saat kekeringan,3,9.68
+per_periode,mingguan,2023-W46,2,4,Keluhan kualitas air PDAM,3,9.68
+per_periode,mingguan,2023-W46,3,8,Pengelolaan limbah batu bara PLTU,2,6.45
+per_periode,mingguan,2023-W47,1,2,Pembuangan limbah medis di Sidoarjo,4,13.33
+per_periode,mingguan,2023-W47,2,15,Banjir putus akses jalan raya,3,10.0
+per_periode,mingguan,2023-W47,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,6.67
+per_periode,mingguan,2023-W48,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,11,30.56
+per_periode,mingguan,2023-W48,2,7,Pencemaran sungai oleh limbah,4,11.11
+per_periode,mingguan,2023-W48,3,5,Edukasi lingkungan dan inovasi mahasiswa,3,8.33
+per_periode,mingguan,2023-W49,1,5,Edukasi lingkungan dan inovasi mahasiswa,6,13.95
+per_periode,mingguan,2023-W49,2,32,Seleksi dan rotasi direktur PDAM,4,9.3
+per_periode,mingguan,2023-W49,3,6,Penggunaan sampah plastik sebagai bahan bakar,3,6.98
+per_periode,mingguan,2023-W50,1,2,Pembuangan limbah medis di Sidoarjo,7,21.88
+per_periode,mingguan,2023-W50,2,42,Rumah rusak diterjang banjir bandang,3,9.38
+per_periode,mingguan,2023-W50,3,6,Penggunaan sampah plastik sebagai bahan bakar,2,6.25
+per_periode,mingguan,2023-W51,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,9.68
+per_periode,mingguan,2023-W51,2,2,Pembuangan limbah medis di Sidoarjo,2,6.45
+per_periode,mingguan,2023-W51,3,0,Distribusi bantuan air bersih saat kekeringan,2,6.45
+per_periode,mingguan,2023-W52,1,2,Pembuangan limbah medis di Sidoarjo,3,20.0
+per_periode,mingguan,2023-W52,2,15,Banjir putus akses jalan raya,2,13.33
+per_periode,mingguan,2023-W52,3,0,Distribusi bantuan air bersih saat kekeringan,1,6.67
+per_periode,mingguan,2024-W01,1,2,Pembuangan limbah medis di Sidoarjo,3,14.29
+per_periode,mingguan,2024-W01,2,10,Banjir akibat hujan deras,2,9.52
+per_periode,mingguan,2024-W01,3,8,Pengelolaan limbah batu bara PLTU,2,9.52
+per_periode,mingguan,2024-W02,1,2,Pembuangan limbah medis di Sidoarjo,3,11.54
+per_periode,mingguan,2024-W02,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,11.54
+per_periode,mingguan,2024-W02,3,9,Pembangunan drainase jalan,3,11.54
+per_periode,mingguan,2024-W03,1,2,Pembuangan limbah medis di Sidoarjo,3,12.0
+per_periode,mingguan,2024-W03,2,4,Keluhan kualitas air PDAM,3,12.0
+per_periode,mingguan,2024-W03,3,9,Pembangunan drainase jalan,3,12.0
+per_periode,mingguan,2024-W04,1,2,Pembuangan limbah medis di Sidoarjo,5,18.52
+per_periode,mingguan,2024-W04,2,6,Penggunaan sampah plastik sebagai bahan bakar,3,11.11
+per_periode,mingguan,2024-W04,3,14,Bencana banjir dan tanah longsor,3,11.11
+per_periode,mingguan,2024-W05,1,67,Situasi banjir di Jawa Timur,6,17.14
+per_periode,mingguan,2024-W05,2,2,Pembuangan limbah medis di Sidoarjo,4,11.43
+per_periode,mingguan,2024-W05,3,0,Distribusi bantuan air bersih saat kekeringan,2,5.71
+per_periode,mingguan,2024-W06,1,10,Banjir akibat hujan deras,8,15.69
+per_periode,mingguan,2024-W06,2,13,Peringatan Hari Lingkungan Hidup Sedunia,4,7.84
+per_periode,mingguan,2024-W06,3,21,Ratusan rumah terendam luapan sungai,3,5.88
+per_periode,mingguan,2024-W07,1,0,Distribusi bantuan air bersih saat kekeringan,3,11.11
+per_periode,mingguan,2024-W07,2,2,Pembuangan limbah medis di Sidoarjo,3,11.11
+per_periode,mingguan,2024-W07,3,5,Edukasi lingkungan dan inovasi mahasiswa,3,11.11
+per_periode,mingguan,2024-W08,1,5,Edukasi lingkungan dan inovasi mahasiswa,4,15.38
+per_periode,mingguan,2024-W08,2,13,Peringatan Hari Lingkungan Hidup Sedunia,4,15.38
+per_periode,mingguan,2024-W08,3,7,Pencemaran sungai oleh limbah,4,15.38
+per_periode,mingguan,2024-W09,1,2,Pembuangan limbah medis di Sidoarjo,3,13.04
+per_periode,mingguan,2024-W09,2,0,Distribusi bantuan air bersih saat kekeringan,2,8.7
+per_periode,mingguan,2024-W09,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,8.7
+per_periode,mingguan,2024-W10,1,10,Banjir akibat hujan deras,7,10.61
+per_periode,mingguan,2024-W10,2,13,Peringatan Hari Lingkungan Hidup Sedunia,6,9.09
+per_periode,mingguan,2024-W10,3,21,Ratusan rumah terendam luapan sungai,5,7.58
+per_periode,mingguan,2024-W11,1,24,Tarif dan pelanggan PDAM Surabaya,23,29.11
+per_periode,mingguan,2024-W11,2,28,Banjir bandang Kota Batu,7,8.86
+per_periode,mingguan,2024-W11,3,17,Dampak dan penyebab polusi udara,7,8.86
+per_periode,mingguan,2024-W12,1,0,Distribusi bantuan air bersih saat kekeringan,3,12.5
+per_periode,mingguan,2024-W12,2,39,Pejabat daerah tinjau lokasi banjir,3,12.5
+per_periode,mingguan,2024-W12,3,5,Edukasi lingkungan dan inovasi mahasiswa,2,8.33
+per_periode,mingguan,2024-W13,1,11,Kebakaran gudang akibat bakar sampah,2,15.38
+per_periode,mingguan,2024-W13,2,2,Pembuangan limbah medis di Sidoarjo,1,7.69
+per_periode,mingguan,2024-W13,3,0,Distribusi bantuan air bersih saat kekeringan,1,7.69
+per_periode,mingguan,2024-W14,1,5,Edukasi lingkungan dan inovasi mahasiswa,7,30.43
+per_periode,mingguan,2024-W14,2,16,Pencemaran sampah plastik di Surabaya,2,8.7
+per_periode,mingguan,2024-W14,3,17,Dampak dan penyebab polusi udara,2,8.7
+per_periode,mingguan,2024-W15,1,50,Laporan banjir di berbagai daerah,5,29.41
+per_periode,mingguan,2024-W15,2,44,Kabar banjir di luar Jawa Timur,3,17.65
+per_periode,mingguan,2024-W15,3,17,Dampak dan penyebab polusi udara,2,11.76
+per_periode,mingguan,2024-W16,1,20,Sampah menumpuk di pantai,13,27.08
+per_periode,mingguan,2024-W16,2,2,Pembuangan limbah medis di Sidoarjo,5,10.42
+per_periode,mingguan,2024-W16,3,44,Kabar banjir di luar Jawa Timur,4,8.33
+per_periode,mingguan,2024-W17,1,2,Pembuangan limbah medis di Sidoarjo,6,17.14
+per_periode,mingguan,2024-W17,2,0,Distribusi bantuan air bersih saat kekeringan,4,11.43
+per_periode,mingguan,2024-W17,3,41,Festival Banjir Tahu di Lumajang,3,8.57
+per_periode,mingguan,2024-W18,1,0,Distribusi bantuan air bersih saat kekeringan,2,10.0
+per_periode,mingguan,2024-W18,2,14,Bencana banjir dan tanah longsor,2,10.0
+per_periode,mingguan,2024-W18,3,2,Pembuangan limbah medis di Sidoarjo,1,5.0
+per_periode,mingguan,2024-W19,1,28,Banjir bandang Kota Batu,3,14.29
+per_periode,mingguan,2024-W19,2,0,Distribusi bantuan air bersih saat kekeringan,2,9.52
+per_periode,mingguan,2024-W19,3,6,Penggunaan sampah plastik sebagai bahan bakar,1,4.76
+per_periode,mingguan,2024-W20,1,0,Distribusi bantuan air bersih saat kekeringan,3,15.0
+per_periode,mingguan,2024-W20,2,6,Penggunaan sampah plastik sebagai bahan bakar,2,10.0
+per_periode,mingguan,2024-W20,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,10.0
+per_periode,mingguan,2024-W21,1,0,Distribusi bantuan air bersih saat kekeringan,3,25.0
+per_periode,mingguan,2024-W21,2,16,Pencemaran sampah plastik di Surabaya,2,16.67
+per_periode,mingguan,2024-W21,3,4,Keluhan kualitas air PDAM,1,8.33
+per_periode,mingguan,2024-W22,1,0,Distribusi bantuan air bersih saat kekeringan,5,14.29
+per_periode,mingguan,2024-W22,2,7,Pencemaran sungai oleh limbah,4,11.43
+per_periode,mingguan,2024-W22,3,2,Pembuangan limbah medis di Sidoarjo,3,8.57
+per_periode,mingguan,2024-W23,1,12,Desa di Pasuruan terendam banjir,4,13.79
+per_periode,mingguan,2024-W23,2,22,Banjir luapan Bengawan Solo,4,13.79
+per_periode,mingguan,2024-W23,3,2,Pembuangan limbah medis di Sidoarjo,3,10.34
+per_periode,mingguan,2024-W24,1,0,Distribusi bantuan air bersih saat kekeringan,2,8.33
+per_periode,mingguan,2024-W24,2,1,Pengelolaan sampah di TPS 3R,2,8.33
+per_periode,mingguan,2024-W24,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,8.33
+per_periode,mingguan,2024-W25,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,11.76
+per_periode,mingguan,2024-W25,2,9,Pembangunan drainase jalan,2,11.76
+per_periode,mingguan,2024-W25,3,48,Warga mengungsi akibat banjir,2,11.76
+per_periode,mingguan,2024-W26,1,2,Pembuangan limbah medis di Sidoarjo,5,15.62
+per_periode,mingguan,2024-W26,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,5,15.62
+per_periode,mingguan,2024-W26,3,0,Distribusi bantuan air bersih saat kekeringan,3,9.38
+per_periode,mingguan,2024-W27,1,6,Penggunaan sampah plastik sebagai bahan bakar,5,17.86
+per_periode,mingguan,2024-W27,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,10.71
+per_periode,mingguan,2024-W27,3,0,Distribusi bantuan air bersih saat kekeringan,3,10.71
+per_periode,mingguan,2024-W28,1,0,Distribusi bantuan air bersih saat kekeringan,3,9.38
+per_periode,mingguan,2024-W28,2,1,Pengelolaan sampah di TPS 3R,2,6.25
+per_periode,mingguan,2024-W28,3,4,Keluhan kualitas air PDAM,2,6.25
+per_periode,mingguan,2024-W29,1,8,Pengelolaan limbah batu bara PLTU,8,23.53
+per_periode,mingguan,2024-W29,2,2,Pembuangan limbah medis di Sidoarjo,7,20.59
+per_periode,mingguan,2024-W29,3,19,Sekolah terdampak banjir,3,8.82
+per_periode,mingguan,2024-W30,1,8,Pengelolaan limbah batu bara PLTU,4,13.33
+per_periode,mingguan,2024-W30,2,4,Keluhan kualitas air PDAM,3,10.0
+per_periode,mingguan,2024-W30,3,1,Pengelolaan sampah di TPS 3R,3,10.0
+per_periode,mingguan,2024-W31,1,1,Pengelolaan sampah di TPS 3R,8,21.05
+per_periode,mingguan,2024-W31,2,0,Distribusi bantuan air bersih saat kekeringan,3,7.89
+per_periode,mingguan,2024-W31,3,8,Pengelolaan limbah batu bara PLTU,3,7.89
+per_periode,mingguan,2024-W32,1,1,Pengelolaan sampah di TPS 3R,11,23.91
+per_periode,mingguan,2024-W32,2,0,Distribusi bantuan air bersih saat kekeringan,5,10.87
+per_periode,mingguan,2024-W32,3,7,Pencemaran sungai oleh limbah,4,8.7
+per_periode,mingguan,2024-W33,1,1,Pengelolaan sampah di TPS 3R,6,23.08
+per_periode,mingguan,2024-W33,2,4,Keluhan kualitas air PDAM,3,11.54
+per_periode,mingguan,2024-W33,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,7.69
+per_periode,mingguan,2024-W34,1,1,Pengelolaan sampah di TPS 3R,5,17.24
+per_periode,mingguan,2024-W34,2,0,Distribusi bantuan air bersih saat kekeringan,3,10.34
+per_periode,mingguan,2024-W34,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,10.34
+per_periode,mingguan,2024-W35,1,0,Distribusi bantuan air bersih saat kekeringan,4,14.81
+per_periode,mingguan,2024-W35,2,1,Pengelolaan sampah di TPS 3R,4,14.81
+per_periode,mingguan,2024-W35,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,11.11
+per_periode,mingguan,2024-W36,1,1,Pengelolaan sampah di TPS 3R,18,33.33
+per_periode,mingguan,2024-W36,2,0,Distribusi bantuan air bersih saat kekeringan,5,9.26
+per_periode,mingguan,2024-W36,3,2,Pembuangan limbah medis di Sidoarjo,4,7.41
+per_periode,mingguan,2024-W37,1,0,Distribusi bantuan air bersih saat kekeringan,6,17.65
+per_periode,mingguan,2024-W37,2,1,Pengelolaan sampah di TPS 3R,5,14.71
+per_periode,mingguan,2024-W37,3,6,Penggunaan sampah plastik sebagai bahan bakar,2,5.88
+per_periode,mingguan,2024-W38,1,1,Pengelolaan sampah di TPS 3R,8,26.67
+per_periode,mingguan,2024-W38,2,0,Distribusi bantuan air bersih saat kekeringan,3,10.0
+per_periode,mingguan,2024-W38,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,10.0
+per_periode,mingguan,2024-W39,1,1,Pengelolaan sampah di TPS 3R,7,26.92
+per_periode,mingguan,2024-W39,2,0,Distribusi bantuan air bersih saat kekeringan,3,11.54
+per_periode,mingguan,2024-W39,3,2,Pembuangan limbah medis di Sidoarjo,3,11.54
+per_periode,mingguan,2024-W40,1,1,Pengelolaan sampah di TPS 3R,6,20.0
+per_periode,mingguan,2024-W40,2,0,Distribusi bantuan air bersih saat kekeringan,4,13.33
+per_periode,mingguan,2024-W40,3,11,Kebakaran gudang akibat bakar sampah,3,10.0
+per_periode,mingguan,2024-W41,1,1,Pengelolaan sampah di TPS 3R,5,22.73
+per_periode,mingguan,2024-W41,2,2,Pembuangan limbah medis di Sidoarjo,5,22.73
+per_periode,mingguan,2024-W41,3,0,Distribusi bantuan air bersih saat kekeringan,4,18.18
+per_periode,mingguan,2024-W42,1,1,Pengelolaan sampah di TPS 3R,5,20.0
+per_periode,mingguan,2024-W42,2,0,Distribusi bantuan air bersih saat kekeringan,3,12.0
+per_periode,mingguan,2024-W42,3,25,Banjir rob pesisir Surabaya,2,8.0
+per_periode,mingguan,2024-W43,1,1,Pengelolaan sampah di TPS 3R,3,10.0
+per_periode,mingguan,2024-W43,2,11,Kebakaran gudang akibat bakar sampah,3,10.0
+per_periode,mingguan,2024-W43,3,9,Pembangunan drainase jalan,3,10.0
+per_periode,mingguan,2024-W44,1,1,Pengelolaan sampah di TPS 3R,9,27.27
+per_periode,mingguan,2024-W44,2,2,Pembuangan limbah medis di Sidoarjo,3,9.09
+per_periode,mingguan,2024-W44,3,4,Keluhan kualitas air PDAM,3,9.09
+per_periode,mingguan,2024-W45,1,0,Distribusi bantuan air bersih saat kekeringan,7,21.88
+per_periode,mingguan,2024-W45,2,16,Pencemaran sampah plastik di Surabaya,4,12.5
+per_periode,mingguan,2024-W45,3,1,Pengelolaan sampah di TPS 3R,2,6.25
+per_periode,mingguan,2024-W46,1,0,Distribusi bantuan air bersih saat kekeringan,3,14.29
+per_periode,mingguan,2024-W46,2,15,Banjir putus akses jalan raya,2,9.52
+per_periode,mingguan,2024-W46,3,16,Pencemaran sampah plastik di Surabaya,2,9.52
+per_periode,mingguan,2024-W47,1,15,Banjir putus akses jalan raya,6,13.33
+per_periode,mingguan,2024-W47,2,2,Pembuangan limbah medis di Sidoarjo,5,11.11
+per_periode,mingguan,2024-W47,3,4,Keluhan kualitas air PDAM,4,8.89
+per_periode,mingguan,2024-W48,1,5,Edukasi lingkungan dan inovasi mahasiswa,6,12.24
+per_periode,mingguan,2024-W48,2,13,Peringatan Hari Lingkungan Hidup Sedunia,4,8.16
+per_periode,mingguan,2024-W48,3,65,Bau busuk limbah pabrik bulu ayam,4,8.16
+per_periode,mingguan,2024-W49,1,13,Peringatan Hari Lingkungan Hidup Sedunia,8,14.04
+per_periode,mingguan,2024-W49,2,0,Distribusi bantuan air bersih saat kekeringan,5,8.77
+per_periode,mingguan,2024-W49,3,61,Kecelakaan motor gerobak sampah,5,8.77
+per_periode,mingguan,2024-W50,1,5,Edukasi lingkungan dan inovasi mahasiswa,8,10.26
+per_periode,mingguan,2024-W50,2,50,Laporan banjir di berbagai daerah,7,8.97
+per_periode,mingguan,2024-W50,3,4,Keluhan kualitas air PDAM,5,6.41
+per_periode,mingguan,2024-W51,1,70,Kasus viral pencemaran limbah medis,23,24.21
+per_periode,mingguan,2024-W51,2,21,Ratusan rumah terendam luapan sungai,8,8.42
+per_periode,mingguan,2024-W51,3,17,Dampak dan penyebab polusi udara,7,7.37
+per_periode,mingguan,2024-W52,1,5,Edukasi lingkungan dan inovasi mahasiswa,19,24.68
+per_periode,mingguan,2024-W52,2,15,Banjir putus akses jalan raya,5,6.49
+per_periode,mingguan,2024-W52,3,22,Banjir luapan Bengawan Solo,5,6.49
+per_periode,mingguan,2025-W01,1,5,Edukasi lingkungan dan inovasi mahasiswa,2,6.45
+per_periode,mingguan,2025-W01,2,4,Keluhan kualitas air PDAM,2,6.45
+per_periode,mingguan,2025-W01,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,6.45
+per_periode,mingguan,2025-W02,1,2,Pembuangan limbah medis di Sidoarjo,4,11.11
+per_periode,mingguan,2025-W02,2,26,Pengelolaan bank sampah,4,11.11
+per_periode,mingguan,2025-W02,3,21,Ratusan rumah terendam luapan sungai,3,8.33
+per_periode,mingguan,2025-W03,1,2,Pembuangan limbah medis di Sidoarjo,4,9.52
+per_periode,mingguan,2025-W03,2,13,Peringatan Hari Lingkungan Hidup Sedunia,4,9.52
+per_periode,mingguan,2025-W03,3,6,Penggunaan sampah plastik sebagai bahan bakar,3,7.14
+per_periode,mingguan,2025-W04,1,24,Tarif dan pelanggan PDAM Surabaya,13,19.4
+per_periode,mingguan,2025-W04,2,2,Pembuangan limbah medis di Sidoarjo,9,13.43
+per_periode,mingguan,2025-W04,3,15,Banjir putus akses jalan raya,5,7.46
+per_periode,mingguan,2025-W05,1,2,Pembuangan limbah medis di Sidoarjo,4,10.26
+per_periode,mingguan,2025-W05,2,0,Distribusi bantuan air bersih saat kekeringan,3,7.69
+per_periode,mingguan,2025-W05,3,13,Peringatan Hari Lingkungan Hidup Sedunia,3,7.69
+per_periode,mingguan,2025-W06,1,20,Sampah menumpuk di pantai,5,9.43
+per_periode,mingguan,2025-W06,2,21,Ratusan rumah terendam luapan sungai,5,9.43
+per_periode,mingguan,2025-W06,3,2,Pembuangan limbah medis di Sidoarjo,4,7.55
+per_periode,mingguan,2025-W07,1,2,Pembuangan limbah medis di Sidoarjo,4,9.09
+per_periode,mingguan,2025-W07,2,8,Pengelolaan limbah batu bara PLTU,3,6.82
+per_periode,mingguan,2025-W07,3,4,Keluhan kualitas air PDAM,2,4.55
+per_periode,mingguan,2025-W08,1,4,Keluhan kualitas air PDAM,3,13.04
+per_periode,mingguan,2025-W08,2,40,Pengolahan limbah organik jadi pupuk,3,13.04
+per_periode,mingguan,2025-W08,3,65,Bau busuk limbah pabrik bulu ayam,2,8.7
+per_periode,mingguan,2025-W09,1,24,Tarif dan pelanggan PDAM Surabaya,14,21.88
+per_periode,mingguan,2025-W09,2,23,Banjir bandang di Banyuwangi,5,7.81
+per_periode,mingguan,2025-W09,3,13,Peringatan Hari Lingkungan Hidup Sedunia,4,6.25
+per_periode,mingguan,2025-W10,1,13,Peringatan Hari Lingkungan Hidup Sedunia,3,8.33
+per_periode,mingguan,2025-W10,2,20,Sampah menumpuk di pantai,3,8.33
+per_periode,mingguan,2025-W10,3,0,Distribusi bantuan air bersih saat kekeringan,2,5.56
+per_periode,mingguan,2025-W11,1,2,Pembuangan limbah medis di Sidoarjo,5,15.15
+per_periode,mingguan,2025-W11,2,13,Peringatan Hari Lingkungan Hidup Sedunia,5,15.15
+per_periode,mingguan,2025-W11,3,4,Keluhan kualitas air PDAM,3,9.09
+per_periode,mingguan,2025-W12,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,12.0
+per_periode,mingguan,2025-W12,2,4,Keluhan kualitas air PDAM,2,8.0
+per_periode,mingguan,2025-W12,3,2,Pembuangan limbah medis di Sidoarjo,2,8.0
+per_periode,mingguan,2025-W13,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,17.65
+per_periode,mingguan,2025-W13,2,0,Distribusi bantuan air bersih saat kekeringan,2,11.76
+per_periode,mingguan,2025-W13,3,10,Banjir akibat hujan deras,2,11.76
+per_periode,mingguan,2025-W14,1,2,Pembuangan limbah medis di Sidoarjo,1,11.11
+per_periode,mingguan,2025-W14,2,4,Keluhan kualitas air PDAM,1,11.11
+per_periode,mingguan,2025-W14,3,10,Banjir akibat hujan deras,1,11.11
+per_periode,mingguan,2025-W15,1,2,Pembuangan limbah medis di Sidoarjo,4,12.5
+per_periode,mingguan,2025-W15,2,0,Distribusi bantuan air bersih saat kekeringan,3,9.38
+per_periode,mingguan,2025-W15,3,4,Keluhan kualitas air PDAM,2,6.25
+per_periode,mingguan,2025-W16,1,2,Pembuangan limbah medis di Sidoarjo,5,23.81
+per_periode,mingguan,2025-W16,2,46,Limbah jadi karya seni bernilai ekonomi,2,9.52
+per_periode,mingguan,2025-W16,3,4,Keluhan kualitas air PDAM,1,4.76
+per_periode,mingguan,2025-W17,1,2,Pembuangan limbah medis di Sidoarjo,4,17.39
+per_periode,mingguan,2025-W17,2,0,Distribusi bantuan air bersih saat kekeringan,3,13.04
+per_periode,mingguan,2025-W17,3,4,Keluhan kualitas air PDAM,2,8.7
+per_periode,mingguan,2025-W18,1,2,Pembuangan limbah medis di Sidoarjo,3,12.5
+per_periode,mingguan,2025-W18,2,18,Jembatan putus diterjang banjir lahar Semeru,3,12.5
+per_periode,mingguan,2025-W18,3,12,Desa di Pasuruan terendam banjir,3,12.5
+per_periode,mingguan,2025-W19,1,2,Pembuangan limbah medis di Sidoarjo,4,10.81
+per_periode,mingguan,2025-W19,2,8,Pengelolaan limbah batu bara PLTU,4,10.81
+per_periode,mingguan,2025-W19,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,8.11
+per_periode,mingguan,2025-W20,1,7,Pencemaran sungai oleh limbah,8,14.29
+per_periode,mingguan,2025-W20,2,2,Pembuangan limbah medis di Sidoarjo,4,7.14
+per_periode,mingguan,2025-W20,3,0,Distribusi bantuan air bersih saat kekeringan,4,7.14
+per_periode,mingguan,2025-W21,1,2,Pembuangan limbah medis di Sidoarjo,6,9.09
+per_periode,mingguan,2025-W21,2,22,Banjir luapan Bengawan Solo,5,7.58
+per_periode,mingguan,2025-W21,3,24,Tarif dan pelanggan PDAM Surabaya,5,7.58
+per_periode,mingguan,2025-W22,1,28,Banjir bandang Kota Batu,9,20.93
+per_periode,mingguan,2025-W22,2,7,Pencemaran sungai oleh limbah,6,13.95
+per_periode,mingguan,2025-W22,3,22,Banjir luapan Bengawan Solo,3,6.98
+per_periode,mingguan,2025-W23,1,7,Pencemaran sungai oleh limbah,5,18.52
+per_periode,mingguan,2025-W23,2,11,Kebakaran gudang akibat bakar sampah,3,11.11
+per_periode,mingguan,2025-W23,3,20,Sampah menumpuk di pantai,2,7.41
+per_periode,mingguan,2025-W24,1,13,Peringatan Hari Lingkungan Hidup Sedunia,7,16.67
+per_periode,mingguan,2025-W24,2,2,Pembuangan limbah medis di Sidoarjo,4,9.52
+per_periode,mingguan,2025-W24,3,4,Keluhan kualitas air PDAM,3,7.14
+per_periode,mingguan,2025-W25,1,85,Topik campuran/perlu ditinjau,4,14.81
+per_periode,mingguan,2025-W25,2,19,Sekolah terdampak banjir,3,11.11
+per_periode,mingguan,2025-W25,3,7,Pencemaran sungai oleh limbah,3,11.11
+per_periode,mingguan,2025-W26,1,0,Distribusi bantuan air bersih saat kekeringan,3,11.11
+per_periode,mingguan,2025-W26,2,2,Pembuangan limbah medis di Sidoarjo,3,11.11
+per_periode,mingguan,2025-W26,3,16,Pencemaran sampah plastik di Surabaya,2,7.41
+per_periode,mingguan,2025-W27,1,2,Pembuangan limbah medis di Sidoarjo,3,8.57
+per_periode,mingguan,2025-W27,2,11,Kebakaran gudang akibat bakar sampah,3,8.57
+per_periode,mingguan,2025-W27,3,0,Distribusi bantuan air bersih saat kekeringan,2,5.71
+per_periode,mingguan,2025-W28,1,0,Distribusi bantuan air bersih saat kekeringan,4,19.05
+per_periode,mingguan,2025-W28,2,2,Pembuangan limbah medis di Sidoarjo,3,14.29
+per_periode,mingguan,2025-W28,3,35,Polusi udara DKI Jakarta,2,9.52
+per_periode,mingguan,2025-W29,1,8,Pengelolaan limbah batu bara PLTU,4,12.12
+per_periode,mingguan,2025-W29,2,11,Kebakaran gudang akibat bakar sampah,4,12.12
+per_periode,mingguan,2025-W29,3,2,Pembuangan limbah medis di Sidoarjo,3,9.09
+per_periode,mingguan,2025-W30,1,8,Pengelolaan limbah batu bara PLTU,4,12.9
+per_periode,mingguan,2025-W30,2,2,Pembuangan limbah medis di Sidoarjo,3,9.68
+per_periode,mingguan,2025-W30,3,0,Distribusi bantuan air bersih saat kekeringan,3,9.68
+per_periode,mingguan,2025-W31,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,8.89
+per_periode,mingguan,2025-W31,2,19,Sekolah terdampak banjir,4,8.89
+per_periode,mingguan,2025-W31,3,8,Pengelolaan limbah batu bara PLTU,4,8.89
+per_periode,mingguan,2025-W32,1,2,Pembuangan limbah medis di Sidoarjo,5,11.63
+per_periode,mingguan,2025-W32,2,4,Keluhan kualitas air PDAM,5,11.63
+per_periode,mingguan,2025-W32,3,35,Polusi udara DKI Jakarta,5,11.63
+per_periode,mingguan,2025-W33,1,1,Pengelolaan sampah di TPS 3R,4,10.26
+per_periode,mingguan,2025-W33,2,9,Pembangunan drainase jalan,3,7.69
+per_periode,mingguan,2025-W33,3,16,Pencemaran sampah plastik di Surabaya,3,7.69
+per_periode,mingguan,2025-W34,1,2,Pembuangan limbah medis di Sidoarjo,4,13.33
+per_periode,mingguan,2025-W34,2,0,Distribusi bantuan air bersih saat kekeringan,2,6.67
+per_periode,mingguan,2025-W34,3,7,Pencemaran sungai oleh limbah,2,6.67
+per_periode,mingguan,2025-W35,1,8,Pengelolaan limbah batu bara PLTU,7,17.5
+per_periode,mingguan,2025-W35,2,2,Pembuangan limbah medis di Sidoarjo,5,12.5
+per_periode,mingguan,2025-W35,3,0,Distribusi bantuan air bersih saat kekeringan,4,10.0
+per_periode,mingguan,2025-W36,1,1,Pengelolaan sampah di TPS 3R,3,13.04
+per_periode,mingguan,2025-W36,2,0,Distribusi bantuan air bersih saat kekeringan,2,8.7
+per_periode,mingguan,2025-W36,3,2,Pembuangan limbah medis di Sidoarjo,2,8.7
+per_periode,mingguan,2025-W37,1,1,Pengelolaan sampah di TPS 3R,11,22.45
+per_periode,mingguan,2025-W37,2,54,Tukang sampah maju jadi calon legislatif,4,8.16
+per_periode,mingguan,2025-W37,3,0,Distribusi bantuan air bersih saat kekeringan,3,6.12
+per_periode,mingguan,2025-W38,1,2,Pembuangan limbah medis di Sidoarjo,7,14.89
+per_periode,mingguan,2025-W38,2,11,Kebakaran gudang akibat bakar sampah,3,6.38
+per_periode,mingguan,2025-W38,3,0,Distribusi bantuan air bersih saat kekeringan,2,4.26
+per_periode,mingguan,2025-W39,1,14,Bencana banjir dan tanah longsor,4,9.09
+per_periode,mingguan,2025-W39,2,1,Pengelolaan sampah di TPS 3R,3,6.82
+per_periode,mingguan,2025-W39,3,4,Keluhan kualitas air PDAM,2,4.55
+per_periode,mingguan,2025-W40,1,2,Pembuangan limbah medis di Sidoarjo,4,10.53
+per_periode,mingguan,2025-W40,2,30,Kebakaran lahan TPA,4,10.53
+per_periode,mingguan,2025-W40,3,63,Limbah pertanian jadi energi dan pendapatan,3,7.89
+per_periode,mingguan,2025-W41,1,2,Pembuangan limbah medis di Sidoarjo,10,18.87
+per_periode,mingguan,2025-W41,2,30,Kebakaran lahan TPA,6,11.32
+per_periode,mingguan,2025-W41,3,64,Jalur wisata Madakaripura putus akibat banjir dan longsor,5,9.43
+per_periode,mingguan,2025-W42,1,0,Distribusi bantuan air bersih saat kekeringan,7,12.5
+per_periode,mingguan,2025-W42,2,2,Pembuangan limbah medis di Sidoarjo,7,12.5
+per_periode,mingguan,2025-W42,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,6,10.71
+per_periode,mingguan,2025-W43,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,6,12.5
+per_periode,mingguan,2025-W43,2,11,Kebakaran gudang akibat bakar sampah,5,10.42
+per_periode,mingguan,2025-W43,3,2,Pembuangan limbah medis di Sidoarjo,4,8.33
+per_periode,mingguan,2025-W44,1,15,Banjir putus akses jalan raya,6,9.38
+per_periode,mingguan,2025-W44,2,11,Kebakaran gudang akibat bakar sampah,5,7.81
+per_periode,mingguan,2025-W44,3,2,Pembuangan limbah medis di Sidoarjo,5,7.81
+per_periode,mingguan,2025-W45,1,5,Edukasi lingkungan dan inovasi mahasiswa,12,15.19
+per_periode,mingguan,2025-W45,2,2,Pembuangan limbah medis di Sidoarjo,8,10.13
+per_periode,mingguan,2025-W45,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,5.06
+per_periode,mingguan,2025-W46,1,2,Pembuangan limbah medis di Sidoarjo,9,10.34
+per_periode,mingguan,2025-W46,2,5,Edukasi lingkungan dan inovasi mahasiswa,9,10.34
+per_periode,mingguan,2025-W46,3,4,Keluhan kualitas air PDAM,5,5.75
+per_periode,mingguan,2025-W47,1,23,Banjir bandang di Banyuwangi,8,10.26
+per_periode,mingguan,2025-W47,2,10,Banjir akibat hujan deras,4,5.13
+per_periode,mingguan,2025-W47,3,4,Keluhan kualitas air PDAM,4,5.13
+per_periode,mingguan,2025-W48,1,5,Edukasi lingkungan dan inovasi mahasiswa,4,8.7
+per_periode,mingguan,2025-W48,2,17,Dampak dan penyebab polusi udara,3,6.52
+per_periode,mingguan,2025-W48,3,47,Penertiban sampah ilegal oleh Pemkot Surabaya,3,6.52
+per_periode,mingguan,2025-W49,1,47,Penertiban sampah ilegal oleh Pemkot Surabaya,10,11.76
+per_periode,mingguan,2025-W49,2,15,Banjir putus akses jalan raya,9,10.59
+per_periode,mingguan,2025-W49,3,10,Banjir akibat hujan deras,6,7.06
+per_periode,mingguan,2025-W50,1,2,Pembuangan limbah medis di Sidoarjo,5,8.93
+per_periode,mingguan,2025-W50,2,11,Kebakaran gudang akibat bakar sampah,4,7.14
+per_periode,mingguan,2025-W50,3,47,Penertiban sampah ilegal oleh Pemkot Surabaya,4,7.14
+per_periode,mingguan,2025-W51,1,8,Pengelolaan limbah batu bara PLTU,5,8.47
+per_periode,mingguan,2025-W51,2,20,Sampah menumpuk di pantai,4,6.78
+per_periode,mingguan,2025-W51,3,2,Pembuangan limbah medis di Sidoarjo,4,6.78
+per_periode,mingguan,2025-W52,1,47,Penertiban sampah ilegal oleh Pemkot Surabaya,4,11.43
+per_periode,mingguan,2025-W52,2,13,Peringatan Hari Lingkungan Hidup Sedunia,2,5.71
+per_periode,mingguan,2025-W52,3,17,Dampak dan penyebab polusi udara,2,5.71
+per_periode,mingguan,2026-W01,1,4,Keluhan kualitas air PDAM,4,10.0
+per_periode,mingguan,2026-W01,2,5,Edukasi lingkungan dan inovasi mahasiswa,4,10.0
+per_periode,mingguan,2026-W01,3,10,Banjir akibat hujan deras,3,7.5
+per_periode,mingguan,2026-W02,1,21,Ratusan rumah terendam luapan sungai,8,12.31
+per_periode,mingguan,2026-W02,2,68,Patroli Gentong Polres Trenggalek salurkan air bersih,5,7.69
+per_periode,mingguan,2026-W02,3,4,Keluhan kualitas air PDAM,4,6.15
+per_periode,mingguan,2026-W03,1,24,Tarif dan pelanggan PDAM Surabaya,10,13.33
+per_periode,mingguan,2026-W03,2,15,Banjir putus akses jalan raya,5,6.67
+per_periode,mingguan,2026-W03,3,2,Pembuangan limbah medis di Sidoarjo,5,6.67
+per_periode,mingguan,2026-W04,1,45,KKN mahasiswa olah sampah plastik,8,9.64
+per_periode,mingguan,2026-W04,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,7,8.43
+per_periode,mingguan,2026-W04,3,10,Banjir akibat hujan deras,5,6.02
+per_periode,mingguan,2026-W05,1,2,Pembuangan limbah medis di Sidoarjo,6,8.7
+per_periode,mingguan,2026-W05,2,20,Sampah menumpuk di pantai,5,7.25
+per_periode,mingguan,2026-W05,3,8,Pengelolaan limbah batu bara PLTU,5,7.25
+per_periode,mingguan,2026-W06,1,2,Pembuangan limbah medis di Sidoarjo,8,13.11
+per_periode,mingguan,2026-W06,2,15,Banjir putus akses jalan raya,4,6.56
+per_periode,mingguan,2026-W06,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,4.92
+per_periode,mingguan,2026-W07,1,2,Pembuangan limbah medis di Sidoarjo,5,8.77
+per_periode,mingguan,2026-W07,2,80,Bekas lokasi sampah jadi destinasi wisata,5,8.77
+per_periode,mingguan,2026-W07,3,4,Keluhan kualitas air PDAM,4,7.02
+per_periode,mingguan,2026-W08,1,20,Sampah menumpuk di pantai,7,12.96
+per_periode,mingguan,2026-W08,2,2,Pembuangan limbah medis di Sidoarjo,5,9.26
+per_periode,mingguan,2026-W08,3,33,Kematian ikan akibat pencemaran,4,7.41
+per_periode,mingguan,2026-W09,1,73,Pembangunan sanitary landfill TPA,5,10.87
+per_periode,mingguan,2026-W09,2,20,Sampah menumpuk di pantai,4,8.7
+per_periode,mingguan,2026-W09,3,2,Pembuangan limbah medis di Sidoarjo,4,8.7
+per_periode,mingguan,2026-W10,1,15,Banjir putus akses jalan raya,9,16.07
+per_periode,mingguan,2026-W10,2,2,Pembuangan limbah medis di Sidoarjo,5,8.93
+per_periode,mingguan,2026-W10,3,13,Peringatan Hari Lingkungan Hidup Sedunia,4,7.14
+per_periode,mingguan,2026-W11,1,2,Pembuangan limbah medis di Sidoarjo,8,13.79
+per_periode,mingguan,2026-W11,2,16,Pencemaran sampah plastik di Surabaya,6,10.34
+per_periode,mingguan,2026-W11,3,17,Dampak dan penyebab polusi udara,5,8.62
+per_periode,mingguan,2026-W12,1,17,Dampak dan penyebab polusi udara,5,13.51
+per_periode,mingguan,2026-W12,2,15,Banjir putus akses jalan raya,4,10.81
+per_periode,mingguan,2026-W12,3,12,Desa di Pasuruan terendam banjir,3,8.11
+per_periode,mingguan,2026-W13,1,10,Banjir akibat hujan deras,8,18.18
+per_periode,mingguan,2026-W13,2,23,Banjir bandang di Banyuwangi,4,9.09
+per_periode,mingguan,2026-W13,3,18,Jembatan putus diterjang banjir lahar Semeru,3,6.82
+per_periode,mingguan,2026-W14,1,15,Banjir putus akses jalan raya,5,10.2
+per_periode,mingguan,2026-W14,2,11,Kebakaran gudang akibat bakar sampah,3,6.12
+per_periode,mingguan,2026-W14,3,0,Distribusi bantuan air bersih saat kekeringan,3,6.12
+per_periode,mingguan,2026-W15,1,2,Pembuangan limbah medis di Sidoarjo,15,22.39
+per_periode,mingguan,2026-W15,2,58,Warga Lakardowo hidup dengan limbah berbahaya,4,5.97
+per_periode,mingguan,2026-W15,3,30,Kebakaran lahan TPA,4,5.97
+per_periode,mingguan,2026-W16,1,2,Pembuangan limbah medis di Sidoarjo,14,25.93
+per_periode,mingguan,2026-W16,2,11,Kebakaran gudang akibat bakar sampah,3,5.56
+per_periode,mingguan,2026-W16,3,14,Bencana banjir dan tanah longsor,3,5.56
+per_periode,mingguan,2026-W17,1,2,Pembuangan limbah medis di Sidoarjo,4,10.26
+per_periode,mingguan,2026-W17,2,30,Kebakaran lahan TPA,4,10.26
+per_periode,mingguan,2026-W17,3,0,Distribusi bantuan air bersih saat kekeringan,3,7.69
+per_periode,mingguan,2026-W18,1,2,Pembuangan limbah medis di Sidoarjo,6,13.04
+per_periode,mingguan,2026-W18,2,1,Pengelolaan sampah di TPS 3R,4,8.7
+per_periode,mingguan,2026-W18,3,20,Sampah menumpuk di pantai,3,6.52
+per_periode,mingguan,2026-W19,1,2,Pembuangan limbah medis di Sidoarjo,10,15.38
+per_periode,mingguan,2026-W19,2,0,Distribusi bantuan air bersih saat kekeringan,7,10.77
+per_periode,mingguan,2026-W19,3,1,Pengelolaan sampah di TPS 3R,4,6.15
+per_periode,mingguan,2026-W20,1,2,Pembuangan limbah medis di Sidoarjo,5,10.64
+per_periode,mingguan,2026-W20,2,4,Keluhan kualitas air PDAM,4,8.51
+per_periode,mingguan,2026-W20,3,1,Pengelolaan sampah di TPS 3R,3,6.38
+per_periode,mingguan,2026-W21,1,2,Pembuangan limbah medis di Sidoarjo,10,17.24
+per_periode,mingguan,2026-W21,2,28,Banjir bandang Kota Batu,9,15.52
+per_periode,mingguan,2026-W21,3,0,Distribusi bantuan air bersih saat kekeringan,5,8.62
+per_periode,mingguan,2026-W22,1,30,Kebakaran lahan TPA,12,21.82
+per_periode,mingguan,2026-W22,2,78,Dampak banjir di Jember,8,14.55
+per_periode,mingguan,2026-W22,3,5,Edukasi lingkungan dan inovasi mahasiswa,3,5.45
+per_periode,mingguan,2026-W23,1,30,Kebakaran lahan TPA,16,20.25
+per_periode,mingguan,2026-W23,2,78,Dampak banjir di Jember,7,8.86
+per_periode,mingguan,2026-W23,3,1,Pengelolaan sampah di TPS 3R,6,7.59
+per_periode,mingguan,2026-W24,1,2,Pembuangan limbah medis di Sidoarjo,10,19.23
+per_periode,mingguan,2026-W24,2,30,Kebakaran lahan TPA,7,13.46
+per_periode,mingguan,2026-W24,3,1,Pengelolaan sampah di TPS 3R,4,7.69
+per_periode,mingguan,2026-W25,1,1,Pengelolaan sampah di TPS 3R,9,20.0
+per_periode,mingguan,2026-W25,2,0,Distribusi bantuan air bersih saat kekeringan,6,13.33
+per_periode,mingguan,2026-W25,3,2,Pembuangan limbah medis di Sidoarjo,6,13.33
+per_periode,mingguan,2026-W26,1,5,Edukasi lingkungan dan inovasi mahasiswa,65,55.56
+per_periode,mingguan,2026-W26,2,0,Distribusi bantuan air bersih saat kekeringan,7,5.98
+per_periode,mingguan,2026-W26,3,2,Pembuangan limbah medis di Sidoarjo,6,5.13
+per_periode,mingguan,2026-W27,1,1,Pengelolaan sampah di TPS 3R,13,15.66
+per_periode,mingguan,2026-W27,2,2,Pembuangan limbah medis di Sidoarjo,11,13.25
+per_periode,mingguan,2026-W27,3,0,Distribusi bantuan air bersih saat kekeringan,6,7.23
+per_periode,mingguan,2026-W28,1,1,Pengelolaan sampah di TPS 3R,18,22.5
+per_periode,mingguan,2026-W28,2,2,Pembuangan limbah medis di Sidoarjo,8,10.0
+per_periode,mingguan,2026-W28,3,12,Desa di Pasuruan terendam banjir,6,7.5
+per_periode,mingguan,2026-W29,1,12,Desa di Pasuruan terendam banjir,12,11.43
+per_periode,mingguan,2026-W29,2,2,Pembuangan limbah medis di Sidoarjo,8,7.62
+per_periode,mingguan,2026-W29,3,0,Distribusi bantuan air bersih saat kekeringan,7,6.67
+per_periode,mingguan,2026-W30,1,0,Distribusi bantuan air bersih saat kekeringan,19,16.1
+per_periode,mingguan,2026-W30,2,36,Sawah terendam banjir dan gagal panen,14,11.86
+per_periode,mingguan,2026-W30,3,1,Pengelolaan sampah di TPS 3R,13,11.02
+per_periode,mingguan,2026-W31,1,1,Pengelolaan sampah di TPS 3R,23,20.35
+per_periode,mingguan,2026-W31,2,0,Distribusi bantuan air bersih saat kekeringan,18,15.93
+per_periode,mingguan,2026-W31,3,2,Pembuangan limbah medis di Sidoarjo,10,8.85
+per_periode,mingguan,2026-W32,1,1,Pengelolaan sampah di TPS 3R,33,23.74
+per_periode,mingguan,2026-W32,2,0,Distribusi bantuan air bersih saat kekeringan,12,8.63
+per_periode,mingguan,2026-W32,3,2,Pembuangan limbah medis di Sidoarjo,9,6.47
+per_periode,mingguan,2026-W33,1,1,Pengelolaan sampah di TPS 3R,20,15.62
+per_periode,mingguan,2026-W33,2,0,Distribusi bantuan air bersih saat kekeringan,16,12.5
+per_periode,mingguan,2026-W33,3,2,Pembuangan limbah medis di Sidoarjo,13,10.16
+per_periode,mingguan,2026-W34,1,1,Pengelolaan sampah di TPS 3R,29,17.68
+per_periode,mingguan,2026-W34,2,0,Distribusi bantuan air bersih saat kekeringan,26,15.85
+per_periode,mingguan,2026-W34,3,2,Pembuangan limbah medis di Sidoarjo,15,9.15
+per_periode,mingguan,2026-W35,1,1,Pengelolaan sampah di TPS 3R,45,21.63
+per_periode,mingguan,2026-W35,2,2,Pembuangan limbah medis di Sidoarjo,20,9.62
+per_periode,mingguan,2026-W35,3,0,Distribusi bantuan air bersih saat kekeringan,18,8.65
+per_periode,mingguan,2026-W36,1,1,Pengelolaan sampah di TPS 3R,55,29.41
+per_periode,mingguan,2026-W36,2,0,Distribusi bantuan air bersih saat kekeringan,30,16.04
+per_periode,mingguan,2026-W36,3,6,Penggunaan sampah plastik sebagai bahan bakar,10,5.35
+per_periode,mingguan,2026-W37,1,1,Pengelolaan sampah di TPS 3R,60,21.74
+per_periode,mingguan,2026-W37,2,0,Distribusi bantuan air bersih saat kekeringan,37,13.41
+per_periode,mingguan,2026-W37,3,6,Penggunaan sampah plastik sebagai bahan bakar,25,9.06
+per_periode,mingguan,2026-W38,1,0,Distribusi bantuan air bersih saat kekeringan,44,20.18
+per_periode,mingguan,2026-W38,2,1,Pengelolaan sampah di TPS 3R,44,20.18
+per_periode,mingguan,2026-W38,3,12,Desa di Pasuruan terendam banjir,14,6.42
+per_periode,mingguan,2026-W39,1,1,Pengelolaan sampah di TPS 3R,51,19.92
+per_periode,mingguan,2026-W39,2,0,Distribusi bantuan air bersih saat kekeringan,44,17.19
+per_periode,mingguan,2026-W39,3,12,Desa di Pasuruan terendam banjir,18,7.03
+per_periode,mingguan,2026-W40,1,0,Distribusi bantuan air bersih saat kekeringan,50,21.65
+per_periode,mingguan,2026-W40,2,1,Pengelolaan sampah di TPS 3R,40,17.32
+per_periode,mingguan,2026-W40,3,25,Banjir rob pesisir Surabaya,21,9.09
+per_periode,mingguan,2026-W41,1,0,Distribusi bantuan air bersih saat kekeringan,65,22.73
+per_periode,mingguan,2026-W41,2,1,Pengelolaan sampah di TPS 3R,59,20.63
+per_periode,mingguan,2026-W41,3,25,Banjir rob pesisir Surabaya,15,5.24
+per_periode,mingguan,2026-W42,1,1,Pengelolaan sampah di TPS 3R,84,17.46
+per_periode,mingguan,2026-W42,2,0,Distribusi bantuan air bersih saat kekeringan,69,14.35
+per_periode,mingguan,2026-W42,3,36,Sawah terendam banjir dan gagal panen,31,6.44
+per_periode,bulanan,2016-01,1,2,Pembuangan limbah medis di Sidoarjo,3,13.04
+per_periode,bulanan,2016-01,2,74,Penemuan mayat di kamar kos,3,13.04
+per_periode,bulanan,2016-01,3,6,Penggunaan sampah plastik sebagai bahan bakar,2,8.7
+per_periode,bulanan,2016-02,1,5,Edukasi lingkungan dan inovasi mahasiswa,5,10.2
+per_periode,bulanan,2016-02,2,21,Ratusan rumah terendam luapan sungai,4,8.16
+per_periode,bulanan,2016-02,3,52,Pencemaran Sungai Brantas,4,8.16
+per_periode,bulanan,2016-03,1,0,Distribusi bantuan air bersih saat kekeringan,2,9.09
+per_periode,bulanan,2016-03,2,4,Keluhan kualitas air PDAM,2,9.09
+per_periode,bulanan,2016-03,3,13,Peringatan Hari Lingkungan Hidup Sedunia,2,9.09
+per_periode,bulanan,2016-04,1,6,Penggunaan sampah plastik sebagai bahan bakar,3,12.5
+per_periode,bulanan,2016-04,2,2,Pembuangan limbah medis di Sidoarjo,2,8.33
+per_periode,bulanan,2016-04,3,18,Jembatan putus diterjang banjir lahar Semeru,2,8.33
+per_periode,bulanan,2016-05,1,0,Distribusi bantuan air bersih saat kekeringan,2,11.11
+per_periode,bulanan,2016-05,2,5,Edukasi lingkungan dan inovasi mahasiswa,2,11.11
+per_periode,bulanan,2016-05,3,8,Pengelolaan limbah batu bara PLTU,2,11.11
+per_periode,bulanan,2016-06,1,6,Penggunaan sampah plastik sebagai bahan bakar,2,13.33
+per_periode,bulanan,2016-06,2,10,Banjir akibat hujan deras,2,13.33
+per_periode,bulanan,2016-06,3,29,Pembuangan limbah B3 ilegal,2,13.33
+per_periode,bulanan,2016-07,1,14,Bencana banjir dan tanah longsor,2,11.11
+per_periode,bulanan,2016-07,2,19,Sekolah terdampak banjir,2,11.11
+per_periode,bulanan,2016-07,3,2,Pembuangan limbah medis di Sidoarjo,1,5.56
+per_periode,bulanan,2016-08,1,0,Distribusi bantuan air bersih saat kekeringan,2,10.0
+per_periode,bulanan,2016-08,2,7,Pencemaran sungai oleh limbah,2,10.0
+per_periode,bulanan,2016-08,3,44,Kabar banjir di luar Jawa Timur,2,10.0
+per_periode,bulanan,2016-09,1,4,Keluhan kualitas air PDAM,5,20.83
+per_periode,bulanan,2016-09,2,13,Peringatan Hari Lingkungan Hidup Sedunia,3,12.5
+per_periode,bulanan,2016-09,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,8.33
+per_periode,bulanan,2016-10,1,4,Keluhan kualitas air PDAM,3,12.0
+per_periode,bulanan,2016-10,2,17,Dampak dan penyebab polusi udara,3,12.0
+per_periode,bulanan,2016-10,3,0,Distribusi bantuan air bersih saat kekeringan,2,8.0
+per_periode,bulanan,2016-11,1,4,Keluhan kualitas air PDAM,3,10.71
+per_periode,bulanan,2016-11,2,6,Penggunaan sampah plastik sebagai bahan bakar,3,10.71
+per_periode,bulanan,2016-11,3,2,Pembuangan limbah medis di Sidoarjo,2,7.14
+per_periode,bulanan,2016-12,1,24,Tarif dan pelanggan PDAM Surabaya,3,12.0
+per_periode,bulanan,2016-12,2,18,Jembatan putus diterjang banjir lahar Semeru,2,8.0
+per_periode,bulanan,2016-12,3,17,Dampak dan penyebab polusi udara,2,8.0
+per_periode,bulanan,2017-01,1,4,Keluhan kualitas air PDAM,2,9.09
+per_periode,bulanan,2017-01,2,5,Edukasi lingkungan dan inovasi mahasiswa,2,9.09
+per_periode,bulanan,2017-01,3,17,Dampak dan penyebab polusi udara,2,9.09
+per_periode,bulanan,2017-02,1,4,Keluhan kualitas air PDAM,2,6.9
+per_periode,bulanan,2017-02,2,13,Peringatan Hari Lingkungan Hidup Sedunia,2,6.9
+per_periode,bulanan,2017-02,3,10,Banjir akibat hujan deras,2,6.9
+per_periode,bulanan,2017-03,1,18,Jembatan putus diterjang banjir lahar Semeru,6,22.22
+per_periode,bulanan,2017-03,2,0,Distribusi bantuan air bersih saat kekeringan,3,11.11
+per_periode,bulanan,2017-03,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,7.41
+per_periode,bulanan,2017-04,1,0,Distribusi bantuan air bersih saat kekeringan,4,19.05
+per_periode,bulanan,2017-04,2,44,Kabar banjir di luar Jawa Timur,3,14.29
+per_periode,bulanan,2017-04,3,15,Banjir putus akses jalan raya,2,9.52
+per_periode,bulanan,2017-05,1,0,Distribusi bantuan air bersih saat kekeringan,1,11.11
+per_periode,bulanan,2017-05,2,6,Penggunaan sampah plastik sebagai bahan bakar,1,11.11
+per_periode,bulanan,2017-05,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,11.11
+per_periode,bulanan,2017-06,1,8,Pengelolaan limbah batu bara PLTU,2,25.0
+per_periode,bulanan,2017-06,2,9,Pembangunan drainase jalan,2,25.0
+per_periode,bulanan,2017-06,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,1,12.5
+per_periode,bulanan,2017-07,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,5,12.82
+per_periode,bulanan,2017-07,2,2,Pembuangan limbah medis di Sidoarjo,3,7.69
+per_periode,bulanan,2017-07,3,38,Banjir berkepanjangan dan dampaknya,3,7.69
+per_periode,bulanan,2017-08,1,0,Distribusi bantuan air bersih saat kekeringan,4,10.0
+per_periode,bulanan,2017-08,2,6,Penggunaan sampah plastik sebagai bahan bakar,4,10.0
+per_periode,bulanan,2017-08,3,2,Pembuangan limbah medis di Sidoarjo,3,7.5
+per_periode,bulanan,2017-09,1,1,Pengelolaan sampah di TPS 3R,6,25.0
+per_periode,bulanan,2017-09,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,5,20.83
+per_periode,bulanan,2017-09,3,0,Distribusi bantuan air bersih saat kekeringan,3,12.5
+per_periode,bulanan,2017-10,1,0,Distribusi bantuan air bersih saat kekeringan,3,8.82
+per_periode,bulanan,2017-10,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,8.82
+per_periode,bulanan,2017-10,3,35,Polusi udara DKI Jakarta,3,8.82
+per_periode,bulanan,2017-11,1,10,Banjir akibat hujan deras,11,15.94
+per_periode,bulanan,2017-11,2,44,Kabar banjir di luar Jawa Timur,8,11.59
+per_periode,bulanan,2017-11,3,13,Peringatan Hari Lingkungan Hidup Sedunia,7,10.14
+per_periode,bulanan,2017-12,1,21,Ratusan rumah terendam luapan sungai,3,6.0
+per_periode,bulanan,2017-12,2,17,Dampak dan penyebab polusi udara,3,6.0
+per_periode,bulanan,2017-12,3,13,Peringatan Hari Lingkungan Hidup Sedunia,3,6.0
+per_periode,bulanan,2018-01,1,0,Distribusi bantuan air bersih saat kekeringan,4,7.69
+per_periode,bulanan,2018-01,2,6,Penggunaan sampah plastik sebagai bahan bakar,3,5.77
+per_periode,bulanan,2018-01,3,10,Banjir akibat hujan deras,3,5.77
+per_periode,bulanan,2018-02,1,2,Pembuangan limbah medis di Sidoarjo,3,6.67
+per_periode,bulanan,2018-02,2,13,Peringatan Hari Lingkungan Hidup Sedunia,3,6.67
+per_periode,bulanan,2018-02,3,23,Banjir bandang di Banyuwangi,3,6.67
+per_periode,bulanan,2018-03,1,4,Keluhan kualitas air PDAM,5,10.2
+per_periode,bulanan,2018-03,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,8.16
+per_periode,bulanan,2018-03,3,2,Pembuangan limbah medis di Sidoarjo,3,6.12
+per_periode,bulanan,2018-04,1,69,Protes warga atas pencemaran pabrik,3,10.0
+per_periode,bulanan,2018-04,2,10,Banjir akibat hujan deras,2,6.67
+per_periode,bulanan,2018-04,3,4,Keluhan kualitas air PDAM,2,6.67
+per_periode,bulanan,2018-05,1,2,Pembuangan limbah medis di Sidoarjo,4,12.9
+per_periode,bulanan,2018-05,2,6,Penggunaan sampah plastik sebagai bahan bakar,4,12.9
+per_periode,bulanan,2018-05,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,2,6.45
+per_periode,bulanan,2018-06,1,18,Jembatan putus diterjang banjir lahar Semeru,3,10.71
+per_periode,bulanan,2018-06,2,39,Pejabat daerah tinjau lokasi banjir,3,10.71
+per_periode,bulanan,2018-06,3,26,Pengelolaan bank sampah,3,10.71
+per_periode,bulanan,2018-07,1,1,Pengelolaan sampah di TPS 3R,6,13.33
+per_periode,bulanan,2018-07,2,0,Distribusi bantuan air bersih saat kekeringan,4,8.89
+per_periode,bulanan,2018-07,3,9,Pembangunan drainase jalan,4,8.89
+per_periode,bulanan,2018-08,1,0,Distribusi bantuan air bersih saat kekeringan,6,12.77
+per_periode,bulanan,2018-08,2,4,Keluhan kualitas air PDAM,5,10.64
+per_periode,bulanan,2018-08,3,1,Pengelolaan sampah di TPS 3R,4,8.51
+per_periode,bulanan,2018-09,1,1,Pengelolaan sampah di TPS 3R,4,10.26
+per_periode,bulanan,2018-09,2,7,Pencemaran sungai oleh limbah,3,7.69
+per_periode,bulanan,2018-09,3,0,Distribusi bantuan air bersih saat kekeringan,2,5.13
+per_periode,bulanan,2018-10,1,1,Pengelolaan sampah di TPS 3R,4,11.76
+per_periode,bulanan,2018-10,2,0,Distribusi bantuan air bersih saat kekeringan,3,8.82
+per_periode,bulanan,2018-10,3,2,Pembuangan limbah medis di Sidoarjo,2,5.88
+per_periode,bulanan,2018-11,1,4,Keluhan kualitas air PDAM,6,13.04
+per_periode,bulanan,2018-11,2,2,Pembuangan limbah medis di Sidoarjo,3,6.52
+per_periode,bulanan,2018-11,3,8,Pengelolaan limbah batu bara PLTU,3,6.52
+per_periode,bulanan,2018-12,1,14,Bencana banjir dan tanah longsor,4,7.14
+per_periode,bulanan,2018-12,2,21,Ratusan rumah terendam luapan sungai,4,7.14
+per_periode,bulanan,2018-12,3,6,Penggunaan sampah plastik sebagai bahan bakar,3,5.36
+per_periode,bulanan,2019-01,1,6,Penggunaan sampah plastik sebagai bahan bakar,10,11.36
+per_periode,bulanan,2019-01,2,9,Pembangunan drainase jalan,8,9.09
+per_periode,bulanan,2019-01,3,4,Keluhan kualitas air PDAM,5,5.68
+per_periode,bulanan,2019-02,1,14,Bencana banjir dan tanah longsor,6,11.11
+per_periode,bulanan,2019-02,2,5,Edukasi lingkungan dan inovasi mahasiswa,4,7.41
+per_periode,bulanan,2019-02,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,3,5.56
+per_periode,bulanan,2019-03,1,13,Peringatan Hari Lingkungan Hidup Sedunia,8,8.33
+per_periode,bulanan,2019-03,2,10,Banjir akibat hujan deras,6,6.25
+per_periode,bulanan,2019-03,3,6,Penggunaan sampah plastik sebagai bahan bakar,6,6.25
+per_periode,bulanan,2019-04,1,7,Pencemaran sungai oleh limbah,6,12.77
+per_periode,bulanan,2019-04,2,4,Keluhan kualitas air PDAM,4,8.51
+per_periode,bulanan,2019-04,3,10,Banjir akibat hujan deras,3,6.38
+per_periode,bulanan,2019-05,1,4,Keluhan kualitas air PDAM,4,10.53
+per_periode,bulanan,2019-05,2,13,Peringatan Hari Lingkungan Hidup Sedunia,3,7.89
+per_periode,bulanan,2019-05,3,5,Edukasi lingkungan dan inovasi mahasiswa,2,5.26
+per_periode,bulanan,2019-06,1,1,Pengelolaan sampah di TPS 3R,9,16.36
+per_periode,bulanan,2019-06,2,0,Distribusi bantuan air bersih saat kekeringan,4,7.27
+per_periode,bulanan,2019-06,3,7,Pencemaran sungai oleh limbah,4,7.27
+per_periode,bulanan,2019-07,1,0,Distribusi bantuan air bersih saat kekeringan,8,9.76
+per_periode,bulanan,2019-07,2,7,Pencemaran sungai oleh limbah,8,9.76
+per_periode,bulanan,2019-07,3,4,Keluhan kualitas air PDAM,7,8.54
+per_periode,bulanan,2019-08,1,0,Distribusi bantuan air bersih saat kekeringan,10,11.76
+per_periode,bulanan,2019-08,2,1,Pengelolaan sampah di TPS 3R,10,11.76
+per_periode,bulanan,2019-08,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,9,10.59
+per_periode,bulanan,2019-09,1,1,Pengelolaan sampah di TPS 3R,8,10.67
+per_periode,bulanan,2019-09,2,0,Distribusi bantuan air bersih saat kekeringan,7,9.33
+per_periode,bulanan,2019-09,3,2,Pembuangan limbah medis di Sidoarjo,6,8.0
+per_periode,bulanan,2019-10,1,0,Distribusi bantuan air bersih saat kekeringan,8,12.12
+per_periode,bulanan,2019-10,2,1,Pengelolaan sampah di TPS 3R,7,10.61
+per_periode,bulanan,2019-10,3,4,Keluhan kualitas air PDAM,6,9.09
+per_periode,bulanan,2019-11,1,7,Pencemaran sungai oleh limbah,16,17.98
+per_periode,bulanan,2019-11,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,10,11.24
+per_periode,bulanan,2019-11,3,4,Keluhan kualitas air PDAM,5,5.62
+per_periode,bulanan,2019-12,1,31,Volume produksi sampah harian daerah,14,16.67
+per_periode,bulanan,2019-12,2,4,Keluhan kualitas air PDAM,5,5.95
+per_periode,bulanan,2019-12,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,5,5.95
+per_periode,bulanan,2020-01,1,5,Edukasi lingkungan dan inovasi mahasiswa,24,14.81
+per_periode,bulanan,2020-01,2,17,Dampak dan penyebab polusi udara,15,9.26
+per_periode,bulanan,2020-01,3,10,Banjir akibat hujan deras,12,7.41
+per_periode,bulanan,2020-02,1,21,Ratusan rumah terendam luapan sungai,10,10.64
+per_periode,bulanan,2020-02,2,5,Edukasi lingkungan dan inovasi mahasiswa,8,8.51
+per_periode,bulanan,2020-02,3,26,Pengelolaan bank sampah,5,5.32
+per_periode,bulanan,2020-03,1,6,Penggunaan sampah plastik sebagai bahan bakar,4,8.7
+per_periode,bulanan,2020-03,2,16,Pencemaran sampah plastik di Surabaya,3,6.52
+per_periode,bulanan,2020-03,3,7,Pencemaran sungai oleh limbah,3,6.52
+per_periode,bulanan,2020-04,1,6,Penggunaan sampah plastik sebagai bahan bakar,6,15.38
+per_periode,bulanan,2020-04,2,13,Peringatan Hari Lingkungan Hidup Sedunia,5,12.82
+per_periode,bulanan,2020-04,3,4,Keluhan kualitas air PDAM,3,7.69
+per_periode,bulanan,2020-05,1,5,Edukasi lingkungan dan inovasi mahasiswa,3,11.11
+per_periode,bulanan,2020-05,2,27,Pengelolaan sampah dan higiene dapur MBG,3,11.11
+per_periode,bulanan,2020-05,3,4,Keluhan kualitas air PDAM,2,7.41
+per_periode,bulanan,2020-06,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,13,24.07
+per_periode,bulanan,2020-06,2,4,Keluhan kualitas air PDAM,8,14.81
+per_periode,bulanan,2020-06,3,7,Pencemaran sungai oleh limbah,5,9.26
+per_periode,bulanan,2020-07,1,7,Pencemaran sungai oleh limbah,6,15.0
+per_periode,bulanan,2020-07,2,2,Pembuangan limbah medis di Sidoarjo,3,7.5
+per_periode,bulanan,2020-07,3,0,Distribusi bantuan air bersih saat kekeringan,3,7.5
+per_periode,bulanan,2020-08,1,6,Penggunaan sampah plastik sebagai bahan bakar,5,10.0
+per_periode,bulanan,2020-08,2,1,Pengelolaan sampah di TPS 3R,4,8.0
+per_periode,bulanan,2020-08,3,8,Pengelolaan limbah batu bara PLTU,4,8.0
+per_periode,bulanan,2020-09,1,1,Pengelolaan sampah di TPS 3R,9,15.79
+per_periode,bulanan,2020-09,2,0,Distribusi bantuan air bersih saat kekeringan,6,10.53
+per_periode,bulanan,2020-09,3,8,Pengelolaan limbah batu bara PLTU,4,7.02
+per_periode,bulanan,2020-10,1,0,Distribusi bantuan air bersih saat kekeringan,6,10.91
+per_periode,bulanan,2020-10,2,13,Peringatan Hari Lingkungan Hidup Sedunia,5,9.09
+per_periode,bulanan,2020-10,3,1,Pengelolaan sampah di TPS 3R,4,7.27
+per_periode,bulanan,2020-11,1,0,Distribusi bantuan air bersih saat kekeringan,6,7.79
+per_periode,bulanan,2020-11,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,6,7.79
+per_periode,bulanan,2020-11,3,13,Peringatan Hari Lingkungan Hidup Sedunia,6,7.79
+per_periode,bulanan,2020-12,1,5,Edukasi lingkungan dan inovasi mahasiswa,8,12.12
+per_periode,bulanan,2020-12,2,13,Peringatan Hari Lingkungan Hidup Sedunia,6,9.09
+per_periode,bulanan,2020-12,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,4,6.06
+per_periode,bulanan,2021-01,1,15,Banjir putus akses jalan raya,7,7.45
+per_periode,bulanan,2021-01,2,10,Banjir akibat hujan deras,6,6.38
+per_periode,bulanan,2021-01,3,39,Pejabat daerah tinjau lokasi banjir,6,6.38
+per_periode,bulanan,2021-02,1,10,Banjir akibat hujan deras,14,10.45
+per_periode,bulanan,2021-02,2,2,Pembuangan limbah medis di Sidoarjo,9,6.72
+per_periode,bulanan,2021-02,3,13,Peringatan Hari Lingkungan Hidup Sedunia,8,5.97
+per_periode,bulanan,2021-03,1,9,Pembangunan drainase jalan,37,26.62
+per_periode,bulanan,2021-03,2,31,Volume produksi sampah harian daerah,11,7.91
+per_periode,bulanan,2021-03,3,7,Pencemaran sungai oleh limbah,6,4.32
+per_periode,bulanan,2021-04,1,2,Pembuangan limbah medis di Sidoarjo,5,10.64
+per_periode,bulanan,2021-04,2,10,Banjir akibat hujan deras,3,6.38
+per_periode,bulanan,2021-04,3,73,Pembangunan sanitary landfill TPA,3,6.38
+per_periode,bulanan,2021-05,1,28,Banjir bandang Kota Batu,8,17.02
+per_periode,bulanan,2021-05,2,2,Pembuangan limbah medis di Sidoarjo,4,8.51
+per_periode,bulanan,2021-05,3,0,Distribusi bantuan air bersih saat kekeringan,3,6.38
+per_periode,bulanan,2021-06,1,2,Pembuangan limbah medis di Sidoarjo,8,12.7
+per_periode,bulanan,2021-06,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,7,11.11
+per_periode,bulanan,2021-06,3,4,Keluhan kualitas air PDAM,6,9.52
+per_periode,bulanan,2021-07,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,10,21.28
+per_periode,bulanan,2021-07,2,18,Jembatan putus diterjang banjir lahar Semeru,5,10.64
+per_periode,bulanan,2021-07,3,7,Pencemaran sungai oleh limbah,4,8.51
+per_periode,bulanan,2021-08,1,7,Pencemaran sungai oleh limbah,6,10.17
+per_periode,bulanan,2021-08,2,8,Pengelolaan limbah batu bara PLTU,6,10.17
+per_periode,bulanan,2021-08,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,5,8.47
+per_periode,bulanan,2021-09,1,7,Pencemaran sungai oleh limbah,10,10.64
+per_periode,bulanan,2021-09,2,2,Pembuangan limbah medis di Sidoarjo,8,8.51
+per_periode,bulanan,2021-09,3,19,Sekolah terdampak banjir,7,7.45
+per_periode,bulanan,2021-10,1,2,Pembuangan limbah medis di Sidoarjo,11,15.71
+per_periode,bulanan,2021-10,2,0,Distribusi bantuan air bersih saat kekeringan,7,10.0
+per_periode,bulanan,2021-10,3,7,Pencemaran sungai oleh limbah,6,8.57
+per_periode,bulanan,2021-11,1,32,Seleksi dan rotasi direktur PDAM,46,24.08
+per_periode,bulanan,2021-11,2,44,Kabar banjir di luar Jawa Timur,8,4.19
+per_periode,bulanan,2021-11,3,5,Edukasi lingkungan dan inovasi mahasiswa,8,4.19
+per_periode,bulanan,2021-12,1,5,Edukasi lingkungan dan inovasi mahasiswa,6,6.82
+per_periode,bulanan,2021-12,2,20,Sampah menumpuk di pantai,6,6.82
+per_periode,bulanan,2021-12,3,8,Pengelolaan limbah batu bara PLTU,5,5.68
+per_periode,bulanan,2022-01,1,5,Edukasi lingkungan dan inovasi mahasiswa,9,8.82
+per_periode,bulanan,2022-01,2,4,Keluhan kualitas air PDAM,6,5.88
+per_periode,bulanan,2022-01,3,2,Pembuangan limbah medis di Sidoarjo,5,4.9
+per_periode,bulanan,2022-02,1,5,Edukasi lingkungan dan inovasi mahasiswa,8,8.16
+per_periode,bulanan,2022-02,2,7,Pencemaran sungai oleh limbah,8,8.16
+per_periode,bulanan,2022-02,3,17,Dampak dan penyebab polusi udara,7,7.14
+per_periode,bulanan,2022-03,1,9,Pembangunan drainase jalan,19,11.52
+per_periode,bulanan,2022-03,2,7,Pencemaran sungai oleh limbah,11,6.67
+per_periode,bulanan,2022-03,3,2,Pembuangan limbah medis di Sidoarjo,7,4.24
+per_periode,bulanan,2022-04,1,9,Pembangunan drainase jalan,9,10.84
+per_periode,bulanan,2022-04,2,0,Distribusi bantuan air bersih saat kekeringan,6,7.23
+per_periode,bulanan,2022-04,3,5,Edukasi lingkungan dan inovasi mahasiswa,5,6.02
+per_periode,bulanan,2022-05,1,28,Banjir bandang Kota Batu,14,16.67
+per_periode,bulanan,2022-05,2,2,Pembuangan limbah medis di Sidoarjo,9,10.71
+per_periode,bulanan,2022-05,3,22,Banjir luapan Bengawan Solo,5,5.95
+per_periode,bulanan,2022-06,1,28,Banjir bandang Kota Batu,15,12.0
+per_periode,bulanan,2022-06,2,5,Edukasi lingkungan dan inovasi mahasiswa,10,8.0
+per_periode,bulanan,2022-06,3,2,Pembuangan limbah medis di Sidoarjo,7,5.6
+per_periode,bulanan,2022-07,1,7,Pencemaran sungai oleh limbah,8,9.09
+per_periode,bulanan,2022-07,2,5,Edukasi lingkungan dan inovasi mahasiswa,5,5.68
+per_periode,bulanan,2022-07,3,6,Penggunaan sampah plastik sebagai bahan bakar,5,5.68
+per_periode,bulanan,2022-08,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,19,16.1
+per_periode,bulanan,2022-08,2,0,Distribusi bantuan air bersih saat kekeringan,9,7.63
+per_periode,bulanan,2022-08,3,9,Pembangunan drainase jalan,8,6.78
+per_periode,bulanan,2022-09,1,0,Distribusi bantuan air bersih saat kekeringan,11,11.22
+per_periode,bulanan,2022-09,2,8,Pengelolaan limbah batu bara PLTU,8,8.16
+per_periode,bulanan,2022-09,3,4,Keluhan kualitas air PDAM,7,7.14
+per_periode,bulanan,2022-10,1,10,Banjir akibat hujan deras,17,8.5
+per_periode,bulanan,2022-10,2,26,Pengelolaan bank sampah,15,7.5
+per_periode,bulanan,2022-10,3,5,Edukasi lingkungan dan inovasi mahasiswa,8,4.0
+per_periode,bulanan,2022-11,1,26,Pengelolaan bank sampah,12,6.74
+per_periode,bulanan,2022-11,2,20,Sampah menumpuk di pantai,11,6.18
+per_periode,bulanan,2022-11,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,9,5.06
+per_periode,bulanan,2022-12,1,10,Banjir akibat hujan deras,8,6.96
+per_periode,bulanan,2022-12,2,9,Pembangunan drainase jalan,6,5.22
+per_periode,bulanan,2022-12,3,6,Penggunaan sampah plastik sebagai bahan bakar,6,5.22
+per_periode,bulanan,2023-01,1,6,Penggunaan sampah plastik sebagai bahan bakar,10,6.71
+per_periode,bulanan,2023-01,2,2,Pembuangan limbah medis di Sidoarjo,8,5.37
+per_periode,bulanan,2023-01,3,8,Pengelolaan limbah batu bara PLTU,7,4.7
+per_periode,bulanan,2023-02,1,21,Ratusan rumah terendam luapan sungai,13,7.51
+per_periode,bulanan,2023-02,2,2,Pembuangan limbah medis di Sidoarjo,11,6.36
+per_periode,bulanan,2023-02,3,24,Tarif dan pelanggan PDAM Surabaya,11,6.36
+per_periode,bulanan,2023-03,1,2,Pembuangan limbah medis di Sidoarjo,10,7.63
+per_periode,bulanan,2023-03,2,4,Keluhan kualitas air PDAM,7,5.34
+per_periode,bulanan,2023-03,3,7,Pencemaran sungai oleh limbah,6,4.58
+per_periode,bulanan,2023-04,1,5,Edukasi lingkungan dan inovasi mahasiswa,13,18.57
+per_periode,bulanan,2023-04,2,17,Dampak dan penyebab polusi udara,5,7.14
+per_periode,bulanan,2023-04,3,4,Keluhan kualitas air PDAM,4,5.71
+per_periode,bulanan,2023-05,1,2,Pembuangan limbah medis di Sidoarjo,9,9.09
+per_periode,bulanan,2023-05,2,0,Distribusi bantuan air bersih saat kekeringan,7,7.07
+per_periode,bulanan,2023-05,3,22,Banjir luapan Bengawan Solo,5,5.05
+per_periode,bulanan,2023-06,1,1,Pengelolaan sampah di TPS 3R,10,10.1
+per_periode,bulanan,2023-06,2,7,Pencemaran sungai oleh limbah,10,10.1
+per_periode,bulanan,2023-06,3,8,Pengelolaan limbah batu bara PLTU,8,8.08
+per_periode,bulanan,2023-07,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,18,11.84
+per_periode,bulanan,2023-07,2,0,Distribusi bantuan air bersih saat kekeringan,17,11.18
+per_periode,bulanan,2023-07,3,20,Sampah menumpuk di pantai,16,10.53
+per_periode,bulanan,2023-08,1,2,Pembuangan limbah medis di Sidoarjo,29,11.98
+per_periode,bulanan,2023-08,2,0,Distribusi bantuan air bersih saat kekeringan,26,10.74
+per_periode,bulanan,2023-08,3,42,Rumah rusak diterjang banjir bandang,23,9.5
+per_periode,bulanan,2023-09,1,0,Distribusi bantuan air bersih saat kekeringan,23,12.5
+per_periode,bulanan,2023-09,2,1,Pengelolaan sampah di TPS 3R,19,10.33
+per_periode,bulanan,2023-09,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,14,7.61
+per_periode,bulanan,2023-10,1,1,Pengelolaan sampah di TPS 3R,33,16.58
+per_periode,bulanan,2023-10,2,0,Distribusi bantuan air bersih saat kekeringan,24,12.06
+per_periode,bulanan,2023-10,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,19,9.55
+per_periode,bulanan,2023-11,1,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,13,9.56
+per_periode,bulanan,2023-11,2,2,Pembuangan limbah medis di Sidoarjo,9,6.62
+per_periode,bulanan,2023-11,3,0,Distribusi bantuan air bersih saat kekeringan,9,6.62
+per_periode,bulanan,2023-12,1,2,Pembuangan limbah medis di Sidoarjo,13,9.77
+per_periode,bulanan,2023-12,2,6,Penggunaan sampah plastik sebagai bahan bakar,8,6.02
+per_periode,bulanan,2023-12,3,5,Edukasi lingkungan dan inovasi mahasiswa,7,5.26
+per_periode,bulanan,2024-01,1,2,Pembuangan limbah medis di Sidoarjo,14,12.07
+per_periode,bulanan,2024-01,2,9,Pembangunan drainase jalan,9,7.76
+per_periode,bulanan,2024-01,3,8,Pengelolaan limbah batu bara PLTU,6,5.17
+per_periode,bulanan,2024-02,1,10,Banjir akibat hujan deras,11,7.91
+per_periode,bulanan,2024-02,2,13,Peringatan Hari Lingkungan Hidup Sedunia,10,7.19
+per_periode,bulanan,2024-02,3,2,Pembuangan limbah medis di Sidoarjo,10,7.19
+per_periode,bulanan,2024-03,1,24,Tarif dan pelanggan PDAM Surabaya,26,13.83
+per_periode,bulanan,2024-03,2,10,Banjir akibat hujan deras,14,7.45
+per_periode,bulanan,2024-03,3,13,Peringatan Hari Lingkungan Hidup Sedunia,12,6.38
+per_periode,bulanan,2024-04,1,20,Sampah menumpuk di pantai,15,11.36
+per_periode,bulanan,2024-04,2,2,Pembuangan limbah medis di Sidoarjo,13,9.85
+per_periode,bulanan,2024-04,3,5,Edukasi lingkungan dan inovasi mahasiswa,9,6.82
+per_periode,bulanan,2024-05,1,0,Distribusi bantuan air bersih saat kekeringan,11,12.64
+per_periode,bulanan,2024-05,2,2,Pembuangan limbah medis di Sidoarjo,4,4.6
+per_periode,bulanan,2024-05,3,6,Penggunaan sampah plastik sebagai bahan bakar,4,4.6
+per_periode,bulanan,2024-06,1,2,Pembuangan limbah medis di Sidoarjo,10,8.77
+per_periode,bulanan,2024-06,2,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,10,8.77
+per_periode,bulanan,2024-06,3,0,Distribusi bantuan air bersih saat kekeringan,9,7.89
+per_periode,bulanan,2024-07,1,8,Pengelolaan limbah batu bara PLTU,16,11.43
+per_periode,bulanan,2024-07,2,1,Pengelolaan sampah di TPS 3R,11,7.86
+per_periode,bulanan,2024-07,3,2,Pembuangan limbah medis di Sidoarjo,10,7.14
+per_periode,bulanan,2024-08,1,1,Pengelolaan sampah di TPS 3R,28,19.18
+per_periode,bulanan,2024-08,2,0,Distribusi bantuan air bersih saat kekeringan,16,10.96
+per_periode,bulanan,2024-08,3,3,Pembangunan rumah pompa untuk atasi banjir Surabaya,10,6.85
+per_periode,bulanan,2024-09,1,1,Pengelolaan sampah di TPS 3R,40,25.32
+per_periode,bulanan,2024-09,2,0,Distribusi bantuan air bersih saat kekeringan,19,12.03
+per_periode,bulanan,2024-09,3,2,Pembuangan limbah medis di Sidoarjo,10,6.33
+per_periode,bulanan,2024-10,1,1,Pengelolaan sampah di TPS 3R,25,20.83
+per_periode,bulanan,2024-10,2,0,Distribusi bantuan air bersih saat kekeringan,13,10.83
+per_periode,bulanan,2024-10,3,2,Pembuangan limbah medis di Sidoarjo,8,6.67
+per_periode,bulanan,2024-11,1,0,Distribusi bantuan air bersih saat kekeringan,11,7.43
+per_periode,bulanan,2024-11,2,2,Pembuangan limbah medis di Sidoarjo,10,6.76
+per_periode,bulanan,2024-11,3,4,Keluhan kualitas air PDAM,9,6.08
+per_periode,bulanan,2024-12,1,5,Edukasi lingkungan dan inovasi mahasiswa,35,10.84
+per_periode,bulanan,2024-12,2,70,Kasus viral pencemaran limbah medis,24,7.43
+per_periode,bulanan,2024-12,3,13,Peringatan Hari Lingkungan Hidup Sedunia,21,6.5
+per_periode,bulanan,2025-01,1,2,Pembuangan limbah medis di Sidoarjo,22,10.84
+per_periode,bulanan,2025-01,2,24,Tarif dan pelanggan PDAM Surabaya,13,6.4
+per_periode,bulanan,2025-01,3,13,Peringatan Hari Lingkungan Hidup Sedunia,12,5.91
+per_periode,bulanan,2025-02,1,24,Tarif dan pelanggan PDAM Surabaya,14,8.09
+per_periode,bulanan,2025-02,2,2,Pembuangan limbah medis di Sidoarjo,10,5.78
+per_periode,bulanan,2025-02,3,20,Sampah menumpuk di pantai,7,4.05
+per_periode,bulanan,2025-03,1,2,Pembuangan limbah medis di Sidoarjo,9,7.09
+per_periode,bulanan,2025-03,2,13,Peringatan Hari Lingkungan Hidup Sedunia,9,7.09
+per_periode,bulanan,2025-03,3,0,Distribusi bantuan air bersih saat kekeringan,7,5.51
+per_periode,bulanan,2025-04,1,2,Pembuangan limbah medis di Sidoarjo,17,17.89
+per_periode,bulanan,2025-04,2,0,Distribusi bantuan air bersih saat kekeringan,6,6.32
+per_periode,bulanan,2025-04,3,4,Keluhan kualitas air PDAM,6,6.32
+per_periode,bulanan,2025-05,1,7,Pencemaran sungai oleh limbah,19,9.0
+per_periode,bulanan,2025-05,2,2,Pembuangan limbah medis di Sidoarjo,16,7.58
+per_periode,bulanan,2025-05,3,28,Banjir bandang Kota Batu,10,4.74
+per_periode,bulanan,2025-06,1,7,Pencemaran sungai oleh limbah,13,9.85
+per_periode,bulanan,2025-06,2,2,Pembuangan limbah medis di Sidoarjo,9,6.82
+per_periode,bulanan,2025-06,3,13,Peringatan Hari Lingkungan Hidup Sedunia,7,5.3
+per_periode,bulanan,2025-07,1,2,Pembuangan limbah medis di Sidoarjo,14,9.93
+per_periode,bulanan,2025-07,2,11,Kebakaran gudang akibat bakar sampah,11,7.8
+per_periode,bulanan,2025-07,3,8,Pengelolaan limbah batu bara PLTU,11,7.8
+per_periode,bulanan,2025-08,1,2,Pembuangan limbah medis di Sidoarjo,16,9.3
+per_periode,bulanan,2025-08,2,1,Pengelolaan sampah di TPS 3R,13,7.56
+per_periode,bulanan,2025-08,3,8,Pengelolaan limbah batu bara PLTU,13,7.56
+per_periode,bulanan,2025-09,1,1,Pengelolaan sampah di TPS 3R,19,10.61
+per_periode,bulanan,2025-09,2,2,Pembuangan limbah medis di Sidoarjo,14,7.82
+per_periode,bulanan,2025-09,3,0,Distribusi bantuan air bersih saat kekeringan,8,4.47
+per_periode,bulanan,2025-10,1,2,Pembuangan limbah medis di Sidoarjo,25,10.96
+per_periode,bulanan,2025-10,2,11,Kebakaran gudang akibat bakar sampah,19,8.33
+per_periode,bulanan,2025-10,3,0,Distribusi bantuan air bersih saat kekeringan,17,7.46
+per_periode,bulanan,2025-11,1,5,Edukasi lingkungan dan inovasi mahasiswa,28,9.18
+per_periode,bulanan,2025-11,2,2,Pembuangan limbah medis di Sidoarjo,23,7.54
+per_periode,bulanan,2025-11,3,4,Keluhan kualitas air PDAM,12,3.93
+per_periode,bulanan,2025-12,1,47,Penertiban sampah ilegal oleh Pemkot Surabaya,23,9.06
+per_periode,bulanan,2025-12,2,10,Banjir akibat hujan deras,12,4.72
+per_periode,bulanan,2025-12,3,17,Dampak dan penyebab polusi udara,11,4.33
+per_periode,bulanan,2026-01,1,24,Tarif dan pelanggan PDAM Surabaya,22,7.17
+per_periode,bulanan,2026-01,2,21,Ratusan rumah terendam luapan sungai,15,4.89
+per_periode,bulanan,2026-01,3,2,Pembuangan limbah medis di Sidoarjo,15,4.89
+per_periode,bulanan,2026-02,1,2,Pembuangan limbah medis di Sidoarjo,23,10.27
+per_periode,bulanan,2026-02,2,20,Sampah menumpuk di pantai,15,6.7
+per_periode,bulanan,2026-02,3,15,Banjir putus akses jalan raya,13,5.8
+per_periode,bulanan,2026-03,1,15,Banjir putus akses jalan raya,20,9.35
+per_periode,bulanan,2026-03,2,2,Pembuangan limbah medis di Sidoarjo,19,8.88
+per_periode,bulanan,2026-03,3,10,Banjir akibat hujan deras,16,7.48
+per_periode,bulanan,2026-04,1,2,Pembuangan limbah medis di Sidoarjo,35,15.7
+per_periode,bulanan,2026-04,2,1,Pengelolaan sampah di TPS 3R,13,5.83
+per_periode,bulanan,2026-04,3,30,Kebakaran lahan TPA,13,5.83
+per_periode,bulanan,2026-05,1,2,Pembuangan limbah medis di Sidoarjo,32,13.45
+per_periode,bulanan,2026-05,2,0,Distribusi bantuan air bersih saat kekeringan,16,6.72
+per_periode,bulanan,2026-05,3,30,Kebakaran lahan TPA,14,5.88
+per_periode,bulanan,2026-06,1,5,Edukasi lingkungan dan inovasi mahasiswa,67,21.41
+per_periode,bulanan,2026-06,2,2,Pembuangan limbah medis di Sidoarjo,28,8.95
+per_periode,bulanan,2026-06,3,30,Kebakaran lahan TPA,27,8.63
+per_periode,bulanan,2026-07,1,1,Pengelolaan sampah di TPS 3R,70,15.52
+per_periode,bulanan,2026-07,2,0,Distribusi bantuan air bersih saat kekeringan,48,10.64
+per_periode,bulanan,2026-07,3,2,Pembuangan limbah medis di Sidoarjo,35,7.76
+per_periode,bulanan,2026-08,1,1,Pengelolaan sampah di TPS 3R,134,19.65
+per_periode,bulanan,2026-08,2,0,Distribusi bantuan air bersih saat kekeringan,81,11.88
+per_periode,bulanan,2026-08,3,2,Pembuangan limbah medis di Sidoarjo,59,8.65
+per_periode,bulanan,2026-09,1,1,Pengelolaan sampah di TPS 3R,229,21.79
+per_periode,bulanan,2026-09,2,0,Distribusi bantuan air bersih saat kekeringan,184,17.51
+per_periode,bulanan,2026-09,3,25,Banjir rob pesisir Surabaya,59,5.61
+per_periode,bulanan,2026-10,1,1,Pengelolaan sampah di TPS 3R,161,18.53
+per_periode,bulanan,2026-10,2,0,Distribusi bantuan air bersih saat kekeringan,152,17.49
+per_periode,bulanan,2026-10,3,25,Banjir rob pesisir Surabaya,49,5.64
