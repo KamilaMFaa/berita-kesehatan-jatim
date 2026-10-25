@@ -16,6 +16,25 @@ export function classifyDbError(err: unknown): DbErrorInfo {
   const raw = err instanceof Error ? err.message : String(err);
   const m = raw.toLowerCase();
 
+  // P2010 "invalid type: unit value, expected i32" = protokol serialisasi
+  // parameter antara mesin query Prisma (mengikuti versi @prisma/client) dan
+  // @prisma/adapter-libsql tidak cocok — biasanya karena versi kedua paket
+  // berbeda (mis. client 6.19.2 vs adapter 6.11.1). Hanya muncul di jalur
+  // remote (Turso), tidak di SQLite lokal.
+  if (
+    m.includes("invalid type: unit value") ||
+    (m.includes("p2010") && m.includes("invalidarg"))
+  ) {
+    return {
+      code: "DB_VERSION_MISMATCH",
+      pesan:
+        "Versi paket Prisma tidak konsisten pada deployment ini. " +
+        "Pemilik situs perlu menyamakan versi @prisma/client, prisma, dan " +
+        "@prisma/adapter-libsql (semua 6.19.2), memastikan bun.lock ikut " +
+        "ter-commit, lalu deploy ulang.",
+    };
+  }
+
   // Env var tidak terpasang (mis. "Environment variable not found: DATABASE_URL")
   if (
     m.includes("environment variable not found") ||
@@ -49,13 +68,18 @@ export function classifyDbError(err: unknown): DbErrorInfo {
     };
   }
 
-  // Tabel/kolom tidak ada — database belum diimpor
+  // Tabel/kolom tidak ada — umumnya fallback SQLite lokal kosong di serverless
+  // (env Turso tidak terpasang), bukan database Turso yang memang kosong.
   if (m.includes("no such table") || m.includes("no such column")) {
     return {
       code: "DB_EMPTY",
       pesan:
-        "Tabel database belum tersedia di Turso. " +
-        "Pemilik situs perlu mengimpor data: `turso db shell <nama-db> < db/turso_dump.sql`.",
+        "Tabel database tidak ditemukan pada deployment ini. Penyebab paling " +
+        "umum: TURSO_DATABASE_URL / TURSO_AUTH_TOKEN belum terpasang pada " +
+        "Environment Variables (Production) di Vercel sehingga aplikasi memakai " +
+        "berkas SQLite lokal yang kosong — set keduanya lalu deploy ulang. " +
+        "Bila env sudah benar, database memang belum diimpor: " +
+        "`turso db shell <nama-db> < db/turso_dump.sql`.",
     };
   }
 

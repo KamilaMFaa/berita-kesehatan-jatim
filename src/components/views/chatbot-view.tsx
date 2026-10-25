@@ -105,7 +105,7 @@ export function ChatbotView() {
         {
           role: "assistant",
           content:
-            "Tidak dapat terhubung ke layanan chatbot. Periksa koneksi internet Anda lalu coba lagi.",
+            "Tidak dapat terhubung ke server chatbot. Periksa koneksi internet Anda, lalu coba lagi. Bila koneksi normal, layanan chatbot kemungkinan sedang mengalami gangguan — coba beberapa saat lagi.",
           isError: true,
         },
       ]);

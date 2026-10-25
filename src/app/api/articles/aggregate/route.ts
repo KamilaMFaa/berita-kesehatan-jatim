@@ -98,7 +98,7 @@ export async function GET(request: NextRequest) {
     const info = classifyDbError(err);
     return NextResponse.json(
       { error: info.pesan, code: info.code },
-      { status: info.code === "DB_NOT_CONFIGURED" || info.code === "DB_AUTH" || info.code === "DB_EMPTY" ? 503 : 500 },
+      { status: info.code === "DB_NOT_CONFIGURED" || info.code === "DB_AUTH" || info.code === "DB_EMPTY" || info.code === "DB_VERSION_MISMATCH" ? 503 : 500 },
     );
   }
 }

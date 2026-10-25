@@ -163,6 +163,8 @@ memakai SQLite lokal seperti biasa — tidak ada perubahan perilaku.
   - `GEMINI_MODEL` → nama model tidak tersedia: Google memensiunkan model lama
     (`gemini-2.0-flash` mati 1 Juni 2026; `gemini-2.5-flash` dibatasi akses). Set
     `GEMINI_MODEL` ke model aktif atau hapus env agar memakai bawaan.
+  - Jawaban berita gagal dengan kode `DB_*` → query dataset gagal sebelum LLM; ikuti
+    tabel 4.4 (paling sering: env Turso belum terpasang pada deployment tersebut).
 - **Beranda pertama kali** dapat terasa lambat beberapa detik (cold start serverless);
   akses berikutnya cepat.
 - Paket gratis Turso (5 GB, 1 miliar row-read/bulan) dan Vercel (Hobby) lebih dari cukup
@@ -179,9 +181,22 @@ penyebab yang tampil langsung di UI — petakan tindakannya:
 |------|----------|------------------------|
 | `DB_NOT_CONFIGURED` | `TURSO_DATABASE_URL`/`TURSO_AUTH_TOKEN` tidak terpasang (atau hanya di Preview) | Set keduanya pada environment **Production** di Vercel → **deploy ulang** |
 | `DB_AUTH` | Token/URL tidak cocok atau token salah | Buat ulang token (`turso db tokens create`) dan cocokkan URL database |
-| `DB_EMPTY` | Database Turso belum berisi tabel | Impor: `turso db shell <nama-db> < db/turso_dump.sql`, cek `SELECT COUNT(*) FROM Article` = 25022 |
+| `DB_EMPTY` | Tabel tidak ditemukan — hampir selalu karena `TURSO_DATABASE_URL`/`TURSO_AUTH_TOKEN` tidak terpasang sehingga aplikasi jatuh ke berkas SQLite lokal kosong (bukan data yang hilang) | Set keduanya pada Environment Variables **Production** → deploy ulang; bila env sudah benar baru impor: `turso db shell <nama-db> < db/turso_dump.sql`, cek `SELECT COUNT(*) FROM Article` = 25022 |
+| `DB_VERSION_MISMATCH` | Versi `@prisma/client`, `prisma`, dan `@prisma/adapter-libsql` tidak sama (protokol serialisasi query tidak cocok; muncul sebagai P2010 "invalid type: unit value, expected i32" di log) | Samakan ketiganya (saat ini **6.19.2**), pastikan `bun.lock` ikut ter-commit di repo, lalu **deploy ulang** |
 | `DB_FILE` | Aplikasi jatuh ke SQLite lokal di serverless | Pastikan `TURSO_DATABASE_URL` terpasang (env var, bukan hanya file `.env`) |
 | `DB_NETWORK` | Gangguan jaringan ke Turso | Coba lagi; cek status Turso |
+
+> **Catatan env var:** menambah/mengubah Environment Variables di Vercel TIDAK berlaku
+> pada deployment yang sudah berjalan — selalu **deploy ulang** setelahnya, dan pastikan
+> variabel dipasang untuk environment **Production** (centang kotak Production saat
+> menyimpan; Deployment Preview memakai env tersendiri).
+
+> **PENTING — versi Prisma:** tiga paket ini WAJIB selalu versi sama dan ter-pin exact
+> (tanpa `^`): `prisma`, `@prisma/client`, `@prisma/adapter-libsql` — saat ini **6.19.2**.
+> Range `^` membuat Vercel memasang versi terbaru untuk salah satu paket saja dan
+> protokol adapter tidak cocok → semua query gagal di Turso (tidak terlihat di SQLite
+> lokal). Jangan menaikkan salah satunya secara terpisah; jika perlu upgrade, naikkan
+> ketiganya bersamaan lalu uji dengan `bun scripts/repro_adapter.ts`.
 
 Detail error lengkap selalu tercatat di **Vercel Dashboard → Logs** per fungsi
 (`/api/articles`, `/api/articles/aggregate`) — tanpa kredensial.

@@ -3,6 +3,7 @@ import { db } from "@/lib/db";
 import { getAggregates } from "@/lib/app-data";
 import { detectRegion, regionDisplayList } from "@/lib/region-match";
 import { chatComplete } from "@/lib/llm";
+import { classifyDbError } from "@/lib/db-errors";
 
 export const dynamic = "force-dynamic";
 export const maxDuration = 60;
@@ -393,7 +394,29 @@ export async function POST(request: NextRequest) {
       containsWord(questionLower, "berita") || containsWord(questionLower, "kabar");
 
     if (regionHit || issueKeyword || explicitNewsWord) {
-      const rows = await queryLatestNews(regionHit?.regions ?? null, issueKeyword);
+      // Kegagalan database pada jalur berita TIDAK boleh menjatuhkan route:
+      // sebelumnya error DB (mis. P2010 / tabel kosong) terlempar tak tertangani
+      // → respons 500 bukan-JSON → UI menampilkan pesan "periksa koneksi
+      // internet" yang menyesatkan. Kini diklasifikasi seperti route articles.
+      let rows: NewsRow[];
+      try {
+        rows = await queryLatestNews(regionHit?.regions ?? null, issueKeyword);
+      } catch (err) {
+        console.error("[api/chat] error (query berita dataset):", err);
+        const info = classifyDbError(err);
+        return NextResponse.json(
+          { error: info.pesan, code: info.code },
+          {
+            status:
+              info.code === "DB_NOT_CONFIGURED" ||
+              info.code === "DB_AUTH" ||
+              info.code === "DB_EMPTY" ||
+              info.code === "DB_VERSION_MISMATCH"
+                ? 503
+                : 500,
+          },
+        );
+      }
       const dateMax = getAggregates().dateMax ?? "";
 
       if (rows.length === 0) {

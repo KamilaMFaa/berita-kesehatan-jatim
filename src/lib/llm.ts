@@ -94,6 +94,15 @@ async function geminiComplete(
       );
 
       // Klasifikasi untuk log pemilik situs (pesan ke pengguna tetap generik).
+      // Wilayah server tidak didukung Google (FAILED_PRECONDITION) — bukan
+      // masalah key; jangan diklasifikasi GEMINI_AUTH agar pemilik tidak salah.
+      if (/location is not supported/i.test(apiMsg)) {
+        throw new Error(
+          `Gemini API error: ${apiMsg} (wilayah server tidak didukung Google; ` +
+            "pindahkan region fungsi Vercel ke wilayah yang didukung)",
+        );
+      }
+
       if (
         res.status === 400 ||
         res.status === 401 ||
