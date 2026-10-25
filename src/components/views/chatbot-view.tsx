@@ -21,7 +21,7 @@ interface Msg {
 const WELCOME: Msg = {
   role: "assistant",
   content:
-    "Selamat datang! Saya asisten eksplorasi website penelitian ini dengan cakupan TERBATAS:\n\n• Menjelaskan istilah & konsep kesehatan masyarakat dan lingkungan — mis. sanitasi, stunting, imunisasi, gizi, sampah, banjir, pencemaran air.\n• Menjawab pertanyaan berita dari dataset proyek — mis. \"Apa berita kesehatan terkini di Bangkalan?\" (dijawab dari berita terbaru yang tersedia di dataset, dengan tanggal publikasinya).\n\nCatatan: saya TIDAK terhubung ke internet dan TIDAK menggunakan RAG/pencarian — jawaban berita murni dari dataset proyek (25.022 berita, s.d. 18 Okt 2026), dan pertanyaan di luar cakupan kesehatan/lingkungan akan saya tolak dengan sopan.",
+    "Halo! Selamat datang di Chatbot Berita Kesehatan Jawa Timur. Ada yang ingin kamu ketahui tentang kesehatan masyarakat, kesehatan lingkungan, atau berita kesehatan di Jawa Timur? Silakan tanyakan di sini!",
 };
 
 const CONTOH_PERTANYAAN = [
@@ -137,32 +137,23 @@ export function ChatbotView() {
           Chatbot
         </h1>
         <p className="mt-2 text-sm text-muted-foreground leading-relaxed">
-          Asisten berbasis Large Language Model (LLM) dengan cakupan kesehatan masyarakat,
-          kesehatan lingkungan, dan berita dalam dataset proyek. Pertanyaan di luar cakupan
-          ditolak otomatis sebelum mencapai model.
+          Tanyakan apa saja seputar kesehatan masyarakat, kesehatan lingkungan,
+          atau berita kesehatan di Jawa Timur.
         </p>
       </header>
 
-      {/* Disclaimer batasan */}
-      <Card className="border-amber-200 bg-accent/40">
+      {/* Pemberitahuan penting */}
+      <Card className="border-amber-300 bg-amber-50">
         <CardContent className="p-4 flex items-start gap-3">
           <Info className="h-4 w-4 text-amber-700 shrink-0 mt-0.5" aria-hidden="true" />
-          <div className="text-xs text-muted-foreground leading-relaxed space-y-1">
-            <p>
-              <b className="text-foreground">Batasan penting:</b> Chatbot ini <b>tidak</b>{" "}
-              menggunakan RAG/vector database maupun pencarian internet. Penjelasan kesehatan
-              bersifat pengetahuan umum; pertanyaan di luar cakupan kesehatan &amp; lingkungan
-              ditolak otomatis (divalidasi sebelum diproses model).
-            </p>
-            <p>
-              <b className="text-foreground">Pertanyaan berita terkini</b> dijawab dari dataset
-              proyek melalui filter terstruktur (wilayah/kata kunci/tanggal publikasi — bukan
-              retrieval semantik): jawaban mencantumkan tanggal berita dan berlaku sampai
-              tanggal terbaru yang tersedia di dataset (18 Okt 2026), bukan berita real-time.
-            </p>
-            <p>
-              Penjelasan kesehatan <b>bukan</b> diagnosis atau pengganti tenaga kesehatan. Untuk
-              kondisi kesehatan pribadi, silakan konsultasi ke puskesmas atau dokter.
+          <div className="text-xs text-amber-950 leading-relaxed">
+            <p className="font-semibold text-amber-900">Informasi Penting</p>
+            <p className="mt-1">
+              Chatbot ini menggunakan Large Language Model (LLM) untuk menghasilkan
+              jawaban. Jawaban yang diberikan dapat mengandung kekeliruan dan tidak
+              dimaksudkan sebagai diagnosis, pengganti konsultasi tenaga kesehatan,
+              atau pengganti layanan fasilitas kesehatan. Untuk masalah kesehatan
+              pribadi, silakan berkonsultasi dengan tenaga kesehatan.
             </p>
           </div>
         </CardContent>

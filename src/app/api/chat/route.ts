@@ -451,6 +451,38 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    // Klasifikasi untuk PEMILIK SITUS via log server (pesan pengguna tetap
+    // generik — tidak membocorkan detail konfigurasi).
+    if (msg.startsWith("GEMINI_AUTH") || msg.startsWith("GEMINI_MODEL")) {
+      console.error(
+        "[api/chat] PETUNJUK PEMILIK SITUS: " +
+          msg +
+          " | Cek juga Vercel Dashboard → Project → Settings → Environment " +
+          "Variables (environment Production) lalu deploy ulang.",
+      );
+      return NextResponse.json(
+        {
+          error:
+            "Layanan chatbot sedang tidak dapat dihubungi. Silakan coba lagi nanti.",
+        },
+        { status: 502 },
+      );
+    }
+    if (msg === "CHAT_PROVIDER_UNAVAILABLE") {
+      console.error(
+        "[api/chat] PETUNJUK PEMILIK SITUS: tidak ada penyedia LLM aktif. " +
+          "Set GEMINI_API_KEY (gratis: aistudio.google.com/apikey) pada " +
+          "Environment Variables Production di Vercel, lalu deploy ulang.",
+      );
+      return NextResponse.json(
+        {
+          error:
+            "Layanan chatbot sedang tidak dapat dihubungi. Silakan coba lagi nanti.",
+        },
+        { status: 503 },
+      );
+    }
+
     const lower = msg.toLowerCase();
     if (lower.includes("rate") || lower.includes("limit") || lower.includes("quota")) {
       return NextResponse.json(

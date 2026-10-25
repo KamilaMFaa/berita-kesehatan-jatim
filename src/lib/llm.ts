@@ -8,6 +8,12 @@
  * 2. Tanpa GEMINI_API_KEY      -> z-ai-web-dev-sdk (dipakai di lingkungan
  *    Z.ai yang menyediakan kredensial otomatis).
  *
+ * MODEL BAWAAN: gemini-3.5-flash-lite (stabil, direkomendasikan Google untuk
+ * proyek baru per docs.ai.google.dev Oktober 2026). HINDARI memakai
+ * gemini-2.0-flash / gemini-2.5-flash — keduanya sudah dipensiunkan/dibatasi
+ * Google (2.0-flash mati 1 Juni 2026; 2.5 dibatasi & terjadwal mati Okt 2026).
+ * Ganti model lewat env GEMINI_MODEL tanpa mengubah kode.
+ *
  * Kedua jalur menghasilkan teks jawaban dengan perilaku identik; pembatasan
  * topik, konteks dataset, dan system prompt ditangani di route — modul ini
  * HANYA meneruskan percakapan ke model. Tetap TANPA RAG / tanpa web search.
@@ -20,6 +26,8 @@ export interface ChatTurn {
 
 const GEMINI_ENDPOINT =
   "https://generativelanguage.googleapis.com/v1beta/models";
+
+const DEFAULT_MODEL = "gemini-3.5-flash-lite";
 
 interface GeminiCandidate {
   content?: { parts?: Array<{ text?: string }> };
@@ -55,7 +63,8 @@ async function geminiComplete(
   history: ChatTurn[],
   timeoutMs: number,
 ): Promise<string> {
-  const model = process.env.GEMINI_MODEL?.trim() || "gemini-2.0-flash";
+  const model = process.env.GEMINI_MODEL?.trim() || DEFAULT_MODEL;
+  // PENTING: jangan pernah mencatat URL (memuat ?key=...) atau apiKey ke log.
   const url = `${GEMINI_ENDPOINT}/${model}:generateContent?key=${encodeURIComponent(apiKey)}`;
 
   const controller = new AbortController();
@@ -80,7 +89,28 @@ async function geminiComplete(
 
     if (!res.ok) {
       const apiMsg = data.error?.message ?? `HTTP ${res.status}`;
-      // Petakan ke pola pesan yang dikenali route.ts (429 dsb.)
+      console.error(
+        `[llm/gemini] gagal — status: ${res.status}, model: ${model}, pesan: ${apiMsg}`,
+      );
+
+      // Klasifikasi untuk log pemilik situs (pesan ke pengguna tetap generik).
+      if (
+        res.status === 400 ||
+        res.status === 401 ||
+        res.status === 403 ||
+        /api key not valid|api_key_invalid/i.test(apiMsg)
+      ) {
+        throw new Error(
+          "GEMINI_AUTH: API key ditolak Google. Periksa GEMINI_API_KEY pada " +
+            "Environment Variables (Production) di Vercel, lalu deploy ulang.",
+        );
+      }
+      if (res.status === 404 || /not found|not supported/i.test(apiMsg)) {
+        throw new Error(
+          `GEMINI_MODEL: model "${model}" tidak tersedia untuk API key ini. ` +
+            "Set GEMINI_MODEL ke model aktif (mis. gemini-3.5-flash-lite atau gemini-3.8-flash).",
+        );
+      }
       const throttled =
         res.status === 429 ||
         /rate|quota|resource_exhausted/i.test(apiMsg);
@@ -112,8 +142,18 @@ async function zaiComplete(
   history: ChatTurn[],
   timeoutMs: number,
 ): Promise<string> {
-  const ZAI = (await import("z-ai-web-dev-sdk")).default;
-  const zai = await ZAI.create();
+  let zai;
+  try {
+    const ZAI = (await import("z-ai-web-dev-sdk")).default;
+    zai = await ZAI.create();
+  } catch (err) {
+    console.error(
+      "[llm] tidak ada penyedia LLM yang tersedia: GEMINI_API_KEY tidak " +
+        "terpasang dan kredensial z-ai-web-dev-sdk tidak ditemukan di environment.",
+      err instanceof Error ? err.message : err,
+    );
+    throw new Error("CHAT_PROVIDER_UNAVAILABLE");
+  }
 
   const completion = (await Promise.race([
     zai.chat.completions.create({

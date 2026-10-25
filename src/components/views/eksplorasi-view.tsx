@@ -152,8 +152,15 @@ export function FilterPersebaranView({
       }
       setRegionAgg(regJson);
       setTopicAgg(topJson);
-    } catch {
-      setAggError("Agregasi hasil filter gagal dimuat. Silakan coba lagi.");
+    } catch (e) {
+      // Tampilkan pesan error dari API bila tersedia (sudah aman & informatif);
+      // pesan generik hanya untuk kegagalan jaringan.
+      const apiMsg = e instanceof Error ? e.message : "";
+      setAggError(
+        apiMsg && apiMsg !== "gagal"
+          ? apiMsg
+          : "Agregasi hasil filter gagal dimuat. Silakan coba lagi.",
+      );
       setRegionAgg(null);
       setTopicAgg(null);
     } finally {

@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { db } from "@/lib/db";
 import { Prisma } from "@prisma/client";
+import { classifyDbError } from "@/lib/db-errors";
 
 export const dynamic = "force-dynamic";
 
@@ -96,9 +97,10 @@ export async function GET(request: NextRequest) {
     });
   } catch (err) {
     console.error("[api/articles] error:", err);
+    const info = classifyDbError(err);
     return NextResponse.json(
-      { error: "Gagal memuat data berita. Silakan coba lagi." },
-      { status: 500 },
+      { error: info.pesan, code: info.code },
+      { status: info.code === "DB_NOT_CONFIGURED" || info.code === "DB_AUTH" || info.code === "DB_EMPTY" ? 503 : 500 },
     );
   }
 }

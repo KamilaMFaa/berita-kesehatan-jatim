@@ -151,16 +151,40 @@ memakai SQLite lokal seperti biasa — tidak ada perubahan perilaku.
 
 ### 4.3 Catatan penting di Vercel
 
-- **Chatbot** memakai Gemini via `GEMINI_API_KEY` (model bawaan `gemini-2.0-flash`,
-  dapat diganti lewat `GEMINI_MODEL`). Semua batasan topik/etika tetap berlaku;
-  tanpa key ini, menu chatbot akan menampilkan pesan error yang ramah — fitur lain
-  tetap berfungsi normal.
+- **Chatbot** memakai Gemini via `GEMINI_API_KEY` (model bawaan `gemini-3.5-flash-lite`,
+  dapat diganti lewat `GEMINI_MODEL`, mis. `gemini-3.8-flash`). Semua batasan topik/etika
+  tetap berlaku; tanpa key ini, menu chatbot akan menampilkan pesan error yang ramah — fitur
+  lain tetap berfungsi normal.
+- **Troubleshooting chatbot**: bila chatbot error, periksa **Vercel Dashboard → Logs**
+  (fungsi `/api/chat`). Log menampilkan penyebab pasti:
+  - `GEMINI_AUTH` → API key ditolak Google: cek `GEMINI_API_KEY` terpasang pada environment
+    **Production** (bukan hanya Preview), lalu **deploy ulang** (perubahan env tidak berlaku
+    tanpa redeploy).
+  - `GEMINI_MODEL` → nama model tidak tersedia: Google memensiunkan model lama
+    (`gemini-2.0-flash` mati 1 Juni 2026; `gemini-2.5-flash` dibatasi akses). Set
+    `GEMINI_MODEL` ke model aktif atau hapus env agar memakai bawaan.
 - **Beranda pertama kali** dapat terasa lambat beberapa detik (cold start serverless);
   akses berikutnya cepat.
 - Paket gratis Turso (5 GB, 1 miliar row-read/bulan) dan Vercel (Hobby) lebih dari cukup
   untuk skala proyek ini.
 - Untuk memperbarui data: jalankan `python3 scripts/prepare_data.py` + `bun scripts/seed.mjs`
   secara lokal, lalu `python3 scripts/make_turso_dump.py` dan impor ulang ke Turso.
+
+### 4.4 Troubleshooting halaman Filter (database)
+
+Bila halaman "Filter Topik dan Persebaran" gagal memuat data, API kini mengembalikan kode
+penyebab yang tampil langsung di UI — petakan tindakannya:
+
+| Kode | Penyebab | Tindakan pemilik situs |
+|------|----------|------------------------|
+| `DB_NOT_CONFIGURED` | `TURSO_DATABASE_URL`/`TURSO_AUTH_TOKEN` tidak terpasang (atau hanya di Preview) | Set keduanya pada environment **Production** di Vercel → **deploy ulang** |
+| `DB_AUTH` | Token/URL tidak cocok atau token salah | Buat ulang token (`turso db tokens create`) dan cocokkan URL database |
+| `DB_EMPTY` | Database Turso belum berisi tabel | Impor: `turso db shell <nama-db> < db/turso_dump.sql`, cek `SELECT COUNT(*) FROM Article` = 25022 |
+| `DB_FILE` | Aplikasi jatuh ke SQLite lokal di serverless | Pastikan `TURSO_DATABASE_URL` terpasang (env var, bukan hanya file `.env`) |
+| `DB_NETWORK` | Gangguan jaringan ke Turso | Coba lagi; cek status Turso |
+
+Detail error lengkap selalu tercatat di **Vercel Dashboard → Logs** per fungsi
+(`/api/articles`, `/api/articles/aggregate`) — tanpa kredensial.
 
 ## 5. Keputusan Teknis Penting (Audit Data)
 
