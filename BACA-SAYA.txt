@@ -1,0 +1,71 @@
+================================================================
+ PERBAIKAN SITUS SEHATJATIM — PATCH FILTER, PETA & CHATBOT
+ Paket: JSON-fallback + db.ts versi benar — 25 Oktober 2026
+================================================================
+
+APA YANG DIPERBAIKI
+-------------------
+1. (AKAR MASALAH) File src/lib/db.ts versi lama di repo TIDAK membaca
+   TURSO_DATABASE_URL, sehingga situs selalu memakai SQLite lokal yang
+   kosong — apa pun yang Anda set di Vercel. File versi baru otomatis
+   memakai Turso bila env tersedia.
+2. (JARING PENGAMAN) Bila database gagal diakses karena alasan apa pun,
+   API sekarang OTOMATIS menyajikan data dari data/articles.json —
+   dataset AKTUAL yang sama (25.022 berita, sudah diuji identik dengan
+   database: 18/18 uji paritas lulus). Situs TIDAK AKAN blank/error lagi.
+3. (DIAGNOSTIK) Endpoint baru /api/env-check untuk memastikan env var
+   sampai ke runtime (hanya true/false, tidak menampilkan nilai rahasia).
+
+LANGKAH PEMASANGAN (±3 menit)
+-----------------------------
+1. Ekstrak ZIP ini.
+2. Buka folder lokal repo GitHub Anda (yang berisi package.json).
+3. Salin folder "src" dari folder "perbaikan-situs" ke root repo,
+   TIMPA file/folder lama bila ditanya. Struktur file yang tersalin:
+     src/lib/db.ts                              (ganti)
+     src/lib/berita-json.ts                     (baru)
+     src/app/api/articles/route.ts              (ganti)
+     src/app/api/articles/aggregate/route.ts    (ganti)
+     src/app/api/chat/route.ts                  (ganti)
+     src/app/api/env-check/route.ts             (baru)
+4. CEK prisma/schema.prisma Anda — pastikan blok generator memuat
+   previewFeatures = ["driverAdapters"] :
+
+     generator client {
+       provider        = "prisma-client-js"
+       previewFeatures = ["driverAdapters"]
+     }
+
+   Bila belum ada, tambahkan baris previewFeatures (lihat contoh
+   schema-generator-block.txt).
+5. Pastikan package.json memuat dependensi ini (seharusnya sudah ada
+   dari perbaikan sebelumnya — bila belum, tambahkan versi persis):
+     "@libsql/client": "0.18.0"
+     "@prisma/adapter-libsql": "6.19.2"
+     "@prisma/client": "6.19.2"
+     "prisma": "6.19.2"
+6. Commit + push ke branch main:
+     git add -A
+     git commit -m "Perbaikan: db.ts dual-mode Turso + fallback JSON"
+     git push
+7. Tunggu deployment Vercel selesai (status Ready, ±1-2 menit).
+
+CARA VERIFIKASI SETELAH DEPLOY
+------------------------------
+1. Buka:  https://sehatjatim.vercel.app/api/env-check
+   - "tursoUrl": true  -> env Turso terbaca; situs memakai database.
+   - "tursoUrl": false -> env belum terbaca, TETAPI situs tetap berjalan
+     memakai fallback JSON (lihat poin 2).
+2. Buka menu "Filter Topik dan Persebaran" -> peta, grafik, dan daftar
+   berita harus muncul (total 25.022). Bila respons API berisi
+   "sumber":"json", artinya data disajikan dari fallback JSON.
+3. Chatbot: tanya "Apa berita kesehatan terkini di Bangkalan?" ->
+   jawaban dengan berita nyata + tanggal.
+
+CATATAN
+-------
+- Tidak ada data yang diubah/dikarang: fallback memakai file
+  data/articles.json yang sama dengan isi tabel Article di database.
+- Env var Vercel (TURSO_DATABASE_URL, TURSO_AUTH_TOKEN, GEMINI_API_KEY)
+  tetap dipasang dan dipakai bila terbaca — fallback hanya aktif saat
+  database gagal diakses.

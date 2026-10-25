@@ -1,0 +1,12 @@
+// Schema database website Berita Kesehatan Jawa Timur
+// Sumber data: hasil SBERT-BERTopic mode penuh (25.022 artikel) dari peneliti.
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("TURSO_DATABASE_URL")
+}

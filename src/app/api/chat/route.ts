@@ -4,6 +4,7 @@ import { getAggregates } from "@/lib/app-data";
 import { detectRegion, regionDisplayList } from "@/lib/region-match";
 import { chatComplete } from "@/lib/llm";
 import { classifyDbError } from "@/lib/db-errors";
+import { latestNewsJson } from "@/lib/berita-json";
 
 export const dynamic = "force-dynamic";
 export const maxDuration = 60;
@@ -402,20 +403,30 @@ export async function POST(request: NextRequest) {
       try {
         rows = await queryLatestNews(regionHit?.regions ?? null, issueKeyword);
       } catch (err) {
-        console.error("[api/chat] error (query berita dataset):", err);
-        const info = classifyDbError(err);
-        return NextResponse.json(
-          { error: info.pesan, code: info.code },
-          {
-            status:
-              info.code === "DB_NOT_CONFIGURED" ||
-              info.code === "DB_AUTH" ||
-              info.code === "DB_EMPTY" ||
-              info.code === "DB_VERSION_MISMATCH"
-                ? 503
-                : 500,
-          },
-        );
+        // FALLBACK JSON — bila database tidak tersedia (env Turso belum
+        // terpasang/kredensial gagal/tabel kosong), konteks berita diambil dari
+        // data/articles.json (dataset AKTUAL yang sama) sehingga jawaban
+        // berita tetap grounded dengan tanggal, bukan gagal 503.
+        console.error("[api/chat] DB gagal (query berita), pakai fallback JSON:", err);
+        try {
+          rows = latestNewsJson(regionHit?.regions ?? null, issueKeyword);
+          console.error(`[api/chat] fallback JSON aktif (konteks=${rows.length} berita)`);
+        } catch (fbErr) {
+          console.error("[api/chat] fallback JSON juga gagal:", fbErr);
+          const info = classifyDbError(err);
+          return NextResponse.json(
+            { error: info.pesan, code: info.code },
+            {
+              status:
+                info.code === "DB_NOT_CONFIGURED" ||
+                info.code === "DB_AUTH" ||
+                info.code === "DB_EMPTY" ||
+                info.code === "DB_VERSION_MISMATCH"
+                  ? 503
+                  : 500,
+            },
+          );
+        }
       }
       const dateMax = getAggregates().dateMax ?? "";
 
